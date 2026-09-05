@@ -24,6 +24,7 @@ jobs:
           node-version: 20
           cache: npm
       - run: npm ci
+      - uses: actions/configure-pages@v5
       - run: npm run release:build
         env:
           VITE_GITHUB_PAGES_REPO: ${{ github.event.repository.name }}
