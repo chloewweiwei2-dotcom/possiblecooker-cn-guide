@@ -1,0 +1,662 @@
+[
+  {
+    "id": "SR-01",
+    "title": "Sear/Sauté 的盖盖要求冲突",
+    "message": "Owner’s Guide 安全警告要求 Sear/Sauté 不盖盖，但功能 NOTE 及部分菜谱要求盖盖。官方资料存在不一致，本指南不自行判断；请对照原始说明书。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 2,
+        "printedPage": "1",
+        "section": "安全警告 22",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "2",
+        "section": "Sear/Saute NOTE",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 5,
+        "printedPage": "6",
+        "section": "Directions 4、6",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 6,
+        "printedPage": "8",
+        "section": "Directions 1–3",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 9,
+        "printedPage": "14",
+        "section": "Directions 4–5",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "Do not use the lid",
+      "You can use this function with or without the lid placed on the pot."
+    ],
+    "targets": [
+      "sear-saute",
+      "frittata",
+      "oatmeal",
+      "risotto",
+      "safety"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-02",
+    "title": "Sear/Sauté 预热与开始按钮顺序",
+    "message": "说明书先写预热 5 分钟，后写按 START/STOP；菜谱先按 START/STOP 再预热。顺序按各自原文保留，不互相改写。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "2",
+        "section": "Sear/Saute 步骤 3–4",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 5,
+        "printedPage": "6",
+        "section": "Directions 1",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "Allow the unit to heat up for 5-minutes prior to adding ingredients.",
+      "Press START/STOP to begin cooking."
+    ],
+    "targets": [
+      "sear-saute",
+      "frittata",
+      "minestrone",
+      "risotto",
+      "coconut-chicken",
+      "short-ribs",
+      "chicken-pot-pie"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-03",
+    "title": "首次无食物运行未指定模式",
+    "message": "首次使用写无食物运行 10 分钟，未指定功能；安全警告禁止无食物和液体使用 SLOW COOK，空锅加热不得超过 10 分钟。不自行指定首次运行模式。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 2,
+        "printedPage": "1",
+        "section": "Before First Use 4；警告 20、39",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "running the unit for 10 minutes without adding food",
+      "NEVER use SLOW COOK setting without food and liquids"
+    ],
+    "targets": [
+      "first-use",
+      "safety"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-04",
+    "title": "Steam 结束状态说明不一致",
+    "message": "Steam 步骤写结束显示 END，其下 NOTE 又写每个周期后自动 KEEP WARM；同节还提到显示设定温度，未提供设温步骤。保留原文，不推断显示行为。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "3",
+        "section": "Steam 步骤 4–6 和 NOTE",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "beep and display END.",
+      "automatically switch to KEEP WARM at the end of each cook cycle."
+    ],
+    "targets": [
+      "steam"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-05",
+    "title": "安全条款残句及编辑占位",
+    "message": "警告 4、15、19 存在残句或未填占位，43 末词截断；不能补成确定要求。其他重复警告也原序保留。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 1,
+        "printedPage": "封面",
+        "section": "安全警告 4、15、19",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 2,
+        "printedPage": "1",
+        "section": "安全警告 43",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "DO NOT attempt to modify the Add to warning section.",
+      "(state specific part or parts in question)",
+      "are clean and by wiping with a soft cloth",
+      "safe use of the applianc"
+    ],
+    "targets": [
+      "safety"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-06",
+    "title": "菠菜未写加入步骤",
+    "message": "官方 Ingredients 包含 1 bag (6 ounces) baby spinach，但 Directions 未明确说明加入步骤。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 10,
+        "printedPage": "16",
+        "section": "Ingredients 与 Directions 1–10",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "1 bag (6 ounces) baby spinach"
+    ],
+    "targets": [
+      "coconut-chicken"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-07",
+    "title": "魔鬼蛋步骤与 TIP 引用",
+    "message": "TIP 引用第 5 步替换腌汁，但第 5 步是冰浴；第 6、8 步重复处理剩余食材且碗的描述不同。原文保留，不合并步骤或改编号。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 8,
+        "printedPage": "13",
+        "section": "Directions 5、6、8；TIP",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "Substitute white wine or apple cider vinegar for the pickle brine in Step 5",
+      "place all remaining ingredients in a large bowl.",
+      "medium bowl with all remaining ingredients."
+    ],
+    "targets": [
+      "deviled-eggs"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-08",
+    "title": "燕麦粥切换功能后未写开始",
+    "message": "第 4 步设置 SLOW COOK、HI 和 3 小时后，原文未明确再次按 START/STOP。本指南不添加该步骤。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 6,
+        "printedPage": "8",
+        "section": "Directions 4",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "Turn dial to SLOW COOK, set temperature to HI, and set time to 3 hours."
+    ],
+    "targets": [
+      "oatmeal"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-09",
+    "title": "面包包装重量含义不明",
+    "message": "原文 2 loaves (16 ounces) 未明确重量是每条还是合计，不推断为每条 16 ounces。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 14,
+        "printedPage": "25",
+        "section": "Ingredients 第 1 项",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "2 loaves (16 ounces) cinnamon brioche bread"
+    ],
+    "targets": [
+      "bread-pudding"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-10",
+    "title": "Tenderloin 重量分数歧义",
+    "message": "原页重量写作 1–1/2 lbs，含连字符与分数，无法确定含义。保持该写法，不改成 1½ lbs 或另一个范围。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 16,
+        "printedPage": "28",
+        "section": "Sous Vide Chart / Tenderloin",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "1 tenderloin, 1–1/2 lbs, 2½ inches thick"
+    ],
+    "targets": [
+      "sous-vide-chart"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-11",
+    "title": "24–48 小时超过单次计时上限",
+    "message": "参考表牛胸肉时间为 24–48 hrs；Owner’s Guide 描述的单次计时上限为 24 小时。保留两者，不新增续时方法。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "3",
+        "section": "Sous Vide 步骤 3",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 16,
+        "printedPage": "28",
+        "section": "Sous Vide Chart / Beef brisket",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "1-hour increments from 12 to 24-hours.",
+      "145°F 24–48 hrs"
+    ],
+    "targets": [
+      "sous-vide",
+      "sous-vide-chart"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-12",
+    "title": "快速入门按钮拼写不一致",
+    "message": "Recipe Guide 快速入门写 START/START；Owner’s Guide 面板及按钮说明写 START/STOP。快速入门保留原文并提示，按钮说明使用 Owner’s Guide。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 4,
+        "printedPage": "4",
+        "section": "Getting Started 按钮标注",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "2",
+        "section": "Operating Buttons",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "START/START",
+      "START/STOP"
+    ],
+    "targets": [
+      "getting-started",
+      "buttons"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-13",
+    "title": "面包布丁标题时间与步骤时间",
+    "message": "标题 Cook 为 1 HOUR 15 MINUTES，步骤另列浸泡 10 分钟、烘烤 40 分钟、冷却 30 分钟。各值保留，不相加创造新的官方总时间。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 14,
+        "printedPage": "25",
+        "section": "Cook；Directions 3–5",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "COOK: 1 HOUR 15 MINUTES",
+      "sit for 10 minutes",
+      "set time to 40 minutes",
+      "cool in the pot for 30 minutes"
+    ],
+    "targets": [
+      "bread-pudding"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-14",
+    "title": "椰奶鸡腿红薯与土豆用词不同",
+    "message": "Ingredients 写 sweet potatoes（红薯），Directions 6、7 写 potatoes（土豆）。保留差异，不自行统一食材名称。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 10,
+        "printedPage": "16",
+        "section": "Ingredients；Directions 6、7",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "2 sweet potatoes",
+      "potatoes"
+    ],
+    "targets": [
+      "coconut-chicken"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-15",
+    "title": "Slow Cook 闭盖与中途搅拌",
+    "message": "安全警告 50 要求 SLOW COOK 始终闭盖；手撕猪肉菜谱第 2 步要求中途搅拌。保留官方不一致，不新增揭盖操作。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 2,
+        "printedPage": "1",
+        "section": "安全警告 50",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 11,
+        "printedPage": "18",
+        "section": "Directions 2",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "ALWAYS keep the lid closed.",
+      "stir the pork mixture halfway through cooking."
+    ],
+    "targets": [
+      "pulled-pork",
+      "slow-cook",
+      "safety"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-16",
+    "title": "慢炖表部分时间与可设置范围",
+    "message": "慢炖表 HIGH 鱼片 30–45 分钟、部分肉类 LOW 5–7 小时，与说明书 HI 最低 3 小时、LO 最低 6 小时的设置范围存在差异。保留原值，不发明设置方法。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "2",
+        "section": "Slow Cook NOTE",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 15,
+        "printedPage": "27",
+        "section": "Slow Cook Chart / Fish、fully cooked ham",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "SLOW COOK LO time may be adjusted between 6 and 12 hours.",
+      "SLOW COOK HI may be adjusted between 3 and 12 hours.",
+      "30–45 minutes",
+      "5–7 hours"
+    ],
+    "targets": [
+      "slow-cook",
+      "slow-cook-chart"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-17",
+    "title": "配件入烤箱警告与锅盖耐温提示",
+    "message": "安全警告 33 写不要将配件放进烤箱；Recipe Guide Product Tips 写内锅与玻璃盖可入烤箱至 500°F，Owner’s Guide Helpful Hints 仅明确内锅 500°F。范围存在不一致，不据此扩大配件用途。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 2,
+        "printedPage": "1",
+        "section": "安全警告 33",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 4,
+        "printedPage": "4",
+        "section": "Helpful Hints 1",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 4,
+        "printedPage": "5",
+        "section": "Product Tips",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "DO NOT place accessories in ... conventional oven",
+      "The inner pot and glass lid are oven safe up to 500°F."
+    ],
+    "targets": [
+      "product-tips",
+      "safety",
+      "helpful-hints",
+      "focaccia",
+      "buffalo-mac",
+      "chicken-pot-pie",
+      "berry-crisp"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-18",
+    "title": "Tips 提到 Roast，面板没有该功能",
+    "message": "Cooking Tips 写 Steam and Roast，但 Owner’s Guide 的 8 个功能没有 Roast。本指南保留原句，不新增 Roast 功能。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 4,
+        "printedPage": "5",
+        "section": "Cooking Tips",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "2",
+        "section": "Cooking Functions",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "For best Steam and Roast results use the Steam & Roasting Rack"
+    ],
+    "targets": [
+      "cooking-tips"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-19",
+    "title": "Braise 温度设置描述差异",
+    "message": "说明书 Braise 只说明显示默认温度，未列温度调整步骤；牛小排菜谱要求设 HI。保留各处说明，不补出按钮操作。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "3",
+        "section": "Braise 步骤 4–6",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 11,
+        "printedPage": "19",
+        "section": "Directions 6",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "The default temperature setting will display.",
+      "set temperature to HI"
+    ],
+    "targets": [
+      "braise",
+      "short-ribs"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-20",
+    "title": "Keep Warm 正向计时与设时 NOTE",
+    "message": "Keep Warm 写默认温度并正向计时，其 NOTE 又给出调整 cook time 的增量；未进一步说明两者关系。不推断工作机制。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "3",
+        "section": "Keep Warm 步骤及 NOTE",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "start counting up.",
+      "adjust cook time in 1-minute increments up to 1-hour or 5-minute increments up to 6-hours."
+    ],
+    "targets": [
+      "keep-warm"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": true,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-21",
+    "title": "操作说明残字与拼写",
+    "message": "Sear/Saute 步骤 5 句末多出 Steam；START/STOP 按钮说明止于 stop current.。保留原文并标记，不自动补句。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+        "pdfPage": 3,
+        "printedPage": "2",
+        "section": "Sear/Saute 5；Operating Buttons",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "SEAR/SAUTE function. Steam",
+      "will stop current."
+    ],
+    "targets": [
+      "sear-saute",
+      "buttons"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  },
+  {
+    "id": "SR-22",
+    "title": "单位与原文拼写保留",
+    "message": "蒸食表 parsley dill 没有连接词；低温表 prok 为原文拼写。调味关系及拼写不默默纠正，原文可对照。",
+    "sources": [
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 15,
+        "printedPage": "26",
+        "section": "Steam Chart / Potatoes, all",
+        "type": "official"
+      },
+      {
+        "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+        "pdfPage": 16,
+        "printedPage": "28",
+        "section": "Sous Vide Chart / Boneless prok chops",
+        "type": "official"
+      }
+    ],
+    "originalExcerpts": [
+      "parsley dill",
+      "Boneless prok chops"
+    ],
+    "targets": [
+      "steam-chart",
+      "sous-vide-chart"
+    ],
+    "status": "SOURCE_REVIEW_REQUIRED",
+    "safety": false,
+    "resolution": "保留原文与提示，等待人工检查；不自行纠正。"
+  }
+]

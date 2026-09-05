@@ -1,0 +1,459 @@
+{
+  "sourceFieldOccurrences": 74,
+  "ordinaryPageOccurrences": 80,
+  "stepStateOccurrences": 19,
+  "unique": [
+    {
+      "fahrenheit": 90,
+      "celsius": 30
+    },
+    {
+      "fahrenheit": 95,
+      "celsius": 35
+    },
+    {
+      "fahrenheit": 105,
+      "celsius": 40
+    },
+    {
+      "fahrenheit": 120,
+      "celsius": 50
+    },
+    {
+      "fahrenheit": 125,
+      "celsius": 50
+    },
+    {
+      "fahrenheit": 130,
+      "celsius": 55
+    },
+    {
+      "fahrenheit": 135,
+      "celsius": 55
+    },
+    {
+      "fahrenheit": 145,
+      "celsius": 65
+    },
+    {
+      "fahrenheit": 155,
+      "celsius": 70
+    },
+    {
+      "fahrenheit": 165,
+      "celsius": 75
+    },
+    {
+      "fahrenheit": 180,
+      "celsius": 80
+    },
+    {
+      "fahrenheit": 185,
+      "celsius": 85
+    },
+    {
+      "fahrenheit": 190,
+      "celsius": 90
+    },
+    {
+      "fahrenheit": 250,
+      "celsius": 120
+    },
+    {
+      "fahrenheit": 300,
+      "celsius": 150
+    },
+    {
+      "fahrenheit": 350,
+      "celsius": 175
+    },
+    {
+      "fahrenheit": 375,
+      "celsius": 190
+    },
+    {
+      "fahrenheit": 400,
+      "celsius": 205
+    },
+    {
+      "fahrenheit": 425,
+      "celsius": 220
+    },
+    {
+      "fahrenheit": 500,
+      "celsius": 260
+    }
+  ],
+  "occurrences": [
+    {
+      "path": "recipes.0.steps.6.text",
+      "f": 300,
+      "c": 150
+    },
+    {
+      "path": "recipes.2.steps.2.text",
+      "f": 95,
+      "c": 35
+    },
+    {
+      "path": "recipes.2.steps.3.text",
+      "f": 425,
+      "c": 220
+    },
+    {
+      "path": "recipes.3.steps.3.text",
+      "f": 400,
+      "c": 205
+    },
+    {
+      "path": "recipes.7.steps.1.text",
+      "f": 400,
+      "c": 205
+    },
+    {
+      "path": "recipes.10.steps.3.text",
+      "f": 350,
+      "c": 175
+    },
+    {
+      "path": "recipes.10.steps.4.text",
+      "f": 375,
+      "c": 190
+    },
+    {
+      "path": "recipes.11.steps.1.text",
+      "f": 350,
+      "c": 175
+    },
+    {
+      "path": "recipes.13.steps.0.text",
+      "f": 350,
+      "c": 175
+    },
+    {
+      "path": "recipes.13.steps.2.text",
+      "f": 300,
+      "c": 150
+    },
+    {
+      "path": "recipes.14.steps.3.text",
+      "f": 350,
+      "c": 175
+    },
+    {
+      "path": "functions.3.steps.1.text",
+      "f": 120,
+      "c": 50
+    },
+    {
+      "path": "functions.3.steps.1.text",
+      "f": 190,
+      "c": 90
+    },
+    {
+      "path": "functions.5.steps.2.text",
+      "f": 250,
+      "c": 120
+    },
+    {
+      "path": "functions.5.steps.2.text",
+      "f": 425,
+      "c": 220
+    },
+    {
+      "path": "functions.6.steps.2.text",
+      "f": 90,
+      "c": 30
+    },
+    {
+      "path": "functions.6.steps.2.text",
+      "f": 105,
+      "c": 40
+    },
+    {
+      "path": "articles.4.items.0.text",
+      "f": 500,
+      "c": 260
+    },
+    {
+      "path": "articles.7.items.2.text",
+      "f": 500,
+      "c": 260
+    },
+    {
+      "path": "charts.2.rows.0.cells.3",
+      "f": 125,
+      "c": 50
+    },
+    {
+      "path": "charts.2.rows.0.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.0.cells.3",
+      "f": 135,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.0.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.0.cells.3",
+      "f": 155,
+      "c": 70
+    },
+    {
+      "path": "charts.2.rows.1.cells.3",
+      "f": 125,
+      "c": 50
+    },
+    {
+      "path": "charts.2.rows.1.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.1.cells.3",
+      "f": 135,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.1.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.1.cells.3",
+      "f": 155,
+      "c": 70
+    },
+    {
+      "path": "charts.2.rows.2.cells.3",
+      "f": 125,
+      "c": 50
+    },
+    {
+      "path": "charts.2.rows.2.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.2.cells.3",
+      "f": 135,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.2.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.2.cells.3",
+      "f": 155,
+      "c": 70
+    },
+    {
+      "path": "charts.2.rows.3.cells.3",
+      "f": 125,
+      "c": 50
+    },
+    {
+      "path": "charts.2.rows.3.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.3.cells.3",
+      "f": 135,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.3.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.3.cells.3",
+      "f": 155,
+      "c": 70
+    },
+    {
+      "path": "charts.2.rows.4.cells.3",
+      "f": 125,
+      "c": 50
+    },
+    {
+      "path": "charts.2.rows.4.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.4.cells.3",
+      "f": 135,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.4.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.4.cells.3",
+      "f": 155,
+      "c": 70
+    },
+    {
+      "path": "charts.2.rows.5.cells.3",
+      "f": 125,
+      "c": 50
+    },
+    {
+      "path": "charts.2.rows.5.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.5.cells.3",
+      "f": 135,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.5.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.5.cells.3",
+      "f": 155,
+      "c": 70
+    },
+    {
+      "path": "charts.2.rows.6.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.7.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.8.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.9.cells.3",
+      "f": 145,
+      "c": 65
+    },
+    {
+      "path": "charts.2.rows.10.cells.3",
+      "f": 165,
+      "c": 75
+    },
+    {
+      "path": "charts.2.rows.11.cells.3",
+      "f": 165,
+      "c": 75
+    },
+    {
+      "path": "charts.2.rows.12.cells.3",
+      "f": 165,
+      "c": 75
+    },
+    {
+      "path": "charts.2.rows.13.cells.3",
+      "f": 165,
+      "c": 75
+    },
+    {
+      "path": "charts.2.rows.14.cells.3",
+      "f": 165,
+      "c": 75
+    },
+    {
+      "path": "charts.2.rows.15.cells.3",
+      "f": 165,
+      "c": 75
+    },
+    {
+      "path": "charts.2.rows.16.cells.3",
+      "f": 165,
+      "c": 75
+    },
+    {
+      "path": "charts.2.rows.17.cells.3",
+      "f": 165,
+      "c": 75
+    },
+    {
+      "path": "charts.2.rows.18.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.19.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.20.cells.3",
+      "f": 130,
+      "c": 55
+    },
+    {
+      "path": "charts.2.rows.21.cells.3",
+      "f": 180,
+      "c": 80
+    },
+    {
+      "path": "charts.2.rows.22.cells.3",
+      "f": 180,
+      "c": 80
+    },
+    {
+      "path": "charts.2.rows.23.cells.3",
+      "f": 180,
+      "c": 80
+    },
+    {
+      "path": "charts.2.rows.24.cells.3",
+      "f": 180,
+      "c": 80
+    },
+    {
+      "path": "charts.2.rows.25.cells.3",
+      "f": 180,
+      "c": 80
+    },
+    {
+      "path": "charts.2.rows.26.cells.3",
+      "f": 180,
+      "c": 80
+    },
+    {
+      "path": "charts.2.rows.27.cells.3",
+      "f": 185,
+      "c": 85
+    },
+    {
+      "path": "charts.2.rows.28.cells.3",
+      "f": 185,
+      "c": 85
+    },
+    {
+      "path": "charts.2.rows.29.cells.3",
+      "f": 190,
+      "c": 90
+    },
+    {
+      "path": "readerReviews.SR-17",
+      "f": 500,
+      "c": 260
+    }
+  ]
+}

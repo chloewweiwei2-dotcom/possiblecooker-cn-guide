@@ -1,0 +1,1166 @@
+[
+  {
+    "id": "steam-chart",
+    "title": "蒸食参考表 Steam Chart",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 15,
+      "printedPage": "26",
+      "section": "蒸食参考表 Steam Chart",
+      "type": "official"
+    },
+    "headers": [
+      "食材",
+      "大小／切配方式",
+      "加水量 WATER",
+      "调味建议",
+      "蒸制时间"
+    ],
+    "rows": [
+      {
+        "id": "steam-chart-1",
+        "cells": [
+          "洋蓟 Artichokes",
+          "整个",
+          "4 cups",
+          "橄榄油、柠檬皮屑",
+          "25–40 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-2",
+        "cells": [
+          "芦笋 Asparagus",
+          "整根",
+          "1 cup",
+          "橄榄油",
+          "7–13 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-3",
+        "cells": [
+          "四季豆 Beans, green",
+          "整根",
+          "1 cup",
+          "蒜末",
+          "6–10 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-4",
+        "cells": [
+          "黄荚菜豆 Beans, wax",
+          "整根",
+          "1 cup",
+          "意式调味料",
+          "6–10 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-5",
+        "cells": [
+          "甜菜 Beets",
+          "整个，不去皮",
+          "4 cups",
+          "蒜末",
+          "35–50 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-6",
+        "cells": [
+          "甜菜叶 Beet greens",
+          "粗切",
+          "1 cup",
+          "百里香",
+          "7–9 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-7",
+        "cells": [
+          "西兰花 Broccoli",
+          "修整的茎",
+          "1 cup",
+          "橄榄油",
+          "1–5 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-8",
+        "cells": [
+          "西兰花 Broccoli",
+          "小朵",
+          "1 cup",
+          "橄榄油",
+          "5–7 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-9",
+        "cells": [
+          "抱子甘蓝 Brussels sprouts",
+          "整个，修整",
+          "1 cup",
+          "百里香",
+          "8–15 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-10",
+        "cells": [
+          "卷心菜 Cabbage",
+          "切成楔形块",
+          "1 cup",
+          "柠檬汁",
+          "6–10 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-11",
+        "cells": [
+          "胡萝卜 Carrots",
+          "¼ inch 薄片",
+          "1 cup",
+          "枫糖浆",
+          "7–10 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-12",
+        "cells": [
+          "小胡萝卜 Carrots, baby",
+          "整个",
+          "1 cup",
+          "蜂蜜和姜",
+          "7–10 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-13",
+        "cells": [
+          "花椰菜 Cauliflower",
+          "小朵",
+          "1 cup",
+          "柠檬汁",
+          "5–10 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-14",
+        "cells": [
+          "带芯玉米 Corn on the cob",
+          "整根，去苞叶",
+          "2 cups",
+          "蒜味黄油",
+          "15–20 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-15",
+        "cells": [
+          "羽衣甘蓝 Kale",
+          "修整",
+          "1 cup",
+          "橄榄油和大蒜",
+          "5–8 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-16",
+        "cells": [
+          "秋葵 Okra",
+          "整个，修整",
+          "1 cup",
+          "炒香的葱",
+          "6–8 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-17",
+        "cells": [
+          "珍珠洋葱 Onions, pearl",
+          "整个",
+          "1 cup",
+          "柠檬汁",
+          "8–12 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-18",
+        "cells": [
+          "欧洲防风根 Parsnips",
+          "去皮，½ inch 薄片",
+          "1 cup",
+          "意式调味料",
+          "7–10 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-19",
+        "cells": [
+          "青豌豆 Peas, green",
+          "新鲜或冷冻，去荚",
+          "1 cup",
+          "薄荷和柠檬汁",
+          "2–4 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-20",
+        "cells": [
+          "甜脆豌豆 Peas, sugar snap",
+          "整荚，修整",
+          "1 cup",
+          "薄荷和柠檬汁",
+          "5–6 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-21",
+        "cells": [
+          "土豆（各类）Potatoes, all",
+          "½ inch 薄片",
+          "1 cup",
+          "欧芹、莳萝（原文 parsley dill）",
+          "8–12 minutes"
+        ],
+        "reviewIds": [
+          "SR-22"
+        ]
+      },
+      {
+        "id": "steam-chart-22",
+        "cells": [
+          "新土豆 Potatoes, new",
+          "整个",
+          "4 cups",
+          "欧芹或迷迭香",
+          "15–20 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-23",
+        "cells": [
+          "红薯 Potatoes, sweet",
+          "½ inch 块",
+          "1 cup",
+          "蜂蜜",
+          "8–12 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-24",
+        "cells": [
+          "菠菜 Spinach",
+          "整片叶子",
+          "1 cup",
+          "橄榄油和大蒜",
+          "3–5 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-25",
+        "cells": [
+          "奶油南瓜 Squash, butternut",
+          "去皮，½ inch 方块",
+          "1 cup",
+          "枫糖浆",
+          "7–10 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-26",
+        "cells": [
+          "芜菁 Turnips",
+          "½ inch 薄片",
+          "1 cup",
+          "意式调味料",
+          "8–12 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-27",
+        "cells": [
+          "芜菁叶 Turnip greens",
+          "粗切",
+          "1 cup",
+          "橄榄油和大蒜",
+          "4–8 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-28",
+        "cells": [
+          "瑞士甜菜 Swiss Chard",
+          "粗切",
+          "1 cup",
+          "橄榄油和大蒜",
+          "3–5 minutes"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "steam-chart-29",
+        "cells": [
+          "西葫芦 Zucchini",
+          "1 inch 薄片",
+          "1 cup",
+          "橄榄油和意式调味料",
+          "5–8 minutes"
+        ],
+        "reviewIds": []
+      }
+    ],
+    "notes": [],
+    "reviewIds": [
+      "SR-22"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [],
+    "originalText": " 27 \nQuestions? ninjakitchen.com26 \nVEGETABLE SIZE/PREPARATION WATER SEASONING IDEAS STEAMING TIME\nArtichokes whole 4 cups olive oil, lemon zest 25–40 minutes\nAsparagus whole spears 1 cup olive oil 7–13 minutes\nBeans, green whole 1 cup garlic, minced 6–10 minutes\nBeans, wax whole 1 cup Italian seasoning 6–10 minutes\nBeets whole, unpeeled 4 cups garlic, minced 35–50 minutes\nBeet greens coarsely chopped 1 cup thyme 7–9 minutes\nBroccoli trimmed stalks 1 cup olive oil 1–5 minutes\nBroccoli florets 1 cup olive oil 5–7 minutes\nBrussels sprouts whole, trimmed 1 cup thyme 8–15 minutes\nCabbage cut in wedges 1 cup lemon juice 6–10 minutes\nCarrots ¼ inch slices 1 cup maple syrup 7–10 minutes\nCarrots, baby whole 1 cup honey and ginger 7–10 minutes\nCauliflower florets 1 cup lemon juice 5–10 minutes\nCorn on the cob whole, husks removed 2 cups garlic butter 15–20 minutes\nKale trimmed 1 cup olive oil and garlic 5–8 minutes\nOkra whole, trimmed 1 cup sautéed scallions 6–8 minutes\nOnions, pearl whole 1 cup lemon juice 8–12 minutes\nParsnips peeled, ½ inch slices 1 cup Italian seasoning 7–10 minutes\nPeas, green fresh or frozen shelled 1 cup mint and lemon juice 2–4 minutes\nPeas, sugar snap whole pods, trimmed 1 cup mint and lemon juice 5–6 minutes\nPotatoes, all ½ inch slices 1 cup parsley dill 8–12 minutes\nPotatoes, new whole 4 cups parsley or rosemary 15–20 minutes\nPotatoes, sweet ½ inch chunks 1 cup honey 8–12 minutes\nSpinach whole leaves 1 cup olive oil and garlic 3–5 minutes\nSquash, butternut peeled, ½ inch cubes 1 cup maple syrup 7–10 minutes\nTurnips ½ inch slices 1 cup Italian seasoning 8–12 minutes\nTurnip greens coarsely chopped 1 cup olive oil and garlic 4–8 minutes\nSwiss Chard coarsely chopped 1 cup olive oil and garlic 3–5 minutes\nZucchini 1 inch slices 1 cup olive oil and Italian seasoning 5–8 minutes\nSTEAM CHART SLOW COOK CHART\nTYPE OF MEAT COOK TIME LOW COOK TIME HIGH\nBEEF\nTop or bottom round 8–10 hours 4–5 hours\nEye of the round 6–8 hours 3–4 hours\nChuck 8–10 hours 4–5 hours\nPot roast or brisket 7–9 hours 31/2–41/2 hours\nShort ribs 7–9 hours 31/2–41/2 hours\nFrozen meatballs (precooked) 6–8 hours 3–4 hours\nPORK\nBaby back or country ribs 7–9 hours 31/2–41/2 hours\nPork tenderloin 6–7 hours 3–4 hours\nPork loin or rib roast 7–9 hours 31/2–41/2 hours\nPork butt or shoulder 10–12 hours 5–6 hours\nHam, bone in (uncooked) 7–9 hours 31/2–41/2 hours\nHam (fully cooked) 5–7 hours 21/2–31/2 hours\nPOULTRY\nBoneless, skinless breast 6–7 hours 3–4 hours\nBoneless, skinless thighs 6–7 1/2 hours 3–41/2 hours\nBone-in breast 6–7 1/2 hours 3–41/2 hours\nBone-in thighs 7–9 hours 31/2–41/2 hours\nWhole chicken 7–9 hours 31/2–41/2 hours\nChicken wings 6–7 hours 3–4 hours\nTurkey breast or thighs 7–9 hours 31/2–41/2 hours\nFISH\n1–inch fillets N/A 30–45 minutes\nOTHER\nStew meat\n(beef, lamb, veal, rabbit) 7–9 hours 3–4 hours"
+  },
+  {
+    "id": "slow-cook-chart",
+    "title": "慢炖参考表 Slow Cook Chart",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 15,
+      "printedPage": "27",
+      "section": "慢炖参考表 Slow Cook Chart",
+      "type": "official"
+    },
+    "headers": [
+      "类别",
+      "肉类",
+      "LOW 烹饪时间",
+      "HIGH 烹饪时间"
+    ],
+    "rows": [
+      {
+        "id": "slow-cook-chart-1",
+        "cells": [
+          "牛肉",
+          "牛后腿上部或下部 Top or bottom round",
+          "8–10 hours",
+          "4–5 hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-2",
+        "cells": [
+          "牛肉",
+          "牛后腿眼肉 Eye of the round",
+          "6–8 hours",
+          "3–4 hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-3",
+        "cells": [
+          "牛肉",
+          "牛肩胛肉 Chuck",
+          "8–10 hours",
+          "4–5 hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-4",
+        "cells": [
+          "牛肉",
+          "炖烤牛肉或牛胸肉 Pot roast or brisket",
+          "7–9 hours",
+          "3½–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-5",
+        "cells": [
+          "牛肉",
+          "牛小排 Short ribs",
+          "7–9 hours",
+          "3½–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-6",
+        "cells": [
+          "牛肉",
+          "冷冻肉丸（预熟）Frozen meatballs (precooked)",
+          "6–8 hours",
+          "3–4 hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-7",
+        "cells": [
+          "猪肉",
+          "小排或乡村式排骨 Baby back or country ribs",
+          "7–9 hours",
+          "3½–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-8",
+        "cells": [
+          "猪肉",
+          "猪里脊 Pork tenderloin",
+          "6–7 hours",
+          "3–4 hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-9",
+        "cells": [
+          "猪肉",
+          "猪腰肉或烤肋排 Pork loin or rib roast",
+          "7–9 hours",
+          "3½–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-10",
+        "cells": [
+          "猪肉",
+          "猪上肩肉或肩肉 Pork butt or shoulder",
+          "10–12 hours",
+          "5–6 hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-11",
+        "cells": [
+          "猪肉",
+          "带骨火腿（未熟）Ham, bone in (uncooked)",
+          "7–9 hours",
+          "3½–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-12",
+        "cells": [
+          "猪肉",
+          "火腿（全熟）Ham (fully cooked)",
+          "5–7 hours",
+          "2½–3½ hours"
+        ],
+        "reviewIds": [
+          "SR-16"
+        ]
+      },
+      {
+        "id": "slow-cook-chart-13",
+        "cells": [
+          "禽肉",
+          "去骨去皮胸肉 Boneless, skinless breast",
+          "6–7 hours",
+          "3–4 hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-14",
+        "cells": [
+          "禽肉",
+          "去骨去皮腿肉 Boneless, skinless thighs",
+          "6–7½ hours",
+          "3–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-15",
+        "cells": [
+          "禽肉",
+          "带骨胸肉 Bone-in breast",
+          "6–7½ hours",
+          "3–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-16",
+        "cells": [
+          "禽肉",
+          "带骨腿肉 Bone-in thighs",
+          "7–9 hours",
+          "3½–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-17",
+        "cells": [
+          "禽肉",
+          "整鸡 Whole chicken",
+          "7–9 hours",
+          "3½–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-18",
+        "cells": [
+          "禽肉",
+          "鸡翅 Chicken wings",
+          "6–7 hours",
+          "3–4 hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-19",
+        "cells": [
+          "禽肉",
+          "火鸡胸肉或腿肉 Turkey breast or thighs",
+          "7–9 hours",
+          "3½–4½ hours"
+        ],
+        "reviewIds": []
+      },
+      {
+        "id": "slow-cook-chart-20",
+        "cells": [
+          "鱼",
+          "1-inch 鱼片",
+          "N/A（原文未提供）",
+          "30–45 minutes"
+        ],
+        "reviewIds": [
+          "SR-16"
+        ]
+      },
+      {
+        "id": "slow-cook-chart-21",
+        "cells": [
+          "其他",
+          "炖肉（牛、羊、犊牛、兔）Stew meat",
+          "7–9 hours",
+          "3–4 hours"
+        ],
+        "reviewIds": []
+      }
+    ],
+    "notes": [],
+    "reviewIds": [
+      "SR-16"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [
+      {
+        "number": 39,
+        "text": "可拆卸内锅中没有食物和液体时，切勿使用 SLOW COOK。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #39",
+          "type": "official"
+        }
+      },
+      {
+        "number": 50,
+        "text": "使用 SLOW COOK 时，始终保持锅盖关闭。",
+        "place": "",
+        "reviewIds": [
+          "SR-15"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #50",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": " 27 \nQuestions? ninjakitchen.com26 \nVEGETABLE SIZE/PREPARATION WATER SEASONING IDEAS STEAMING TIME\nArtichokes whole 4 cups olive oil, lemon zest 25–40 minutes\nAsparagus whole spears 1 cup olive oil 7–13 minutes\nBeans, green whole 1 cup garlic, minced 6–10 minutes\nBeans, wax whole 1 cup Italian seasoning 6–10 minutes\nBeets whole, unpeeled 4 cups garlic, minced 35–50 minutes\nBeet greens coarsely chopped 1 cup thyme 7–9 minutes\nBroccoli trimmed stalks 1 cup olive oil 1–5 minutes\nBroccoli florets 1 cup olive oil 5–7 minutes\nBrussels sprouts whole, trimmed 1 cup thyme 8–15 minutes\nCabbage cut in wedges 1 cup lemon juice 6–10 minutes\nCarrots ¼ inch slices 1 cup maple syrup 7–10 minutes\nCarrots, baby whole 1 cup honey and ginger 7–10 minutes\nCauliflower florets 1 cup lemon juice 5–10 minutes\nCorn on the cob whole, husks removed 2 cups garlic butter 15–20 minutes\nKale trimmed 1 cup olive oil and garlic 5–8 minutes\nOkra whole, trimmed 1 cup sautéed scallions 6–8 minutes\nOnions, pearl whole 1 cup lemon juice 8–12 minutes\nParsnips peeled, ½ inch slices 1 cup Italian seasoning 7–10 minutes\nPeas, green fresh or frozen shelled 1 cup mint and lemon juice 2–4 minutes\nPeas, sugar snap whole pods, trimmed 1 cup mint and lemon juice 5–6 minutes\nPotatoes, all ½ inch slices 1 cup parsley dill 8–12 minutes\nPotatoes, new whole 4 cups parsley or rosemary 15–20 minutes\nPotatoes, sweet ½ inch chunks 1 cup honey 8–12 minutes\nSpinach whole leaves 1 cup olive oil and garlic 3–5 minutes\nSquash, butternut peeled, ½ inch cubes 1 cup maple syrup 7–10 minutes\nTurnips ½ inch slices 1 cup Italian seasoning 8–12 minutes\nTurnip greens coarsely chopped 1 cup olive oil and garlic 4–8 minutes\nSwiss Chard coarsely chopped 1 cup olive oil and garlic 3–5 minutes\nZucchini 1 inch slices 1 cup olive oil and Italian seasoning 5–8 minutes\nSTEAM CHART SLOW COOK CHART\nTYPE OF MEAT COOK TIME LOW COOK TIME HIGH\nBEEF\nTop or bottom round 8–10 hours 4–5 hours\nEye of the round 6–8 hours 3–4 hours\nChuck 8–10 hours 4–5 hours\nPot roast or brisket 7–9 hours 31/2–41/2 hours\nShort ribs 7–9 hours 31/2–41/2 hours\nFrozen meatballs (precooked) 6–8 hours 3–4 hours\nPORK\nBaby back or country ribs 7–9 hours 31/2–41/2 hours\nPork tenderloin 6–7 hours 3–4 hours\nPork loin or rib roast 7–9 hours 31/2–41/2 hours\nPork butt or shoulder 10–12 hours 5–6 hours\nHam, bone in (uncooked) 7–9 hours 31/2–41/2 hours\nHam (fully cooked) 5–7 hours 21/2–31/2 hours\nPOULTRY\nBoneless, skinless breast 6–7 hours 3–4 hours\nBoneless, skinless thighs 6–7 1/2 hours 3–41/2 hours\nBone-in breast 6–7 1/2 hours 3–41/2 hours\nBone-in thighs 7–9 hours 31/2–41/2 hours\nWhole chicken 7–9 hours 31/2–41/2 hours\nChicken wings 6–7 hours 3–4 hours\nTurkey breast or thighs 7–9 hours 31/2–41/2 hours\nFISH\n1–inch fillets N/A 30–45 minutes\nOTHER\nStew meat\n(beef, lamb, veal, rabbit) 7–9 hours 3–4 hours"
+  },
+  {
+    "id": "sous-vide-chart",
+    "title": "低温慢煮参考表 Sous Vide Chart",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 16,
+      "printedPage": "28–29",
+      "section": "低温慢煮参考表 Sous Vide Chart",
+      "type": "official"
+    },
+    "headers": [
+      "类别",
+      "食材",
+      "份量／厚度",
+      "温度与烹饪时间"
+    ],
+    "rows": [
+      {
+        "id": "sous-vide-chart-1",
+        "cells": [
+          "牛肉",
+          "去骨肋眼 Boneless ribeye",
+          "2 块牛排，每块 14 oz，厚 1–2 inches",
+          "125°F Rare：1–5 hrs；130°F Medium Rare：1–5 hrs；135°F Medium：1–5 hrs；145°F Medium Well：1–5 hrs；155°F Well Done：1–5 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 去骨肋眼 Boneless ribeye",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-2",
+        "cells": [
+          "牛肉",
+          "去骨肋眼 Boneless ribeye",
+          "3 块牛排，每块 14 oz，厚 1–2 inches",
+          "125°F Rare：1–5 hrs；130°F Medium Rare：1–5 hrs；135°F Medium：1–5 hrs；145°F Medium Well：1–5 hrs；155°F Well Done：1–5 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 去骨肋眼 Boneless ribeye",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-3",
+        "cells": [
+          "牛肉",
+          "红屋牛排 Porterhouse",
+          "2 块牛排，每块 14 oz，厚 1–2 inches",
+          "125°F Rare：1–5 hrs；130°F Medium Rare：1–5 hrs；135°F Medium：1–5 hrs；145°F Medium Well：1–5 hrs；155°F Well Done：1–5 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 红屋牛排 Porterhouse",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-4",
+        "cells": [
+          "牛肉",
+          "菲力牛排 Filet mignon",
+          "4 块牛排，每块 8 oz，厚 1–2 inches",
+          "125°F Rare：1–5 hrs；130°F Medium Rare：1–5 hrs；135°F Medium：1–5 hrs；145°F Medium Well：1–5 hrs；155°F Well Done：1–5 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 菲力牛排 Filet mignon",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-5",
+        "cells": [
+          "牛肉",
+          "腹胁牛排 Flank",
+          "3 块牛排，每块 12 oz，厚 1–2 inches",
+          "125°F Rare：2–5 hrs；130°F Medium Rare：2–5 hrs；135°F Medium：2–5 hrs；145°F Medium Well：2–5 hrs；155°F Well Done：2–5 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 腹胁牛排 Flank",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-6",
+        "cells": [
+          "牛肉",
+          "板腱牛排 Flat iron",
+          "2 块牛排，每块 10 oz，厚 1–2 inches",
+          "125°F Rare：2–5 hrs；130°F Medium Rare：2–5 hrs；135°F Medium：2–5 hrs；145°F Medium Well：2–5 hrs；155°F Well Done：2–5 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 板腱牛排 Flat iron",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-7",
+        "cells": [
+          "牛肉",
+          "牛胸肉 Beef brisket",
+          "3 lbs，厚 3–4 inches",
+          "145°F；24–48 hrs"
+        ],
+        "reviewIds": [
+          "SR-11"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 牛胸肉 Beef brisket",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-8",
+        "cells": [
+          "猪肉",
+          "去骨猪排 Boneless prok chops（保留原文 prok）",
+          "5 块猪排，每块 6–8 oz，厚 2½ inches",
+          "145°F；1–4 hrs"
+        ],
+        "reviewIds": [
+          "SR-22"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 去骨猪排 Boneless prok chops（保留原文 prok）",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-9",
+        "cells": [
+          "猪肉",
+          "带骨猪排 Bone-In pork chops",
+          "2 块猪排，每块 10–12 oz，厚 2½ inches",
+          "145°F；1–4 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 带骨猪排 Bone-In pork chops",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-10",
+        "cells": [
+          "猪肉",
+          "里脊 Tenderloin",
+          "1 条里脊；原文重量 1–1/2 lbs（待核实）；厚 2½ inches",
+          "145°F；1–4 hrs"
+        ],
+        "reviewIds": [
+          "SR-10"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 里脊 Tenderloin",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-11",
+        "cells": [
+          "猪肉",
+          "香肠 Sausages",
+          "6 根，每根 2–3 oz",
+          "165°F；2–5 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 香肠 Sausages",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-12",
+        "cells": [
+          "猪肉",
+          "去骨猪肩肉 Boneless pork shoulder",
+          "3 lbs，厚 3–4 inches",
+          "165°F；12–24 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "28",
+          "section": "Sous Vide Chart / 去骨猪肩肉 Boneless pork shoulder",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-13",
+        "cells": [
+          "鸡肉",
+          "鸡胸 Chicken Breast",
+          "6 块，每块 6–8 oz，厚 1–2 inches",
+          "165°F；1–3 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 鸡胸 Chicken Breast",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-14",
+        "cells": [
+          "鸡肉",
+          "去骨鸡腿肉 Boneless Chicken Thighs",
+          "6 块，每块 4–6 oz，厚 1–2 inches",
+          "165°F；1–3 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 去骨鸡腿肉 Boneless Chicken Thighs",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-15",
+        "cells": [
+          "鸡肉",
+          "带骨鸡腿肉 Bone-In Chicken Thighs",
+          "4 块，每块 4–6 oz，厚 1–2 inches",
+          "165°F；1½–4 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 带骨鸡腿肉 Bone-In Chicken Thighs",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-16",
+        "cells": [
+          "鸡肉",
+          "鸡腿四分体 Chicken Leg Quarters",
+          "2 块，每块 12–14 oz，厚 1–2 inches",
+          "165°F；1½–4 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 鸡腿四分体 Chicken Leg Quarters",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-17",
+        "cells": [
+          "鸡肉",
+          "鸡翅与翅根 Chicken Wings & Drummettes",
+          "2 lbs",
+          "165°F；1–3 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 鸡翅与翅根 Chicken Wings & Drummettes",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-18",
+        "cells": [
+          "鸡肉",
+          "半只鸡 Half Chicken",
+          "2½–3 lbs",
+          "165°F；2–3 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 半只鸡 Half Chicken",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-19",
+        "cells": [
+          "海鲜",
+          "白肉鱼 Whitefish（Cod 鳕鱼、Haddock 黑线鳕、Whiting 牙鳕、Pollock 狭鳕）",
+          "2 份，每份 6–10 oz，厚 1–2 inches",
+          "130°F；1 hr–1½ hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 白肉鱼 Whitefish（Cod 鳕鱼、Haddock 黑线鳕、Whiting 牙鳕、Pollock 狭鳕）",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-20",
+        "cells": [
+          "海鲜",
+          "三文鱼 Salmon",
+          "4 份，每份 6–10 oz，厚 1–2 inches",
+          "130°F；1 hr–1½ hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 三文鱼 Salmon",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-21",
+        "cells": [
+          "海鲜",
+          "虾 Shrimp",
+          "2 lbs",
+          "130°F；30 mins–2 hrs"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 虾 Shrimp",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-22",
+        "cells": [
+          "蔬菜",
+          "芦笋 Asparagus",
+          "1–2 lbs",
+          "180°F；30 mins"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 芦笋 Asparagus",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-23",
+        "cells": [
+          "蔬菜",
+          "西兰花 Broccoli",
+          "1–1½ lbs",
+          "180°F；30 mins"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 西兰花 Broccoli",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-24",
+        "cells": [
+          "蔬菜",
+          "抱子甘蓝 Brussels Sprouts",
+          "1–2 lbs",
+          "180°F；45 mins"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 抱子甘蓝 Brussels Sprouts",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-25",
+        "cells": [
+          "蔬菜",
+          "胡萝卜 Carrots",
+          "1–1½ lbs",
+          "180°F；45 mins"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 胡萝卜 Carrots",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-26",
+        "cells": [
+          "蔬菜",
+          "花椰菜 Cauliflower",
+          "1–1½ lbs",
+          "180°F；30 mins"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 花椰菜 Cauliflower",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-27",
+        "cells": [
+          "蔬菜",
+          "四季豆 Green Beans",
+          "1–1½ lbs",
+          "180°F；30 mins"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 四季豆 Green Beans",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-28",
+        "cells": [
+          "蔬菜",
+          "南瓜 Squash",
+          "1–1½ lbs",
+          "185°F；1 hr"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 南瓜 Squash",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-29",
+        "cells": [
+          "蔬菜",
+          "红薯 Sweet Potatoes",
+          "1–1½ lbs",
+          "185°F；1 hr"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 红薯 Sweet Potatoes",
+          "type": "official"
+        }
+      },
+      {
+        "id": "sous-vide-chart-30",
+        "cells": [
+          "蔬菜",
+          "土豆 Potatoes",
+          "1–2 lbs",
+          "190°F；1 hr"
+        ],
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+          "pdfPage": 16,
+          "printedPage": "29",
+          "section": "Sous Vide Chart / 土豆 Potatoes",
+          "type": "official"
+        }
+      }
+    ],
+    "notes": [
+      "请注意：表中的时间范围包括最短和最长烹饪时间；超过最长时间后，食物会开始劣化。",
+      "烹饪时间取决于食物重量及厚度，较厚的肉块需要更久。如食材厚于 2 1/2 inches，应增加时间。（原文未给出具体增加量。）"
+    ],
+    "reviewIds": [
+      "SR-10",
+      "SR-11",
+      "SR-22"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [],
+    "originalText": " 29 \nQuestions? ninjakitchen.com28  18Questions? ninjakitchen.com\nINGREDIENT AMOUNT TEMP COOK TIME\nBEEF\nBoneless ribeye 2 steaks, 14 oz each, 1–2 inches thick 125°F Rare\n130°F Medium Rare\n135°F Medium\n145°F Medium Well\n155°F Well Done\n1–5 hrs\n1–5 hrs\n1–5 hrs\n1–5 hrs\n1–5 hrs\nBoneless ribeye 3 steaks, 14 oz each, 1–2 inches thick\nPorterhouse 2 steaks, 14 oz each, 1–2 inches thick\nFilet mignon 4 steaks, 8 oz each, 1–2 inches thick\nFlank 3 steaks, 12 oz each, 1–2 inches thick\n125°F Rare\n130°F Medium Rare\n135°F Medium\n145°F Medium Well\n155°F Well Done\n2–5 hrs \n2–5 hrs \n2–5 hrs \n2–5 hrs \n2–5 hrs\nFlat iron 2 steaks, 10 oz each, 1–2 inches thick\nBeef brisket 3 lbs, 3–4 inches thick 145°F 24–48 hrs\nPORK\nBoneless prok chops 5 chops, 6–8 oz each , 21/2 inches thick 145°F 1–4 hrs\nBone-In pork chops 2 chops, 10–12 oz each , 21/2 inches thick 145°F 1–4 hrs\nTenderloin 1 tenderloin, 1– 1/2 lbs, 21/2 inches thick 145°F 1–4 hrs\nSausages 6 sausages, 2–3 oz each 165°F 2–5 hrs\nBoneless pork shoulder 3 lbs, 3–4 inches thick 165°F 12–24 hrs\nPlease note the time ranges in this chart include the minimum cook time and the maximum cook time,  \nafter which food will start to degrade.\nCook time is dependent on the weight as well as the thickness of food, so thicker cuts of meat will require  \nlonger cook times. If your ingredients are thicker than 2 1/2 inches, add more time. \nSOUS VIDE CHART\nINGREDIENT AMOUNT TEMP COOK TIME\nCHICKEN\nChicken Breast 6 breasts, 6–8 oz each , 1–2 inches thick 165°F 1–3 hrs\nBoneless Chicken Thighs 6 thighs, 4–6 oz each , 1–2 inches thick 165°F 1–3 hrs\nBone-In Chicken Thighs 4 thighs, 4–6 oz each , 1–2 inches thick 165°F 11/2–4 hrs\nChicken Leg Quarters 2 quarters, 12–14 oz each , 1–2 inches thick 165°F 11/2–4 hrs\nChicken Wings & Drummettes 2 lbs 165°F 1–3 hrs\nHalf Chicken 21/2–3 lbs 165°F 2–3 hrs\nSEAFOOD\nWhitefish \n(Cod, Haddock, Whiting, Pollock) 2 portions, 6–10 oz each , 1–2 inches thick 130°F 1 hr–11/2 hrs\nSalmon 4 portions, 6–10 oz each , 1–2 inches thick 130°F 1 hr–11/2 hrs\nShrimp 2 lbs 130°F 30 mins–2 hrs\nVEGETABLES\nAsparagus 1–2 lbs 180°F 30 mins\nBroccoli 1–11/2 lbs 180°F 30 mins\nBrussels Sprouts 1–2 lbs 180°F 45 mins\nCarrots 1–11/2 lbs 180°F 45 mins\nCauliflower 1–11/2 lbs 180°F 30 mins\nGreen Beans 1–11/2 lbs 180°F 30 mins\nSquash 1–11/2 lbs 185°F 1 hr\nSweet Potatoes 1–11/2 lbs 185°F 1 hr\nPotatoes 1–2 lbs 190°F 1 hr"
+  }
+]

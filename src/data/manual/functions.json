@@ -1,0 +1,597 @@
+[
+  {
+    "id": "slow-cook",
+    "title": "Slow Cook",
+    "titleZh": "慢炖",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+      "pdfPage": 3,
+      "printedPage": "2–3",
+      "section": "Slow Cook",
+      "type": "official"
+    },
+    "description": "以较低温度长时间烹饪食物。",
+    "steps": [
+      {
+        "number": 1,
+        "text": "用旋钮选择 SLOW COOK。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "按 +/- TEMP 箭头选择 HI 或 LO。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "在 3–12 小时之间选择时间，以 15 分钟为增量。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "按 START/STOP 开始计时烹饪。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "时间归零时，机器鸣响，自动切换至 KEEP WARM，并开始正向计时。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      }
+    ],
+    "notes": [
+      {
+        "number": 1,
+        "text": "NOTE：SLOW COOK 的 LO 时间可在 6–12 小时之间调整；HI 时间可在 3–12 小时之间调整。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-15",
+      "SR-16"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [
+      {
+        "number": 39,
+        "text": "可拆卸内锅中没有食物和液体时，切勿使用 SLOW COOK。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #39",
+          "type": "official"
+        }
+      },
+      {
+        "number": 50,
+        "text": "使用 SLOW COOK 时，始终保持锅盖关闭。",
+        "place": "",
+        "reviewIds": [
+          "SR-15"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #50",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "COOKING FUNCTIONS\nSlow Cook\n1   Use the dial to select SLOW COOK. \n2   Press the +/- TEMP arrows to select HI or LO.  \n3   Select a time between 3 and 12 hours in \n15-minute increments.  \n4   Press START/STOP to begin cook time.\n5   When cook time reaches zero, the unit will \nbeep, automatically switch to KEEP WARM, \nand begin counting up. \nSear/Saute\n1   Use the dial to select SEAR/SAUTE.\n2   Press the +/- TEMP buttons to choose HI or \nLO temperature.\n3   Allow the unit to heat up for 5-minutes prior \nto adding ingredients. \n4   Press START/STOP to begin cooking. \n5   Press START/STOP to turn off the SEAR/\nSAUTE function. Steam\n2 ninjakitchen.com\nGETTING TO KNOW THE NINJA® FOODI® \nPOSSIBLECOOKERTM PRO\nCOOKING FUNCTIONS\nSLOW COOK: Cook your food at a lower \ntemperature for a longer period of time.\nSEAR/SAUTE: Use the unit as a cooktop for \nbrowning meats, sauteing veggies, simmering \nsauces, and more.\nBRAISE: Transform tougher cuts of meat by \nfirst browning at high heat (with oil) and then \nsimmering in liquid at low heat.\nSOUS VIDE: French for “under vacuum,” this \nfunction slow cooks food sealed in a plastic bag \nin an accurately regulated water bath.\nSTEAM: Gently cook delicate foods at a high \ntemperature.  \nBAKE: Use the unit to bake sweet and savory \ncasseroles.  \nPROOF: Create an environment for dough to \nrest and rise. \nSteam\n1   Use the dial to select STEAM\n2   Use the +/- TIME arrows to adjust cook time \nin 1-minute increments. \n3   Press START/STOP to begin cooking.\n4   The display will show PrE, indicating the unit \nis preheating to selected temperature.\n5   When the unit reaches the appropriate steam \nlevel, the display will show the set temperature \nand the timer will begin to count down.\n6  When cook time reaches zero, the unit will \nbeep and display END.\nKeep Warm\n1   Use the dial to select KEEP WARM. \nTemperature will default and the unit will \nstart counting up. \nSous Vide\n1   Add 12 cups of room-temperature water to \nthe pot.\n2   Close the lid and turn the dial to SOUS VIDE. \nThe default temperature will display. Use the \nTEMP arrows to set temperature in 5-degree \nincrements between 120°F and 190°F. \n3   The cook time will default to 3 hours. Use \nthe TIME arrows to adjust cook time in \n15-minute increments up to 12 hours or 1-hour \nincrements from 12 to 24-hours. \n4   Press START/STOP to begin cooking.\n5   The unit display will flash between \"PrE\" and \nthe current temperature indicating pre-heat is \nin progress.\n6   Once preheating has complete ADD FOOD will \nflash on the display. After 30 seconds, the unit will \nstart counting down from the preset cook time.\nBraise\n1   Sear ingredients in the pot using the Sear/\nSaute instructions.\n2   Once complete, deglaze with wine or stock.\n3   Add remaining cooking liquid and \ningredients into the pot.\n4   Turn the dial to select BRAISE. The default \ntemperature setting will display.\n5   Use the +/- TIME arrows to set cook time in \n15-minute increments. \n6   Press START/STOP to begin cooking.  \nBake\n1   Place ingredients into the pot. \n2  Turn the dial to select BAKE. The default \ntemperature will display.\n3  Use the +/- TEMP arrows to set temperature \nbetween 250F and 425F. \n4  Use the +/- TIME arrows to adjust cook time \nin 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\n5   Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will \nbeep, and display END for 5 minutes. If food \nrequires more time, use +/- TIME arrows to \nadd time.\nProof\n1   Place dough in the pot and place the lid on \ntop.\n2   Turn the dial to select PROOF. The default \ntemperature setting will display. \n3   Use the +/- TEMP arrows to set temperature. \nin 5-degree increments between 90 °F and \n105°F. \n4   Use the +/- TIME arrows to adjust the proof \ntime in 5-minute increments. \n5  Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will beep, \nand END will flash 3 times on the display.\nNOTE: SLOW COOK LO time may be adjusted \nbetween 6 and 12 hours. SLOW COOK HI may be \nadjusted between 3 and 12 hours. \nNOTE: The timer will count up to keep track of \ncook time.\nNOTE: You can use this function with or \nwithout the lid placed on the pot.\nNOTE: To deglaze, pour 1 cup liquid into pot. \nScrape brown bits from bottom of pot and \nmix into cooking liquid. \nNOTE: DO NOT use metal utensils, they will \nscratch the nonstick coating on the pot. \nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO – CONT\nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO\nKEEP WARM: Reheat or keep cooked food \nwarm for longer periods of time. \nOPERATING BUTTONS\n (POWER): The Power button shuts the unit \noff and stops all cooking modes.\nTEMPERATURE ARROWS: Use the up/down \narrows to the left of the display to adjust the \ncooking temperature. \nTIME ARROWS: Use the up/down arrows to the \nright of the display to adjust the cooking time.\nSTART/STOP button: Press START to begin \ncooking. Pressing START/STOP during a cook \ncycle will stop current.\nFunction Dial:  Use the dial to select a cook \nfunction.\n3ninjakitchen.com\nNOTE: If no cooking function is chosen, the \nunit will shut off after 10 minutes. \nNOTE: Use one cup or more of liquid when \nsteaming.\nNOTE: Use the +/- TIME arrows to adjust cook \ntime in 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\nNOTE: For best results do not use the unit \nprior to cooking and do not use warm water. \nNOTE: The unit will automatically switch to \nKEEP WARM at the end of each cook cycle. \nNOTE: If you poke perfectly proofed dough \nwith your finger, the indentation will hold its \nshape and disappear slowly. If more proofing \nis needed, the dough will spring back and not \nhold the indentation.\nNOTE: Sous vide is almost always the first \nstep in the cooking process. Foods should be \nfinished by using a dry heat method such as \nbroiling, sautéing, roasting, or air frying."
+  },
+  {
+    "id": "sear-saute",
+    "title": "Sear / Sauté",
+    "titleZh": "煎 / 炒",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+      "pdfPage": 3,
+      "printedPage": "2–3",
+      "section": "Sear / Sauté",
+      "type": "official"
+    },
+    "description": "像使用炉灶一样使用本机，可给肉类上色、炒蔬菜、煨酱汁等。",
+    "steps": [
+      {
+        "number": 1,
+        "text": "用旋钮选择 SEAR/SAUTE。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "按 +/- TEMP 按钮选择 HI 或 LO 温度。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "加入食材前，让机器预热 5 分钟。",
+        "place": "PossibleCooker",
+        "reviewIds": [
+          "SR-02"
+        ]
+      },
+      {
+        "number": 4,
+        "text": "按 START/STOP 开始烹饪。",
+        "place": "PossibleCooker",
+        "reviewIds": [
+          "SR-02"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "按 START/STOP 关闭 SEAR/SAUTE 功能。原文句末另有“Steam”。",
+        "place": "PossibleCooker",
+        "reviewIds": [
+          "SR-21"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "number": 1,
+        "text": "NOTE：计时器会正向计时，以记录烹饪时间。",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "NOTE：不要使用金属器具，它们会划伤内锅的不粘涂层。",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "NOTE：使用此功能时，可以盖上锅盖，也可以不盖。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ]
+      }
+    ],
+    "reviewIds": [
+      "SR-01",
+      "SR-02",
+      "SR-21"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "COOKING FUNCTIONS\nSlow Cook\n1   Use the dial to select SLOW COOK. \n2   Press the +/- TEMP arrows to select HI or LO.  \n3   Select a time between 3 and 12 hours in \n15-minute increments.  \n4   Press START/STOP to begin cook time.\n5   When cook time reaches zero, the unit will \nbeep, automatically switch to KEEP WARM, \nand begin counting up. \nSear/Saute\n1   Use the dial to select SEAR/SAUTE.\n2   Press the +/- TEMP buttons to choose HI or \nLO temperature.\n3   Allow the unit to heat up for 5-minutes prior \nto adding ingredients. \n4   Press START/STOP to begin cooking. \n5   Press START/STOP to turn off the SEAR/\nSAUTE function. Steam\n2 ninjakitchen.com\nGETTING TO KNOW THE NINJA® FOODI® \nPOSSIBLECOOKERTM PRO\nCOOKING FUNCTIONS\nSLOW COOK: Cook your food at a lower \ntemperature for a longer period of time.\nSEAR/SAUTE: Use the unit as a cooktop for \nbrowning meats, sauteing veggies, simmering \nsauces, and more.\nBRAISE: Transform tougher cuts of meat by \nfirst browning at high heat (with oil) and then \nsimmering in liquid at low heat.\nSOUS VIDE: French for “under vacuum,” this \nfunction slow cooks food sealed in a plastic bag \nin an accurately regulated water bath.\nSTEAM: Gently cook delicate foods at a high \ntemperature.  \nBAKE: Use the unit to bake sweet and savory \ncasseroles.  \nPROOF: Create an environment for dough to \nrest and rise. \nSteam\n1   Use the dial to select STEAM\n2   Use the +/- TIME arrows to adjust cook time \nin 1-minute increments. \n3   Press START/STOP to begin cooking.\n4   The display will show PrE, indicating the unit \nis preheating to selected temperature.\n5   When the unit reaches the appropriate steam \nlevel, the display will show the set temperature \nand the timer will begin to count down.\n6  When cook time reaches zero, the unit will \nbeep and display END.\nKeep Warm\n1   Use the dial to select KEEP WARM. \nTemperature will default and the unit will \nstart counting up. \nSous Vide\n1   Add 12 cups of room-temperature water to \nthe pot.\n2   Close the lid and turn the dial to SOUS VIDE. \nThe default temperature will display. Use the \nTEMP arrows to set temperature in 5-degree \nincrements between 120°F and 190°F. \n3   The cook time will default to 3 hours. Use \nthe TIME arrows to adjust cook time in \n15-minute increments up to 12 hours or 1-hour \nincrements from 12 to 24-hours. \n4   Press START/STOP to begin cooking.\n5   The unit display will flash between \"PrE\" and \nthe current temperature indicating pre-heat is \nin progress.\n6   Once preheating has complete ADD FOOD will \nflash on the display. After 30 seconds, the unit will \nstart counting down from the preset cook time.\nBraise\n1   Sear ingredients in the pot using the Sear/\nSaute instructions.\n2   Once complete, deglaze with wine or stock.\n3   Add remaining cooking liquid and \ningredients into the pot.\n4   Turn the dial to select BRAISE. The default \ntemperature setting will display.\n5   Use the +/- TIME arrows to set cook time in \n15-minute increments. \n6   Press START/STOP to begin cooking.  \nBake\n1   Place ingredients into the pot. \n2  Turn the dial to select BAKE. The default \ntemperature will display.\n3  Use the +/- TEMP arrows to set temperature \nbetween 250F and 425F. \n4  Use the +/- TIME arrows to adjust cook time \nin 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\n5   Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will \nbeep, and display END for 5 minutes. If food \nrequires more time, use +/- TIME arrows to \nadd time.\nProof\n1   Place dough in the pot and place the lid on \ntop.\n2   Turn the dial to select PROOF. The default \ntemperature setting will display. \n3   Use the +/- TEMP arrows to set temperature. \nin 5-degree increments between 90 °F and \n105°F. \n4   Use the +/- TIME arrows to adjust the proof \ntime in 5-minute increments. \n5  Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will beep, \nand END will flash 3 times on the display.\nNOTE: SLOW COOK LO time may be adjusted \nbetween 6 and 12 hours. SLOW COOK HI may be \nadjusted between 3 and 12 hours. \nNOTE: The timer will count up to keep track of \ncook time.\nNOTE: You can use this function with or \nwithout the lid placed on the pot.\nNOTE: To deglaze, pour 1 cup liquid into pot. \nScrape brown bits from bottom of pot and \nmix into cooking liquid. \nNOTE: DO NOT use metal utensils, they will \nscratch the nonstick coating on the pot. \nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO – CONT\nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO\nKEEP WARM: Reheat or keep cooked food \nwarm for longer periods of time. \nOPERATING BUTTONS\n (POWER): The Power button shuts the unit \noff and stops all cooking modes.\nTEMPERATURE ARROWS: Use the up/down \narrows to the left of the display to adjust the \ncooking temperature. \nTIME ARROWS: Use the up/down arrows to the \nright of the display to adjust the cooking time.\nSTART/STOP button: Press START to begin \ncooking. Pressing START/STOP during a cook \ncycle will stop current.\nFunction Dial:  Use the dial to select a cook \nfunction.\n3ninjakitchen.com\nNOTE: If no cooking function is chosen, the \nunit will shut off after 10 minutes. \nNOTE: Use one cup or more of liquid when \nsteaming.\nNOTE: Use the +/- TIME arrows to adjust cook \ntime in 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\nNOTE: For best results do not use the unit \nprior to cooking and do not use warm water. \nNOTE: The unit will automatically switch to \nKEEP WARM at the end of each cook cycle. \nNOTE: If you poke perfectly proofed dough \nwith your finger, the indentation will hold its \nshape and disappear slowly. If more proofing \nis needed, the dough will spring back and not \nhold the indentation.\nNOTE: Sous vide is almost always the first \nstep in the cooking process. Foods should be \nfinished by using a dry heat method such as \nbroiling, sautéing, roasting, or air frying."
+  },
+  {
+    "id": "braise",
+    "title": "Braise",
+    "titleZh": "焖炖",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+      "pdfPage": 3,
+      "printedPage": "2–3",
+      "section": "Braise",
+      "type": "official"
+    },
+    "description": "先用高温（加油）将肉煎至上色，再在液体中以低温煨煮，使较韧的肉块变软。",
+    "steps": [
+      {
+        "number": 1,
+        "text": "按照 Sear/Saute 说明在锅中煎食材。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "完成后，用葡萄酒或高汤化开锅底焦香物（deglaze）。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "将剩余烹饪液和食材加入锅中。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "转动旋钮选择 BRAISE。屏幕显示默认温度设置。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "用 +/- TIME 箭头设置烹饪时间，以 15 分钟为增量。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "按 START/STOP 开始烹饪。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      }
+    ],
+    "notes": [
+      {
+        "number": 1,
+        "text": "NOTE：化开锅底焦香物时，向锅中倒入 1 cup 液体，刮起锅底褐色附着物，并混入烹饪液。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-19"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [
+      {
+        "number": 24,
+        "text": "注意：使用 Braise 时，内锅和锅盖会很热。触碰热表面及取出食物时应小心，以免烫伤。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #24",
+          "type": "official"
+        }
+      },
+      {
+        "number": 34,
+        "text": "注意：热锅可能损坏台面或桌面。将热内锅从机器中取出时，不要直接放在没有保护的表面上。始终放在隔热垫或架子上。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #34",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "COOKING FUNCTIONS\nSlow Cook\n1   Use the dial to select SLOW COOK. \n2   Press the +/- TEMP arrows to select HI or LO.  \n3   Select a time between 3 and 12 hours in \n15-minute increments.  \n4   Press START/STOP to begin cook time.\n5   When cook time reaches zero, the unit will \nbeep, automatically switch to KEEP WARM, \nand begin counting up. \nSear/Saute\n1   Use the dial to select SEAR/SAUTE.\n2   Press the +/- TEMP buttons to choose HI or \nLO temperature.\n3   Allow the unit to heat up for 5-minutes prior \nto adding ingredients. \n4   Press START/STOP to begin cooking. \n5   Press START/STOP to turn off the SEAR/\nSAUTE function. Steam\n2 ninjakitchen.com\nGETTING TO KNOW THE NINJA® FOODI® \nPOSSIBLECOOKERTM PRO\nCOOKING FUNCTIONS\nSLOW COOK: Cook your food at a lower \ntemperature for a longer period of time.\nSEAR/SAUTE: Use the unit as a cooktop for \nbrowning meats, sauteing veggies, simmering \nsauces, and more.\nBRAISE: Transform tougher cuts of meat by \nfirst browning at high heat (with oil) and then \nsimmering in liquid at low heat.\nSOUS VIDE: French for “under vacuum,” this \nfunction slow cooks food sealed in a plastic bag \nin an accurately regulated water bath.\nSTEAM: Gently cook delicate foods at a high \ntemperature.  \nBAKE: Use the unit to bake sweet and savory \ncasseroles.  \nPROOF: Create an environment for dough to \nrest and rise. \nSteam\n1   Use the dial to select STEAM\n2   Use the +/- TIME arrows to adjust cook time \nin 1-minute increments. \n3   Press START/STOP to begin cooking.\n4   The display will show PrE, indicating the unit \nis preheating to selected temperature.\n5   When the unit reaches the appropriate steam \nlevel, the display will show the set temperature \nand the timer will begin to count down.\n6  When cook time reaches zero, the unit will \nbeep and display END.\nKeep Warm\n1   Use the dial to select KEEP WARM. \nTemperature will default and the unit will \nstart counting up. \nSous Vide\n1   Add 12 cups of room-temperature water to \nthe pot.\n2   Close the lid and turn the dial to SOUS VIDE. \nThe default temperature will display. Use the \nTEMP arrows to set temperature in 5-degree \nincrements between 120°F and 190°F. \n3   The cook time will default to 3 hours. Use \nthe TIME arrows to adjust cook time in \n15-minute increments up to 12 hours or 1-hour \nincrements from 12 to 24-hours. \n4   Press START/STOP to begin cooking.\n5   The unit display will flash between \"PrE\" and \nthe current temperature indicating pre-heat is \nin progress.\n6   Once preheating has complete ADD FOOD will \nflash on the display. After 30 seconds, the unit will \nstart counting down from the preset cook time.\nBraise\n1   Sear ingredients in the pot using the Sear/\nSaute instructions.\n2   Once complete, deglaze with wine or stock.\n3   Add remaining cooking liquid and \ningredients into the pot.\n4   Turn the dial to select BRAISE. The default \ntemperature setting will display.\n5   Use the +/- TIME arrows to set cook time in \n15-minute increments. \n6   Press START/STOP to begin cooking.  \nBake\n1   Place ingredients into the pot. \n2  Turn the dial to select BAKE. The default \ntemperature will display.\n3  Use the +/- TEMP arrows to set temperature \nbetween 250F and 425F. \n4  Use the +/- TIME arrows to adjust cook time \nin 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\n5   Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will \nbeep, and display END for 5 minutes. If food \nrequires more time, use +/- TIME arrows to \nadd time.\nProof\n1   Place dough in the pot and place the lid on \ntop.\n2   Turn the dial to select PROOF. The default \ntemperature setting will display. \n3   Use the +/- TEMP arrows to set temperature. \nin 5-degree increments between 90 °F and \n105°F. \n4   Use the +/- TIME arrows to adjust the proof \ntime in 5-minute increments. \n5  Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will beep, \nand END will flash 3 times on the display.\nNOTE: SLOW COOK LO time may be adjusted \nbetween 6 and 12 hours. SLOW COOK HI may be \nadjusted between 3 and 12 hours. \nNOTE: The timer will count up to keep track of \ncook time.\nNOTE: You can use this function with or \nwithout the lid placed on the pot.\nNOTE: To deglaze, pour 1 cup liquid into pot. \nScrape brown bits from bottom of pot and \nmix into cooking liquid. \nNOTE: DO NOT use metal utensils, they will \nscratch the nonstick coating on the pot. \nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO – CONT\nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO\nKEEP WARM: Reheat or keep cooked food \nwarm for longer periods of time. \nOPERATING BUTTONS\n (POWER): The Power button shuts the unit \noff and stops all cooking modes.\nTEMPERATURE ARROWS: Use the up/down \narrows to the left of the display to adjust the \ncooking temperature. \nTIME ARROWS: Use the up/down arrows to the \nright of the display to adjust the cooking time.\nSTART/STOP button: Press START to begin \ncooking. Pressing START/STOP during a cook \ncycle will stop current.\nFunction Dial:  Use the dial to select a cook \nfunction.\n3ninjakitchen.com\nNOTE: If no cooking function is chosen, the \nunit will shut off after 10 minutes. \nNOTE: Use one cup or more of liquid when \nsteaming.\nNOTE: Use the +/- TIME arrows to adjust cook \ntime in 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\nNOTE: For best results do not use the unit \nprior to cooking and do not use warm water. \nNOTE: The unit will automatically switch to \nKEEP WARM at the end of each cook cycle. \nNOTE: If you poke perfectly proofed dough \nwith your finger, the indentation will hold its \nshape and disappear slowly. If more proofing \nis needed, the dough will spring back and not \nhold the indentation.\nNOTE: Sous vide is almost always the first \nstep in the cooking process. Foods should be \nfinished by using a dry heat method such as \nbroiling, sautéing, roasting, or air frying."
+  },
+  {
+    "id": "sous-vide",
+    "title": "Sous Vide",
+    "titleZh": "低温慢煮",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+      "pdfPage": 3,
+      "printedPage": "2–3",
+      "section": "Sous Vide",
+      "type": "official"
+    },
+    "description": "法语意为“真空下”。将食物密封在塑料袋内，在温度精确控制的水浴中缓慢烹饪。",
+    "steps": [
+      {
+        "number": 1,
+        "text": "向锅中加入 12 cups 室温水。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "盖盖，将旋钮转至 SOUS VIDE。屏幕显示默认温度。用 TEMP 箭头在 120°F–190°F 之间以 5 度为增量设置温度。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "烹饪时间默认为 3 小时。用 TIME 箭头调整：至 12 小时以 15 分钟为增量；12–24 小时以 1 小时为增量。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "按 START/STOP 开始烹饪。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "屏幕在“PrE”和当前温度之间交替闪烁，表示正在预热。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "预热完成后，屏幕闪烁 ADD FOOD。30 秒后，机器从预设烹饪时间开始倒计时。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      }
+    ],
+    "notes": [
+      {
+        "number": 1,
+        "text": "NOTE：为获得最佳效果，烹饪前不要先使用本机，也不要使用温水。",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "NOTE：Sous Vide 几乎总是烹饪过程的第一步。食物应再用干热方式完成，例如上火炙烤、煎炒、烤制或空气炸。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-11"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [],
+    "originalText": "COOKING FUNCTIONS\nSlow Cook\n1   Use the dial to select SLOW COOK. \n2   Press the +/- TEMP arrows to select HI or LO.  \n3   Select a time between 3 and 12 hours in \n15-minute increments.  \n4   Press START/STOP to begin cook time.\n5   When cook time reaches zero, the unit will \nbeep, automatically switch to KEEP WARM, \nand begin counting up. \nSear/Saute\n1   Use the dial to select SEAR/SAUTE.\n2   Press the +/- TEMP buttons to choose HI or \nLO temperature.\n3   Allow the unit to heat up for 5-minutes prior \nto adding ingredients. \n4   Press START/STOP to begin cooking. \n5   Press START/STOP to turn off the SEAR/\nSAUTE function. Steam\n2 ninjakitchen.com\nGETTING TO KNOW THE NINJA® FOODI® \nPOSSIBLECOOKERTM PRO\nCOOKING FUNCTIONS\nSLOW COOK: Cook your food at a lower \ntemperature for a longer period of time.\nSEAR/SAUTE: Use the unit as a cooktop for \nbrowning meats, sauteing veggies, simmering \nsauces, and more.\nBRAISE: Transform tougher cuts of meat by \nfirst browning at high heat (with oil) and then \nsimmering in liquid at low heat.\nSOUS VIDE: French for “under vacuum,” this \nfunction slow cooks food sealed in a plastic bag \nin an accurately regulated water bath.\nSTEAM: Gently cook delicate foods at a high \ntemperature.  \nBAKE: Use the unit to bake sweet and savory \ncasseroles.  \nPROOF: Create an environment for dough to \nrest and rise. \nSteam\n1   Use the dial to select STEAM\n2   Use the +/- TIME arrows to adjust cook time \nin 1-minute increments. \n3   Press START/STOP to begin cooking.\n4   The display will show PrE, indicating the unit \nis preheating to selected temperature.\n5   When the unit reaches the appropriate steam \nlevel, the display will show the set temperature \nand the timer will begin to count down.\n6  When cook time reaches zero, the unit will \nbeep and display END.\nKeep Warm\n1   Use the dial to select KEEP WARM. \nTemperature will default and the unit will \nstart counting up. \nSous Vide\n1   Add 12 cups of room-temperature water to \nthe pot.\n2   Close the lid and turn the dial to SOUS VIDE. \nThe default temperature will display. Use the \nTEMP arrows to set temperature in 5-degree \nincrements between 120°F and 190°F. \n3   The cook time will default to 3 hours. Use \nthe TIME arrows to adjust cook time in \n15-minute increments up to 12 hours or 1-hour \nincrements from 12 to 24-hours. \n4   Press START/STOP to begin cooking.\n5   The unit display will flash between \"PrE\" and \nthe current temperature indicating pre-heat is \nin progress.\n6   Once preheating has complete ADD FOOD will \nflash on the display. After 30 seconds, the unit will \nstart counting down from the preset cook time.\nBraise\n1   Sear ingredients in the pot using the Sear/\nSaute instructions.\n2   Once complete, deglaze with wine or stock.\n3   Add remaining cooking liquid and \ningredients into the pot.\n4   Turn the dial to select BRAISE. The default \ntemperature setting will display.\n5   Use the +/- TIME arrows to set cook time in \n15-minute increments. \n6   Press START/STOP to begin cooking.  \nBake\n1   Place ingredients into the pot. \n2  Turn the dial to select BAKE. The default \ntemperature will display.\n3  Use the +/- TEMP arrows to set temperature \nbetween 250F and 425F. \n4  Use the +/- TIME arrows to adjust cook time \nin 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\n5   Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will \nbeep, and display END for 5 minutes. If food \nrequires more time, use +/- TIME arrows to \nadd time.\nProof\n1   Place dough in the pot and place the lid on \ntop.\n2   Turn the dial to select PROOF. The default \ntemperature setting will display. \n3   Use the +/- TEMP arrows to set temperature. \nin 5-degree increments between 90 °F and \n105°F. \n4   Use the +/- TIME arrows to adjust the proof \ntime in 5-minute increments. \n5  Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will beep, \nand END will flash 3 times on the display.\nNOTE: SLOW COOK LO time may be adjusted \nbetween 6 and 12 hours. SLOW COOK HI may be \nadjusted between 3 and 12 hours. \nNOTE: The timer will count up to keep track of \ncook time.\nNOTE: You can use this function with or \nwithout the lid placed on the pot.\nNOTE: To deglaze, pour 1 cup liquid into pot. \nScrape brown bits from bottom of pot and \nmix into cooking liquid. \nNOTE: DO NOT use metal utensils, they will \nscratch the nonstick coating on the pot. \nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO – CONT\nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO\nKEEP WARM: Reheat or keep cooked food \nwarm for longer periods of time. \nOPERATING BUTTONS\n (POWER): The Power button shuts the unit \noff and stops all cooking modes.\nTEMPERATURE ARROWS: Use the up/down \narrows to the left of the display to adjust the \ncooking temperature. \nTIME ARROWS: Use the up/down arrows to the \nright of the display to adjust the cooking time.\nSTART/STOP button: Press START to begin \ncooking. Pressing START/STOP during a cook \ncycle will stop current.\nFunction Dial:  Use the dial to select a cook \nfunction.\n3ninjakitchen.com\nNOTE: If no cooking function is chosen, the \nunit will shut off after 10 minutes. \nNOTE: Use one cup or more of liquid when \nsteaming.\nNOTE: Use the +/- TIME arrows to adjust cook \ntime in 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\nNOTE: For best results do not use the unit \nprior to cooking and do not use warm water. \nNOTE: The unit will automatically switch to \nKEEP WARM at the end of each cook cycle. \nNOTE: If you poke perfectly proofed dough \nwith your finger, the indentation will hold its \nshape and disappear slowly. If more proofing \nis needed, the dough will spring back and not \nhold the indentation.\nNOTE: Sous vide is almost always the first \nstep in the cooking process. Foods should be \nfinished by using a dry heat method such as \nbroiling, sautéing, roasting, or air frying."
+  },
+  {
+    "id": "steam",
+    "title": "Steam",
+    "titleZh": "蒸",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+      "pdfPage": 3,
+      "printedPage": "2–3",
+      "section": "Steam",
+      "type": "official"
+    },
+    "description": "在高温下温和地烹饪娇嫩食物。",
+    "steps": [
+      {
+        "number": 1,
+        "text": "用旋钮选择 STEAM。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "用 +/- TIME 箭头调整烹饪时间，以 1 分钟为增量。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "按 START/STOP 开始烹饪。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "屏幕显示 PrE，表示机器正在预热至所选温度。",
+        "place": "PossibleCooker",
+        "reviewIds": [
+          "SR-04"
+        ]
+      },
+      {
+        "number": 5,
+        "text": "机器达到合适的蒸汽水平时，屏幕显示设定温度，计时器开始倒计时。",
+        "place": "PossibleCooker",
+        "reviewIds": [
+          "SR-04"
+        ]
+      },
+      {
+        "number": 6,
+        "text": "时间归零时，机器鸣响并显示 END。",
+        "place": "PossibleCooker",
+        "reviewIds": [
+          "SR-04"
+        ]
+      }
+    ],
+    "notes": [
+      {
+        "number": 1,
+        "text": "NOTE：每个烹饪周期结束时，机器都会自动切换至 KEEP WARM。",
+        "place": "",
+        "reviewIds": [
+          "SR-04"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "NOTE：蒸制时使用 1 cup 或更多液体。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-04"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [],
+    "originalText": "COOKING FUNCTIONS\nSlow Cook\n1   Use the dial to select SLOW COOK. \n2   Press the +/- TEMP arrows to select HI or LO.  \n3   Select a time between 3 and 12 hours in \n15-minute increments.  \n4   Press START/STOP to begin cook time.\n5   When cook time reaches zero, the unit will \nbeep, automatically switch to KEEP WARM, \nand begin counting up. \nSear/Saute\n1   Use the dial to select SEAR/SAUTE.\n2   Press the +/- TEMP buttons to choose HI or \nLO temperature.\n3   Allow the unit to heat up for 5-minutes prior \nto adding ingredients. \n4   Press START/STOP to begin cooking. \n5   Press START/STOP to turn off the SEAR/\nSAUTE function. Steam\n2 ninjakitchen.com\nGETTING TO KNOW THE NINJA® FOODI® \nPOSSIBLECOOKERTM PRO\nCOOKING FUNCTIONS\nSLOW COOK: Cook your food at a lower \ntemperature for a longer period of time.\nSEAR/SAUTE: Use the unit as a cooktop for \nbrowning meats, sauteing veggies, simmering \nsauces, and more.\nBRAISE: Transform tougher cuts of meat by \nfirst browning at high heat (with oil) and then \nsimmering in liquid at low heat.\nSOUS VIDE: French for “under vacuum,” this \nfunction slow cooks food sealed in a plastic bag \nin an accurately regulated water bath.\nSTEAM: Gently cook delicate foods at a high \ntemperature.  \nBAKE: Use the unit to bake sweet and savory \ncasseroles.  \nPROOF: Create an environment for dough to \nrest and rise. \nSteam\n1   Use the dial to select STEAM\n2   Use the +/- TIME arrows to adjust cook time \nin 1-minute increments. \n3   Press START/STOP to begin cooking.\n4   The display will show PrE, indicating the unit \nis preheating to selected temperature.\n5   When the unit reaches the appropriate steam \nlevel, the display will show the set temperature \nand the timer will begin to count down.\n6  When cook time reaches zero, the unit will \nbeep and display END.\nKeep Warm\n1   Use the dial to select KEEP WARM. \nTemperature will default and the unit will \nstart counting up. \nSous Vide\n1   Add 12 cups of room-temperature water to \nthe pot.\n2   Close the lid and turn the dial to SOUS VIDE. \nThe default temperature will display. Use the \nTEMP arrows to set temperature in 5-degree \nincrements between 120°F and 190°F. \n3   The cook time will default to 3 hours. Use \nthe TIME arrows to adjust cook time in \n15-minute increments up to 12 hours or 1-hour \nincrements from 12 to 24-hours. \n4   Press START/STOP to begin cooking.\n5   The unit display will flash between \"PrE\" and \nthe current temperature indicating pre-heat is \nin progress.\n6   Once preheating has complete ADD FOOD will \nflash on the display. After 30 seconds, the unit will \nstart counting down from the preset cook time.\nBraise\n1   Sear ingredients in the pot using the Sear/\nSaute instructions.\n2   Once complete, deglaze with wine or stock.\n3   Add remaining cooking liquid and \ningredients into the pot.\n4   Turn the dial to select BRAISE. The default \ntemperature setting will display.\n5   Use the +/- TIME arrows to set cook time in \n15-minute increments. \n6   Press START/STOP to begin cooking.  \nBake\n1   Place ingredients into the pot. \n2  Turn the dial to select BAKE. The default \ntemperature will display.\n3  Use the +/- TEMP arrows to set temperature \nbetween 250F and 425F. \n4  Use the +/- TIME arrows to adjust cook time \nin 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\n5   Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will \nbeep, and display END for 5 minutes. If food \nrequires more time, use +/- TIME arrows to \nadd time.\nProof\n1   Place dough in the pot and place the lid on \ntop.\n2   Turn the dial to select PROOF. The default \ntemperature setting will display. \n3   Use the +/- TEMP arrows to set temperature. \nin 5-degree increments between 90 °F and \n105°F. \n4   Use the +/- TIME arrows to adjust the proof \ntime in 5-minute increments. \n5  Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will beep, \nand END will flash 3 times on the display.\nNOTE: SLOW COOK LO time may be adjusted \nbetween 6 and 12 hours. SLOW COOK HI may be \nadjusted between 3 and 12 hours. \nNOTE: The timer will count up to keep track of \ncook time.\nNOTE: You can use this function with or \nwithout the lid placed on the pot.\nNOTE: To deglaze, pour 1 cup liquid into pot. \nScrape brown bits from bottom of pot and \nmix into cooking liquid. \nNOTE: DO NOT use metal utensils, they will \nscratch the nonstick coating on the pot. \nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO – CONT\nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO\nKEEP WARM: Reheat or keep cooked food \nwarm for longer periods of time. \nOPERATING BUTTONS\n (POWER): The Power button shuts the unit \noff and stops all cooking modes.\nTEMPERATURE ARROWS: Use the up/down \narrows to the left of the display to adjust the \ncooking temperature. \nTIME ARROWS: Use the up/down arrows to the \nright of the display to adjust the cooking time.\nSTART/STOP button: Press START to begin \ncooking. Pressing START/STOP during a cook \ncycle will stop current.\nFunction Dial:  Use the dial to select a cook \nfunction.\n3ninjakitchen.com\nNOTE: If no cooking function is chosen, the \nunit will shut off after 10 minutes. \nNOTE: Use one cup or more of liquid when \nsteaming.\nNOTE: Use the +/- TIME arrows to adjust cook \ntime in 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\nNOTE: For best results do not use the unit \nprior to cooking and do not use warm water. \nNOTE: The unit will automatically switch to \nKEEP WARM at the end of each cook cycle. \nNOTE: If you poke perfectly proofed dough \nwith your finger, the indentation will hold its \nshape and disappear slowly. If more proofing \nis needed, the dough will spring back and not \nhold the indentation.\nNOTE: Sous vide is almost always the first \nstep in the cooking process. Foods should be \nfinished by using a dry heat method such as \nbroiling, sautéing, roasting, or air frying."
+  },
+  {
+    "id": "bake",
+    "title": "Bake",
+    "titleZh": "烘烤",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+      "pdfPage": 3,
+      "printedPage": "2–3",
+      "section": "Bake",
+      "type": "official"
+    },
+    "description": "用本机烹饪甜味和咸味焗锅类菜肴。",
+    "steps": [
+      {
+        "number": 1,
+        "text": "将食材放入锅中。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "将旋钮转至 BAKE。屏幕显示默认温度。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "用 +/- TEMP 箭头在 250F–425F 之间设置温度（保留原文 F 写法）。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "用 +/- TIME 箭头调整时间：至 1 小时以 1 分钟为增量；至 6 小时以 5 分钟为增量。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "按 START/STOP 开始烹饪。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "时间归零时，机器鸣响，并显示 END 5 分钟。如食物需要更多时间，用 +/- TIME 箭头增加时间。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      }
+    ],
+    "notes": [],
+    "reviewIds": [],
+    "reviewStatus": "TRANSCRIBED_PENDING_USER_REVIEW",
+    "safetyWarnings": [],
+    "originalText": "COOKING FUNCTIONS\nSlow Cook\n1   Use the dial to select SLOW COOK. \n2   Press the +/- TEMP arrows to select HI or LO.  \n3   Select a time between 3 and 12 hours in \n15-minute increments.  \n4   Press START/STOP to begin cook time.\n5   When cook time reaches zero, the unit will \nbeep, automatically switch to KEEP WARM, \nand begin counting up. \nSear/Saute\n1   Use the dial to select SEAR/SAUTE.\n2   Press the +/- TEMP buttons to choose HI or \nLO temperature.\n3   Allow the unit to heat up for 5-minutes prior \nto adding ingredients. \n4   Press START/STOP to begin cooking. \n5   Press START/STOP to turn off the SEAR/\nSAUTE function. Steam\n2 ninjakitchen.com\nGETTING TO KNOW THE NINJA® FOODI® \nPOSSIBLECOOKERTM PRO\nCOOKING FUNCTIONS\nSLOW COOK: Cook your food at a lower \ntemperature for a longer period of time.\nSEAR/SAUTE: Use the unit as a cooktop for \nbrowning meats, sauteing veggies, simmering \nsauces, and more.\nBRAISE: Transform tougher cuts of meat by \nfirst browning at high heat (with oil) and then \nsimmering in liquid at low heat.\nSOUS VIDE: French for “under vacuum,” this \nfunction slow cooks food sealed in a plastic bag \nin an accurately regulated water bath.\nSTEAM: Gently cook delicate foods at a high \ntemperature.  \nBAKE: Use the unit to bake sweet and savory \ncasseroles.  \nPROOF: Create an environment for dough to \nrest and rise. \nSteam\n1   Use the dial to select STEAM\n2   Use the +/- TIME arrows to adjust cook time \nin 1-minute increments. \n3   Press START/STOP to begin cooking.\n4   The display will show PrE, indicating the unit \nis preheating to selected temperature.\n5   When the unit reaches the appropriate steam \nlevel, the display will show the set temperature \nand the timer will begin to count down.\n6  When cook time reaches zero, the unit will \nbeep and display END.\nKeep Warm\n1   Use the dial to select KEEP WARM. \nTemperature will default and the unit will \nstart counting up. \nSous Vide\n1   Add 12 cups of room-temperature water to \nthe pot.\n2   Close the lid and turn the dial to SOUS VIDE. \nThe default temperature will display. Use the \nTEMP arrows to set temperature in 5-degree \nincrements between 120°F and 190°F. \n3   The cook time will default to 3 hours. Use \nthe TIME arrows to adjust cook time in \n15-minute increments up to 12 hours or 1-hour \nincrements from 12 to 24-hours. \n4   Press START/STOP to begin cooking.\n5   The unit display will flash between \"PrE\" and \nthe current temperature indicating pre-heat is \nin progress.\n6   Once preheating has complete ADD FOOD will \nflash on the display. After 30 seconds, the unit will \nstart counting down from the preset cook time.\nBraise\n1   Sear ingredients in the pot using the Sear/\nSaute instructions.\n2   Once complete, deglaze with wine or stock.\n3   Add remaining cooking liquid and \ningredients into the pot.\n4   Turn the dial to select BRAISE. The default \ntemperature setting will display.\n5   Use the +/- TIME arrows to set cook time in \n15-minute increments. \n6   Press START/STOP to begin cooking.  \nBake\n1   Place ingredients into the pot. \n2  Turn the dial to select BAKE. The default \ntemperature will display.\n3  Use the +/- TEMP arrows to set temperature \nbetween 250F and 425F. \n4  Use the +/- TIME arrows to adjust cook time \nin 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\n5   Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will \nbeep, and display END for 5 minutes. If food \nrequires more time, use +/- TIME arrows to \nadd time.\nProof\n1   Place dough in the pot and place the lid on \ntop.\n2   Turn the dial to select PROOF. The default \ntemperature setting will display. \n3   Use the +/- TEMP arrows to set temperature. \nin 5-degree increments between 90 °F and \n105°F. \n4   Use the +/- TIME arrows to adjust the proof \ntime in 5-minute increments. \n5  Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will beep, \nand END will flash 3 times on the display.\nNOTE: SLOW COOK LO time may be adjusted \nbetween 6 and 12 hours. SLOW COOK HI may be \nadjusted between 3 and 12 hours. \nNOTE: The timer will count up to keep track of \ncook time.\nNOTE: You can use this function with or \nwithout the lid placed on the pot.\nNOTE: To deglaze, pour 1 cup liquid into pot. \nScrape brown bits from bottom of pot and \nmix into cooking liquid. \nNOTE: DO NOT use metal utensils, they will \nscratch the nonstick coating on the pot. \nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO – CONT\nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO\nKEEP WARM: Reheat or keep cooked food \nwarm for longer periods of time. \nOPERATING BUTTONS\n (POWER): The Power button shuts the unit \noff and stops all cooking modes.\nTEMPERATURE ARROWS: Use the up/down \narrows to the left of the display to adjust the \ncooking temperature. \nTIME ARROWS: Use the up/down arrows to the \nright of the display to adjust the cooking time.\nSTART/STOP button: Press START to begin \ncooking. Pressing START/STOP during a cook \ncycle will stop current.\nFunction Dial:  Use the dial to select a cook \nfunction.\n3ninjakitchen.com\nNOTE: If no cooking function is chosen, the \nunit will shut off after 10 minutes. \nNOTE: Use one cup or more of liquid when \nsteaming.\nNOTE: Use the +/- TIME arrows to adjust cook \ntime in 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\nNOTE: For best results do not use the unit \nprior to cooking and do not use warm water. \nNOTE: The unit will automatically switch to \nKEEP WARM at the end of each cook cycle. \nNOTE: If you poke perfectly proofed dough \nwith your finger, the indentation will hold its \nshape and disappear slowly. If more proofing \nis needed, the dough will spring back and not \nhold the indentation.\nNOTE: Sous vide is almost always the first \nstep in the cooking process. Foods should be \nfinished by using a dry heat method such as \nbroiling, sautéing, roasting, or air frying."
+  },
+  {
+    "id": "proof",
+    "title": "Proof",
+    "titleZh": "发酵",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+      "pdfPage": 3,
+      "printedPage": "2–3",
+      "section": "Proof",
+      "type": "official"
+    },
+    "description": "为面团静置和膨发创造环境。",
+    "steps": [
+      {
+        "number": 1,
+        "text": "将面团放入锅中并盖盖。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "将旋钮转至 PROOF。屏幕显示默认温度设置。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "用 +/- TEMP 箭头在 90°F–105°F 之间以 5 度为增量设置温度。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "用 +/- TIME 箭头调整发酵时间，以 5 分钟为增量。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "按 START/STOP 开始烹饪。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "时间归零时，机器鸣响，屏幕上的 END 闪烁 3 次。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      }
+    ],
+    "notes": [
+      {
+        "number": 1,
+        "text": "NOTE：用手指戳发酵恰当的面团，凹痕会保持形状并缓慢消失。如仍需发酵，面团会回弹，不保留凹痕。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [],
+    "reviewStatus": "TRANSCRIBED_PENDING_USER_REVIEW",
+    "safetyWarnings": [],
+    "originalText": "COOKING FUNCTIONS\nSlow Cook\n1   Use the dial to select SLOW COOK. \n2   Press the +/- TEMP arrows to select HI or LO.  \n3   Select a time between 3 and 12 hours in \n15-minute increments.  \n4   Press START/STOP to begin cook time.\n5   When cook time reaches zero, the unit will \nbeep, automatically switch to KEEP WARM, \nand begin counting up. \nSear/Saute\n1   Use the dial to select SEAR/SAUTE.\n2   Press the +/- TEMP buttons to choose HI or \nLO temperature.\n3   Allow the unit to heat up for 5-minutes prior \nto adding ingredients. \n4   Press START/STOP to begin cooking. \n5   Press START/STOP to turn off the SEAR/\nSAUTE function. Steam\n2 ninjakitchen.com\nGETTING TO KNOW THE NINJA® FOODI® \nPOSSIBLECOOKERTM PRO\nCOOKING FUNCTIONS\nSLOW COOK: Cook your food at a lower \ntemperature for a longer period of time.\nSEAR/SAUTE: Use the unit as a cooktop for \nbrowning meats, sauteing veggies, simmering \nsauces, and more.\nBRAISE: Transform tougher cuts of meat by \nfirst browning at high heat (with oil) and then \nsimmering in liquid at low heat.\nSOUS VIDE: French for “under vacuum,” this \nfunction slow cooks food sealed in a plastic bag \nin an accurately regulated water bath.\nSTEAM: Gently cook delicate foods at a high \ntemperature.  \nBAKE: Use the unit to bake sweet and savory \ncasseroles.  \nPROOF: Create an environment for dough to \nrest and rise. \nSteam\n1   Use the dial to select STEAM\n2   Use the +/- TIME arrows to adjust cook time \nin 1-minute increments. \n3   Press START/STOP to begin cooking.\n4   The display will show PrE, indicating the unit \nis preheating to selected temperature.\n5   When the unit reaches the appropriate steam \nlevel, the display will show the set temperature \nand the timer will begin to count down.\n6  When cook time reaches zero, the unit will \nbeep and display END.\nKeep Warm\n1   Use the dial to select KEEP WARM. \nTemperature will default and the unit will \nstart counting up. \nSous Vide\n1   Add 12 cups of room-temperature water to \nthe pot.\n2   Close the lid and turn the dial to SOUS VIDE. \nThe default temperature will display. Use the \nTEMP arrows to set temperature in 5-degree \nincrements between 120°F and 190°F. \n3   The cook time will default to 3 hours. Use \nthe TIME arrows to adjust cook time in \n15-minute increments up to 12 hours or 1-hour \nincrements from 12 to 24-hours. \n4   Press START/STOP to begin cooking.\n5   The unit display will flash between \"PrE\" and \nthe current temperature indicating pre-heat is \nin progress.\n6   Once preheating has complete ADD FOOD will \nflash on the display. After 30 seconds, the unit will \nstart counting down from the preset cook time.\nBraise\n1   Sear ingredients in the pot using the Sear/\nSaute instructions.\n2   Once complete, deglaze with wine or stock.\n3   Add remaining cooking liquid and \ningredients into the pot.\n4   Turn the dial to select BRAISE. The default \ntemperature setting will display.\n5   Use the +/- TIME arrows to set cook time in \n15-minute increments. \n6   Press START/STOP to begin cooking.  \nBake\n1   Place ingredients into the pot. \n2  Turn the dial to select BAKE. The default \ntemperature will display.\n3  Use the +/- TEMP arrows to set temperature \nbetween 250F and 425F. \n4  Use the +/- TIME arrows to adjust cook time \nin 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\n5   Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will \nbeep, and display END for 5 minutes. If food \nrequires more time, use +/- TIME arrows to \nadd time.\nProof\n1   Place dough in the pot and place the lid on \ntop.\n2   Turn the dial to select PROOF. The default \ntemperature setting will display. \n3   Use the +/- TEMP arrows to set temperature. \nin 5-degree increments between 90 °F and \n105°F. \n4   Use the +/- TIME arrows to adjust the proof \ntime in 5-minute increments. \n5  Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will beep, \nand END will flash 3 times on the display.\nNOTE: SLOW COOK LO time may be adjusted \nbetween 6 and 12 hours. SLOW COOK HI may be \nadjusted between 3 and 12 hours. \nNOTE: The timer will count up to keep track of \ncook time.\nNOTE: You can use this function with or \nwithout the lid placed on the pot.\nNOTE: To deglaze, pour 1 cup liquid into pot. \nScrape brown bits from bottom of pot and \nmix into cooking liquid. \nNOTE: DO NOT use metal utensils, they will \nscratch the nonstick coating on the pot. \nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO – CONT\nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO\nKEEP WARM: Reheat or keep cooked food \nwarm for longer periods of time. \nOPERATING BUTTONS\n (POWER): The Power button shuts the unit \noff and stops all cooking modes.\nTEMPERATURE ARROWS: Use the up/down \narrows to the left of the display to adjust the \ncooking temperature. \nTIME ARROWS: Use the up/down arrows to the \nright of the display to adjust the cooking time.\nSTART/STOP button: Press START to begin \ncooking. Pressing START/STOP during a cook \ncycle will stop current.\nFunction Dial:  Use the dial to select a cook \nfunction.\n3ninjakitchen.com\nNOTE: If no cooking function is chosen, the \nunit will shut off after 10 minutes. \nNOTE: Use one cup or more of liquid when \nsteaming.\nNOTE: Use the +/- TIME arrows to adjust cook \ntime in 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\nNOTE: For best results do not use the unit \nprior to cooking and do not use warm water. \nNOTE: The unit will automatically switch to \nKEEP WARM at the end of each cook cycle. \nNOTE: If you poke perfectly proofed dough \nwith your finger, the indentation will hold its \nshape and disappear slowly. If more proofing \nis needed, the dough will spring back and not \nhold the indentation.\nNOTE: Sous vide is almost always the first \nstep in the cooking process. Foods should be \nfinished by using a dry heat method such as \nbroiling, sautéing, roasting, or air frying."
+  },
+  {
+    "id": "keep-warm",
+    "title": "Keep Warm",
+    "titleZh": "保温",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+      "pdfPage": 3,
+      "printedPage": "2–3",
+      "section": "Keep Warm",
+      "type": "official"
+    },
+    "description": "重新加热或让已煮熟的食物较长时间保持温热。",
+    "steps": [
+      {
+        "number": 1,
+        "text": "用旋钮选择 KEEP WARM。采用默认温度，机器开始正向计时。",
+        "place": "PossibleCooker",
+        "reviewIds": []
+      }
+    ],
+    "notes": [
+      {
+        "number": 1,
+        "text": "NOTE：用 +/- TIME 箭头调整烹饪时间：至 1 小时以 1 分钟为增量；至 6 小时以 5 分钟为增量。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-20"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "safetyWarnings": [],
+    "originalText": "COOKING FUNCTIONS\nSlow Cook\n1   Use the dial to select SLOW COOK. \n2   Press the +/- TEMP arrows to select HI or LO.  \n3   Select a time between 3 and 12 hours in \n15-minute increments.  \n4   Press START/STOP to begin cook time.\n5   When cook time reaches zero, the unit will \nbeep, automatically switch to KEEP WARM, \nand begin counting up. \nSear/Saute\n1   Use the dial to select SEAR/SAUTE.\n2   Press the +/- TEMP buttons to choose HI or \nLO temperature.\n3   Allow the unit to heat up for 5-minutes prior \nto adding ingredients. \n4   Press START/STOP to begin cooking. \n5   Press START/STOP to turn off the SEAR/\nSAUTE function. Steam\n2 ninjakitchen.com\nGETTING TO KNOW THE NINJA® FOODI® \nPOSSIBLECOOKERTM PRO\nCOOKING FUNCTIONS\nSLOW COOK: Cook your food at a lower \ntemperature for a longer period of time.\nSEAR/SAUTE: Use the unit as a cooktop for \nbrowning meats, sauteing veggies, simmering \nsauces, and more.\nBRAISE: Transform tougher cuts of meat by \nfirst browning at high heat (with oil) and then \nsimmering in liquid at low heat.\nSOUS VIDE: French for “under vacuum,” this \nfunction slow cooks food sealed in a plastic bag \nin an accurately regulated water bath.\nSTEAM: Gently cook delicate foods at a high \ntemperature.  \nBAKE: Use the unit to bake sweet and savory \ncasseroles.  \nPROOF: Create an environment for dough to \nrest and rise. \nSteam\n1   Use the dial to select STEAM\n2   Use the +/- TIME arrows to adjust cook time \nin 1-minute increments. \n3   Press START/STOP to begin cooking.\n4   The display will show PrE, indicating the unit \nis preheating to selected temperature.\n5   When the unit reaches the appropriate steam \nlevel, the display will show the set temperature \nand the timer will begin to count down.\n6  When cook time reaches zero, the unit will \nbeep and display END.\nKeep Warm\n1   Use the dial to select KEEP WARM. \nTemperature will default and the unit will \nstart counting up. \nSous Vide\n1   Add 12 cups of room-temperature water to \nthe pot.\n2   Close the lid and turn the dial to SOUS VIDE. \nThe default temperature will display. Use the \nTEMP arrows to set temperature in 5-degree \nincrements between 120°F and 190°F. \n3   The cook time will default to 3 hours. Use \nthe TIME arrows to adjust cook time in \n15-minute increments up to 12 hours or 1-hour \nincrements from 12 to 24-hours. \n4   Press START/STOP to begin cooking.\n5   The unit display will flash between \"PrE\" and \nthe current temperature indicating pre-heat is \nin progress.\n6   Once preheating has complete ADD FOOD will \nflash on the display. After 30 seconds, the unit will \nstart counting down from the preset cook time.\nBraise\n1   Sear ingredients in the pot using the Sear/\nSaute instructions.\n2   Once complete, deglaze with wine or stock.\n3   Add remaining cooking liquid and \ningredients into the pot.\n4   Turn the dial to select BRAISE. The default \ntemperature setting will display.\n5   Use the +/- TIME arrows to set cook time in \n15-minute increments. \n6   Press START/STOP to begin cooking.  \nBake\n1   Place ingredients into the pot. \n2  Turn the dial to select BAKE. The default \ntemperature will display.\n3  Use the +/- TEMP arrows to set temperature \nbetween 250F and 425F. \n4  Use the +/- TIME arrows to adjust cook time \nin 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\n5   Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will \nbeep, and display END for 5 minutes. If food \nrequires more time, use +/- TIME arrows to \nadd time.\nProof\n1   Place dough in the pot and place the lid on \ntop.\n2   Turn the dial to select PROOF. The default \ntemperature setting will display. \n3   Use the +/- TEMP arrows to set temperature. \nin 5-degree increments between 90 °F and \n105°F. \n4   Use the +/- TIME arrows to adjust the proof \ntime in 5-minute increments. \n5  Press START/STOP to begin cooking. \n6   When cook time reaches zero, unit will beep, \nand END will flash 3 times on the display.\nNOTE: SLOW COOK LO time may be adjusted \nbetween 6 and 12 hours. SLOW COOK HI may be \nadjusted between 3 and 12 hours. \nNOTE: The timer will count up to keep track of \ncook time.\nNOTE: You can use this function with or \nwithout the lid placed on the pot.\nNOTE: To deglaze, pour 1 cup liquid into pot. \nScrape brown bits from bottom of pot and \nmix into cooking liquid. \nNOTE: DO NOT use metal utensils, they will \nscratch the nonstick coating on the pot. \nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO – CONT\nUSING THE NINJA® FOODI® POSSIBLECOOKERTM PRO\nKEEP WARM: Reheat or keep cooked food \nwarm for longer periods of time. \nOPERATING BUTTONS\n (POWER): The Power button shuts the unit \noff and stops all cooking modes.\nTEMPERATURE ARROWS: Use the up/down \narrows to the left of the display to adjust the \ncooking temperature. \nTIME ARROWS: Use the up/down arrows to the \nright of the display to adjust the cooking time.\nSTART/STOP button: Press START to begin \ncooking. Pressing START/STOP during a cook \ncycle will stop current.\nFunction Dial:  Use the dial to select a cook \nfunction.\n3ninjakitchen.com\nNOTE: If no cooking function is chosen, the \nunit will shut off after 10 minutes. \nNOTE: Use one cup or more of liquid when \nsteaming.\nNOTE: Use the +/- TIME arrows to adjust cook \ntime in 1-minute increments up to 1-hour or \n5-minute increments up to 6-hours.\nNOTE: For best results do not use the unit \nprior to cooking and do not use warm water. \nNOTE: The unit will automatically switch to \nKEEP WARM at the end of each cook cycle. \nNOTE: If you poke perfectly proofed dough \nwith your finger, the indentation will hold its \nshape and disappear slowly. If more proofing \nis needed, the dough will spring back and not \nhold the indentation.\nNOTE: Sous vide is almost always the first \nstep in the cooking process. Foods should be \nfinished by using a dry heat method such as \nbroiling, sautéing, roasting, or air frying."
+  }
+]

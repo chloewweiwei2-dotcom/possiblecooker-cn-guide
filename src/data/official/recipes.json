@@ -1,0 +1,2892 @@
+[
+  {
+    "id": "frittata",
+    "title": "Egg Frittata with Hash Browns and Bacon",
+    "titleZh": "薯饼培根蛋饼",
+    "category": "早餐",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 5,
+      "printedPage": "6",
+      "section": "Egg Frittata with Hash Browns and Bacon",
+      "type": "official"
+    },
+    "prep": "15 MINUTES",
+    "cook": "52 MINUTES",
+    "makes": "8 SERVING",
+    "proof": null,
+    "functions": [
+      "sear-saute",
+      "bake"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "12 条生培根，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "1 个大白洋葱，去皮、切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "2 个甜椒（颜色自选），去蒂、去籽、切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "2 cups 冷冻薯饼土豆丝（hash brown potatoes）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "18 个大鸡蛋，打散",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1 cup 全脂牛奶",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "2 cups 切达奶酪丝",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "Kosher salt（粗盐），按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "黑胡椒粉，按需",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "移开锅盖。旋钮转至 SEAR/SAUTÉ，温度设为 HI，按 START/STOP 开始预热。预热 5 分钟。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Remove the lid from the pot. Turn dial to SEAR/SAUTÉ, set temperature to HI, and press START/STOP to begin preheating. Allow the unit to preheat for 5 minutes."
+      },
+      {
+        "number": 2,
+        "text": "预热完成后，将培根加入锅中，不盖盖烹饪 12 分钟，经常搅拌。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When preheating is complete, add bacon to the pot and cook uncovered for 12 minutes, stirring frequently."
+      },
+      {
+        "number": 3,
+        "text": "将洋葱和甜椒加入锅中，不盖盖烹饪 5 分钟，期间搅拌两次。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Add onion and peppers to the pot and cook uncovered for 5 minutes, stirring twice."
+      },
+      {
+        "number": 4,
+        "text": "将薯饼土豆丝加入锅中，搅拌混合，然后盖盖烹饪 5 分钟。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "originalText": "Add hash brown potatoes to the pot. Stir to combine, then cover with the lid and cook for 5 minutes."
+      },
+      {
+        "number": 5,
+        "text": "食材烹饪时，在大碗中将鸡蛋、牛奶和奶酪搅打混合。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "While ingredients cook, whisk together the eggs, milk, and cheese in a large bowl until combined."
+      },
+      {
+        "number": 6,
+        "text": "将蛋液混合物、盐和胡椒加入锅中，搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "originalText": "Add the egg mixture, salt, and pepper to the pot. Stir to combine, then cover with the lid."
+      },
+      {
+        "number": 7,
+        "text": "旋钮转至 BAKE，温度设为 300°F，时间设为 30 分钟。按 START/STOP 继续烹饪。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to BAKE, set temperature to 300°F, and set time to 30 minutes. Press START/STOP to continue cooking."
+      },
+      {
+        "number": 8,
+        "text": "烹饪完成后，用橡胶头锅铲立即盛出蛋饼。",
+        "place": "盛出",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, use a rubber-tipped spatula to immediately serve the frittata."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "第 5 步的切达奶酪可换成自选的奶酪丝、磨碎奶酪或碎奶酪。菲达奶酪也可做出美味蛋饼。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-01",
+      "SR-02"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "EGG FRITTATA WITH\nHASH BROWNS AND BACON\nPREP: 15 MINUTES | COOK: 52 MINUTES | MAKES: 8 SERVING\nINGREDIENTS DIRECTIONS\n12 strips uncooked bacon, chopped 1 Remove the lid from the pot. Turn dial to\n1 large white onion, peeled, chopped SEAR/SAUTÉ, set temperature to HI, and press\nSTART/STOP to begin preheating. Allow the unit\n2 bell peppers (of preferred color), stemmed,\nto preheat for 5 minutes.\nseeded, chopped\n2 cups frozen hash brown potatoes 2 When preheating is complete, add bacon to\nthe pot and cook uncovered for 12 minutes,\n18 large eggs, whisked\nstirring frequently.\n1 cup whole milk\n3 Add onion and peppers to the pot and cook\n2 cups shredded cheddar cheese\nuncovered for 5 minutes, stirring twice.\nKosher salt, as desired\n4 Add hash brown potatoes to the pot. Stir to\nGround black pepper, as desired combine, then cover with the lid and cook for\n5 minutes.\n5 While ingredients cook, whisk together the eggs,\nmilk, and cheese in a large bowl until combined.\n6 Add the egg mixture, salt, and pepper to the pot.\nStir to combine, then cover with the lid.\n7 Turn dial to BAKE, set temperature to 300°F, and\nset time to 30 minutes. Press START/STOP to\ncontinue cooking.\n8 When cooking is complete, use a rubber-tipped\nspatula to immediately serve the frittata.\nTIP S ubstitute any shredded, grated, or crumbled\ncheese of your preference for the cheddar cheese\nin Step 5. Feta makes for a delicious frittata.\n6\ntsafkaerB\nGLUTEN-FREE NUT-FREE\nBEGINNER RECIPE",
+    "originalIngredientsText": "12 strips uncooked bacon, chopped\n1 large white onion, peeled, chopped\n2 bell peppers (of preferred color), stemmed,\nseeded, chopped\n2 cups frozen hash brown potatoes\n18 large eggs, whisked\n1 cup whole milk\n2 cups shredded cheddar cheese\nKosher salt, as desired\nGround black pepper, as desired",
+    "originalHeader": "PREP: 15 MINUTES | COOK: 52 MINUTES | MAKES: 8 SERVING INGREDIENTS"
+  },
+  {
+    "id": "oatmeal",
+    "title": "Cherry Maple Oatmeal",
+    "titleZh": "樱桃枫糖燕麦粥",
+    "category": "早餐",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 6,
+      "printedPage": "8",
+      "section": "Cherry Maple Oatmeal",
+      "type": "official"
+    },
+    "prep": "10 MINUTES",
+    "cook": "3 HOURS 10 MINUTES",
+    "makes": "4 SERVINGS",
+    "proof": null,
+    "functions": [
+      "sear-saute",
+      "slow-cook"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "8 cups 低脂牛奶",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "1/2 cup 枫糖浆",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "4 tablespoons 无盐黄油",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "1 tablespoon 香草精",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "2 teaspoons 肉桂粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1/2 teaspoon 肉豆蔻粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "Kosher salt（粗盐），按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "2 cups 未煮的钢切燕麦",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "2 cups 去核干樱桃或新鲜樱桃",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将牛奶、枫糖浆、黄油、香草精、肉桂、肉豆蔻和盐放入锅中。搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "originalText": "Place the milk, maple syrup, butter, vanilla extract, cinnamon, nutmeg, and salt in the pot. Stir to combine, then cover with the lid."
+      },
+      {
+        "number": 2,
+        "text": "旋钮转至 SEAR/SAUTÉ，温度设为 HI，按 START/STOP 开始烹饪。烹饪 10 分钟。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "originalText": "Turn dial to SEAR/SAUTÉ, set temperature to HI, and press START/STOP to begin cooking. Allow ingredients to cook for 10 minutes."
+      },
+      {
+        "number": 3,
+        "text": "10 分钟后，将燕麦加入锅中，搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "originalText": "After 10 minutes, add the oats to the pot. Stir to combine, then cover with the lid."
+      },
+      {
+        "number": 4,
+        "text": "旋钮转至 SLOW COOK，温度设为 HI，时间设为 3 小时。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-08"
+        ],
+        "originalText": "Turn dial to SLOW COOK, set temperature to HI, and set time to 3 hours."
+      },
+      {
+        "number": 5,
+        "text": "烹饪完成后，加入樱桃并搅拌混合。立即食用。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, add cherries to the pot and stir to combine. Serve immediately."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "可将 2 cups 干樱桃换成 2 cups 干果或冷冻水果，例如蓝莓、草莓或覆盆子。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-01",
+      "SR-08"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      },
+      {
+        "number": 39,
+        "text": "可拆卸内锅中没有食物和液体时，切勿使用 SLOW COOK。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #39",
+          "type": "official"
+        }
+      },
+      {
+        "number": 50,
+        "text": "使用 SLOW COOK 时，始终保持锅盖关闭。",
+        "place": "",
+        "reviewIds": [
+          "SR-15"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #50",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "CHERRY MAPLE OATMEAL\nPREP: 10 MINUTES | COOK: 3 HOURS 10 MINUTES | MAKES: 4 SERVINGS\nINGREDIENTS DIRECTIONS\n8 cups low-fat milk 1 Place the milk, maple syrup, butter, vanilla extract,\n1/2 cup maple syrup cinnamon, nutmeg, and salt in the pot. Stir to\ncombine, then cover with the lid.\n4 tablespoons unsalted butter\n1 tablespoon vanilla extract 2 Turn dial to SEAR/SAUTÉ, set temperature to HI,\nand press START/STOP to begin cooking. Allow\n2 teaspoons ground cinnamon\ningredients to cook for 10 minutes.\n1/2 teaspoon ground nutmeg\n3 After 10 minutes, add the oats to the pot. Stir to\nKosher salt, as desired\ncombine, then cover with the lid.\n2 cups uncooked, steel-cut oats\n4 Turn dial to SLOW COOK, set temperature to HI,\n2 cups dried or fresh pitted cherries and set time to 3 hours.\n5 When cooking is complete, add cherries to the\npot and stir to combine. Serve immediately.\n8\ntsafkaerB\nVEGETARIAN GLUTEN-FREE NUT-FREE\nV\nBEGINNER RECIPE\nTIP S wap 2 cups dried cherries for 2 cups of dried\nor frozen fruit, such as blueberries, strawberries,\nor raspberries",
+    "originalIngredientsText": "8 cups low-fat milk\n1/2 cup maple syrup\n4 tablespoons unsalted butter\n1 tablespoon vanilla extract\n2 teaspoons ground cinnamon\n1/2 teaspoon ground nutmeg\nKosher salt, as desired\n2 cups uncooked, steel-cut oats\n2 cups dried or fresh pitted cherries",
+    "originalHeader": "PREP: 10 MINUTES | COOK: 3 HOURS 10 MINUTES | MAKES: 4 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "focaccia",
+    "title": "Simple Focaccia",
+    "titleZh": "简易佛卡夏面包",
+    "category": "前菜与配菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 6,
+      "printedPage": "9",
+      "section": "Simple Focaccia",
+      "type": "official"
+    },
+    "prep": "10 MINUTES",
+    "cook": "18 MINUTES",
+    "makes": "4–6 SERVINGS",
+    "proof": "1 HOUR",
+    "functions": [
+      "proof"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "16 ounces 现成披萨面团，室温",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "防粘烹饪喷雾",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "2 tablespoons 特级初榨橄榄油，另备一些供食用时使用",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "2 枝新鲜迷迭香，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "海盐，按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "新鲜黑胡椒，按需",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将披萨面团揉成球，再压成 4-inch 圆饼。在面团顶部和锅内轻喷烹饪喷雾。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "Roll the pizza dough into a ball, then flatten the ball into a 4-inch disc. Lightly spray the top of the dough and the inside of the pot with cooking spray."
+      },
+      {
+        "number": 2,
+        "text": "将面团放入锅中，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Place the dough in the pot, then cover with the lid."
+      },
+      {
+        "number": 3,
+        "text": "旋钮转至 PROOF，时间设为 60 分钟，温度设为 95°F。按 START/STOP 开始发酵。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to PROOF, set time to 60 minutes, and set temperature to 95°F. Press START/STOP to begin proofing."
+      },
+      {
+        "number": 4,
+        "text": "面团发酵时，将传统烤箱预热至 425°F。",
+        "place": "传统烤箱",
+        "reviewIds": [],
+        "originalText": "While the dough is proofing, preheat conventional oven to 425°F."
+      },
+      {
+        "number": 5,
+        "text": "发酵完成后移开锅盖，用手指将面团均匀铺满锅底表面。轻轻多次按压面团，形成凹坑。",
+        "place": "内锅操作",
+        "reviewIds": [],
+        "originalText": "When proofing is complete, remove the lid. Use fingers to spread dough evenly across surface area of pot. Gently press fingers into dough multiple times to create dimples in the dough."
+      },
+      {
+        "number": 6,
+        "text": "将橄榄油、迷迭香、盐和胡椒均匀撒在面团上。",
+        "place": "内锅操作",
+        "reviewIds": [],
+        "originalText": "Sprinkle the oil, rosemary, salt, and pepper evenly over the dough."
+      },
+      {
+        "number": 7,
+        "text": "将整个内锅（不带锅盖）放入传统烤箱，烘烤 18 分钟，直到面包呈浅金黄色。",
+        "place": "传统烤箱",
+        "reviewIds": [],
+        "originalText": "Place the entire pot (without the lid) in the conventional oven and bake for 18 minutes, until focaccia is lightly golden."
+      },
+      {
+        "number": 8,
+        "text": "烹饪完成后，从烤箱取出内锅。趁热食用或放凉至室温食用，可按需另配橄榄油。",
+        "place": "出炉／食用",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, remove the pot from the oven. Serve hot or cooled to room temperature with additional olive oil as desired."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "想增加变化，可在第 6 步将洋葱片、切碎的日晒番茄和／或绿橄榄放在面团上。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-17"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": true,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 33,
+        "text": "不要使用 SharkNinja 未推荐或未销售的配件。不要将配件放入微波炉、台式烤箱、热风烤箱、传统烤箱，也不要放在陶瓷炉面、电热盘、燃气炉或户外烤架上。使用未经推荐的配件可能引起火灾、触电或受伤。",
+        "place": "",
+        "reviewIds": [
+          "SR-17"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #33",
+          "type": "official"
+        }
+      },
+      {
+        "number": 34,
+        "text": "注意：热锅可能损坏台面或桌面。将热内锅从机器中取出时，不要直接放在没有保护的表面上。始终放在隔热垫或架子上。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #34",
+          "type": "official"
+        }
+      },
+      {
+        "number": 46,
+        "text": "烹饪中或刚结束时不要触碰配件，因为配件会非常热。为防烫伤或其他伤害，操作产品时始终小心。使用长柄器具、防烫垫或隔热烤箱手套。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #46",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "SIMPLE FOCACCIA\nPREP: 10 MINUTES | PROOF: 1 HOUR | COOK: 18 MINUTES | MAKES: 4–6 SERVINGS\nINGREDIENTS DIRECTIONS\n16 ounces prepared pizza dough, 1 Roll the pizza dough into a ball, then flatten\nroom temperature the ball into a 4-inch disc. Lightly spray the top\nNonstick cooking spray of the dough and the inside of the pot with\ncooking spray.\n2 tablespoons extra virgin olive oil,\nplus more for serving 2 Place the dough in the pot, then cover with\n2 sprigs fresh rosemary, chopped the lid.\nSea salt, as desired 3 Turn dial to PROOF, set time to 60 minutes, and\nset temperature to 95°F. Press START/STOP to\nFresh black pepper, as desired\nbegin proofing.\n4 While the dough is proofing, preheat conventional\noven to 425°F.\n5 When proofing is complete, remove the lid. Use\nfingers to spread dough evenly across surface\narea of pot. Gently press fingers into dough\nmultiple times to create dimples in the dough.\n6 Sprinkle the oil, rosemary, salt, and pepper evenly\nover the dough.\n7 Place the entire pot (without the lid) in the\nconventional oven and bake for 18 minutes, until\nfocaccia is lightly golden.\n8 When cooking is complete, remove the pot\nfrom the oven. Serve hot or cooled to room\ntemperature with additional olive oil as desired.\nTIP F or more variety, top the focaccia dough in step 6\nwith sliced onions, chopped sun-dried tomatoes,\nand/or green olives.\nQuestions? ninjakitchen.com 9\nAppetizers\n&\nSides\nVEGAN VEGETARIAN DAIRY-FREE NUT-FREE\nVG V\nINTERMEDIATE RECIPE",
+    "originalIngredientsText": "16 ounces prepared pizza dough,\nroom temperature\nNonstick cooking spray\n2 tablespoons extra virgin olive oil,\nplus more for serving\n2 sprigs fresh rosemary, chopped\nSea salt, as desired\nFresh black pepper, as desired",
+    "originalHeader": "PREP: 10 MINUTES | PROOF: 1 HOUR | COOK: 18 MINUTES | MAKES: 4–6 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "minestrone",
+    "title": "Minestrone Soup",
+    "titleZh": "意式蔬菜汤",
+    "category": "汤与炖菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 7,
+      "printedPage": "10",
+      "section": "Minestrone Soup",
+      "type": "official"
+    },
+    "prep": "15 MINUTES",
+    "cook": "35 MINUTES",
+    "makes": "12 SERVINGS",
+    "proof": null,
+    "functions": [
+      "sear-saute",
+      "bake"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "1 tablespoon 菜籽油",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "3 根胡萝卜，去皮、切薄片",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "3 根芹菜茎，切薄片",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "1 个白洋葱，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "4 瓣大蒜，去皮、切末",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1 罐（28 ounces）番茄丁",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "12 cups 蔬菜高汤",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "1 tablespoon 干牛至",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "1 盒（16 ounces）干弯管意面",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "Kosher salt（粗盐），按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 11,
+        "text": "黑胡椒粉，按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 12,
+        "text": "1 袋（12 ounces）四季豆，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 13,
+        "text": "1/4 cup 欧芹，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 14,
+        "text": "1 cup 磨碎的帕尔马干酪",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 15,
+        "text": "红辣椒碎，按需",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "移开锅盖。旋钮转至 SEAR/SAUTÉ，温度设为 HI，按 START/STOP 开始预热。预热 5 分钟。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Remove the lid from the pot. Turn dial to SEAR/SAUTÉ set temperature to HI, and press START/STOP to begin preheating. Allow the unit to preheat for 5 minutes."
+      },
+      {
+        "number": 2,
+        "text": "将油、胡萝卜、芹菜、洋葱和大蒜加入锅中。不盖盖烹饪 5 分钟，偶尔搅拌。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Add the oil, carrots, celery, onion, and garlic to the pot. Cook uncovered for 5 minutes, stirring occasionally."
+      },
+      {
+        "number": 3,
+        "text": "将番茄、高汤、牛至、意面、盐和胡椒加入锅中。搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Add the tomatoes, stock, oregano, pasta, salt, and pepper to pot. Stir to combine, then cover with the lid."
+      },
+      {
+        "number": 4,
+        "text": "旋钮转至 BAKE，温度设为 400°F，时间设为 30 分钟，按 START/STOP 开始烹饪。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to BAKE, set temperature to 400°F, set time to 30 minutes, and press START/STOP to begin cooking."
+      },
+      {
+        "number": 5,
+        "text": "25 分钟后，将四季豆加入锅中，搅拌混合。不盖盖烹饪 5 分钟，直到四季豆变软。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "After 25 minutes, add the green beans to the pot and stir to combine. Cook uncovered for 5 minutes, until green beans are tender."
+      },
+      {
+        "number": 6,
+        "text": "烹饪完成后立即食用，可按需配欧芹、帕尔马干酪和辣椒碎。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, serve the soup immediately with parsley, Parmesan cheese, and chili flakes as desired."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "烹饪完成后，意面会继续吸收蔬菜高汤。可在烹饪后额外加入最多 2 cups 高汤，以保持汤状稠度。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-02"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "MINESTRONE SOUP\nPREP: 15 MINUTES | COOK: 35 MINUTES | MAKES: 12 SERVINGS\nINGREDIENTS DIRECTIONS\n1 tablespoon canola oil 1 Remove the lid from the pot. Turn dial to\n3 carrots, peeled, thinly sliced SEAR/SAUTÉ set temperature to HI, and press\nSTART/STOP to begin preheating. Allow the unit\n3 celery ribs, thinly sliced\nto preheat for 5 minutes.\n1 white onion, chopped\n2 Add the oil, carrots, celery, onion, and garlic\n4 cloves garlic, peeled, minced\nto the pot. Cook uncovered for 5 minutes,\n1 can (28 ounces) diced tomatoes stirring occasionally.\n12 cups vegetable stock\n3 Add the tomatoes, stock, oregano, pasta, salt, and\n1 tablespoon dry oregano pepper to pot. Stir to combine, then cover with\n1 box (16 ounces) dry elbow pasta the lid.\nKosher salt, as desired 4 Turn dial to BAKE, set temperature to 400°F, set\nGround black pepper, as desired time to 30 minutes, and press START/STOP to\nbegin cooking.\n1 bag (12 ounces) green beans, chopped\n5 After 25 minutes, add the green beans to the\n1/4 cup parsley, chopped\npot and stir to combine. Cook uncovered for 5\n1 cup grated Parmesan cheese\nminutes, until green beans are tender.\nRed chili flakes, as desired\n6 When cooking is complete, serve the soup\nimmediately with parsley, Parmesan cheese, and\nchili flakes as desired.\nTIP O nce cooking is complete, the pasta will\ncontinue to absorb the vegetable stock. Add\nup to 2 cups additional stock after cooking to\nmaintain a soupy consistency.\n10\nswetS\n&\nspuoS\nVEGETARIAN NUT-FREE\nV\nBEGINNER RECIPE",
+    "originalIngredientsText": "1 tablespoon canola oil\n3 carrots, peeled, thinly sliced\n3 celery ribs, thinly sliced\n1 white onion, chopped\n4 cloves garlic, peeled, minced\n1 can (28 ounces) diced tomatoes\n12 cups vegetable stock\n1 tablespoon dry oregano\n1 box (16 ounces) dry elbow pasta\nKosher salt, as desired\nGround black pepper, as desired\n1 bag (12 ounces) green beans, chopped\n1/4 cup parsley, chopped\n1 cup grated Parmesan cheese\nRed chili flakes, as desired",
+    "originalHeader": "PREP: 15 MINUTES | COOK: 35 MINUTES | MAKES: 12 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "deviled-eggs",
+    "title": "Deviled Eggs",
+    "titleZh": "魔鬼蛋",
+    "category": "蒸制菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 8,
+      "printedPage": "13",
+      "section": "Deviled Eggs",
+      "type": "official"
+    },
+    "prep": "10 MINUTES",
+    "cook": "20 MINUTES",
+    "makes": "12 SERVINGS",
+    "proof": null,
+    "functions": [
+      "steam"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "1 cup 水",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "12 个大鸡蛋",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "3 tablespoons 蛋黄酱",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "2 tablespoons 第戎芥末酱",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "2 tablespoons 腌黄瓜汁",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "2 dashes 辣椒酱",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "1/2 teaspoon 烟熏红椒粉，另备一些作装饰",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "3 tablespoons 特级初榨橄榄油",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "Kosher salt（粗盐），按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "黑胡椒粉，按需",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将水放入锅中，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Place water in the pot, then cover with the lid."
+      },
+      {
+        "number": 2,
+        "text": "旋钮转至 STEAM，时间设为 20 分钟，按 START/STOP 开始预热。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to STEAM, set time to 20 minutes, and press START/STOP to begin preheating."
+      },
+      {
+        "number": 3,
+        "text": "预热完成后，移开锅盖，轻轻将鸡蛋放入锅中，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When preheating is complete, remove the lid and gently place the eggs in the pot, then cover with the lid."
+      },
+      {
+        "number": 4,
+        "text": "鸡蛋烹饪时，在大碗中按需加入水和冰，准备冰浴。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "While the eggs are cooking, prepare an ice bath by adding water and ice to a large bowl, as needed."
+      },
+      {
+        "number": 5,
+        "text": "烹饪完成后，将鸡蛋从锅中取出并放入冰浴，确保鸡蛋完全浸没。冰浴至少 15 分钟，以停止烹饪过程。",
+        "place": "冰浴",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, remove the eggs from the pot and transfer to ice bath, ensuring the eggs are fully submerged. Leave the eggs in the ice bath for at least 15 minutes to stop the cooking process."
+      },
+      {
+        "number": 6,
+        "text": "鸡蛋冷却时，将所有剩余食材放入一个大碗中。",
+        "place": "准备",
+        "reviewIds": [
+          "SR-07"
+        ],
+        "originalText": "While the eggs are cooling, place all remaining ingredients in a large bowl."
+      },
+      {
+        "number": 7,
+        "text": "鸡蛋完全冷却后，在冷水下剥壳。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "When the eggs are completely cooled, peel them under cold water to remove the shells."
+      },
+      {
+        "number": 8,
+        "text": "将去壳鸡蛋切成两半。轻轻挖出蛋黄，放入一个中碗，与所有剩余食材放在一起。",
+        "place": "准备",
+        "reviewIds": [
+          "SR-07"
+        ],
+        "originalText": "Cut the peeled eggs in half. Gently scoop the yolks out of the halved eggs and place into a medium bowl with all remaining ingredients."
+      },
+      {
+        "number": 9,
+        "text": "搅打食材至少 30 秒，或直到完全混合、质地顺滑。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "Whisk the ingredients together for at least 30 seconds or until fully combined and smooth in consistency."
+      },
+      {
+        "number": 10,
+        "text": "将蛋黄混合物装入可重复密封的塑料袋，剪掉袋子一角。在每半个蛋白中挤入约 1½ tablespoons 馅料，填至高出蛋白。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "Transfer the egg mixture to a resealable plastic bag. Cut off a corner of the plastic bag and pipe approx. 11/2 tablespoons of filling into each egg half, overstuffing each."
+      },
+      {
+        "number": 11,
+        "text": "按需另撒红椒粉装饰，即可食用。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "Garnish the deviled eggs with additional paprika as desired and serve."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "在第 5 步，可用白葡萄酒醋或苹果醋替换腌黄瓜汁。",
+        "place": "",
+        "reviewIds": [
+          "SR-07"
+        ]
+      }
+    ],
+    "reviewIds": [
+      "SR-07"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [],
+    "originalText": "DEVILED EGGS\nPREP: 10 MINUTES | COOK: 20 MINUTES | MAKES: 12 SERVINGS\nINGREDIENTS DIRECTIONS\n1 cup water 1 Place water in the pot, then cover with the lid.\n12 large eggs 2 Turn dial to STEAM, set time to 20 minutes, and\n3 tablespoons mayonnaise press START/STOP to begin preheating.\n2 tablespoons Dijon mustard 3 When preheating is complete, remove the lid and\n2 tablespoons pickle brine gently place the eggs in the pot, then cover with\nthe lid.\n2 dashes hot sauce\n1/2 teaspoon smoked paprika, 4 While the eggs are cooking, prepare an\nplus extra for garnish ice bath by adding water and ice to a large bowl,\nas needed.\n3 tablespoons extra virgin olive oil\n5 When cooking is complete, remove the eggs\nKosher salt, as desired\nfrom the pot and transfer to ice bath, ensuring\nGround black pepper, as desired\nthe eggs are fully submerged. Leave the eggs in\nthe ice bath for at least 15 minutes to stop the\ncooking process.\n6 While the eggs are cooling, place all remaining\ningredients in a large bowl.\n7 When the eggs are completely cooled, peel them\nunder cold water to remove the shells.\n8 Cut the peeled eggs in half. Gently scoop the\nyolks out of the halved eggs and place into a\nmedium bowl with all remaining ingredients.\n9 Whisk the ingredients together for at least\n30 seconds or until fully combined and smooth\nin consistency.\n10 Transfer the egg mixture to a resealable plastic\nbag. Cut off a corner of the plastic bag and pipe\napprox. 11/2 tablespoons of filling into each egg\nhalf, overstuffing each.\n11 Garnish the deviled eggs with additional paprika\nTIP S ubstitute white wine or apple cider vinegar for as desired and serve.\nthe pickle brine in Step 5\nQuestions? ninjakitchen.com 13\nSteamed\nDishes\nVEGETARIAN GLUTEN-FREE NUT-FREE\nV\nBEGINNER RECIPE",
+    "originalIngredientsText": "1 cup water\n12 large eggs\n3 tablespoons mayonnaise\n2 tablespoons Dijon mustard\n2 tablespoons pickle brine\n2 dashes hot sauce\n1/2 teaspoon smoked paprika,\nplus extra for garnish\n3 tablespoons extra virgin olive oil\nKosher salt, as desired\nGround black pepper, as desired",
+    "originalHeader": "PREP: 10 MINUTES | COOK: 20 MINUTES | MAKES: 12 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "risotto",
+    "title": "Butternut Squash & Bacon Risotto",
+    "titleZh": "奶油南瓜培根意式烩饭",
+    "category": "主菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 9,
+      "printedPage": "14",
+      "section": "Butternut Squash & Bacon Risotto",
+      "type": "official"
+    },
+    "prep": "10 MINUTES",
+    "cook": "50 MINUTES",
+    "makes": "4 SERVINGS",
+    "proof": null,
+    "functions": [
+      "sear-saute"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "8 ounces 生培根，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "1 个小白洋葱，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "8 cups 鸡高汤",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "2 cups Arborio 意大利米",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "8 ounces 冷冻奶油南瓜",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1/4 teaspoon 干鼠尾草粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "1/2 cup 帕尔马干酪丝",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "旋钮转至 SEAR/SAUTÉ，温度设为 HI，按 START/STOP 开始预热。预热 5 分钟。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to SEAR/SAUTÉ, set temperature to HI, and press START/STOP to begin preheating. Allow the unit to preheat for 5 minutes."
+      },
+      {
+        "number": 2,
+        "text": "预热完成后，将培根加入锅中，不盖盖烹饪 10 分钟，偶尔搅拌。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When preheating is complete, add the bacon to the pot and cook uncovered for 10 minutes, stirring occasionally."
+      },
+      {
+        "number": 3,
+        "text": "将洋葱加入锅中，不盖盖烹饪 5 分钟，偶尔搅拌。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Add the onion to the pot and cook uncovered for 5 minutes, stirring occasionally."
+      },
+      {
+        "number": 4,
+        "text": "将高汤、米、南瓜和鼠尾草加入锅中。充分搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "originalText": "Add the stock, rice, squash, and sage to the pot. Stir the ingredients until well combined, then cover with the lid."
+      },
+      {
+        "number": 5,
+        "text": "烹饪米混合物 35 分钟，偶尔搅拌。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "originalText": "Cook the rice mixture for 35 minutes, stirring occasionally."
+      },
+      {
+        "number": 6,
+        "text": "烹饪完成后，按 START/STOP 结束烹饪。移开锅盖，加入帕尔马干酪并搅拌混合。不盖盖静置 5 分钟。趁热食用。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, press START/STOP to end cooking. Remove the lid, then add the Parmesan cheese and mix to combine. Allow the risotto to sit, uncovered, for 5 minutes. Serve hot."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "若要做成素食，可省去培根，并在第 4 步用蔬菜高汤替代鸡高汤。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-01",
+      "SR-02"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "BUTTERNUT SQUASH &\nBACON RISOTTO\nPREP: 10 MINUTES | COOK: 50 MINUTES | MAKES: 4 SERVINGS\nINGREDIENTS DIRECTIONS\n8 ounces uncooked bacon, chopped 1 Turn dial to SEAR/SAUTÉ, set temperature to\n1 small white onion, chopped HI, and press START/STOP to begin preheating.\nAllow the unit to preheat for 5 minutes.\n8 cups chicken stock\n2 cups arborio rice 2 When preheating is complete, add the bacon\nto the pot and cook uncovered for 10 minutes,\n8 ounces frozen butternut squash\nstirring occasionally.\n1/4 teaspoon dry ground sage\n3 Add the onion to the pot and cook uncovered for\n1/2 cup shredded Parmesan cheese\n5 minutes, stirring occasionally.\n4 Add the stock, rice, squash, and sage to the pot.\nStir the ingredients until well combined, then\ncover with the lid.\n5 Cook the rice mixture for 35 minutes,\nstirring occasionally.\n6 When cooking is complete, press START/STOP\nto end cooking. Remove the lid, then add the\nParmesan cheese and mix to combine. Allow the\nrisotto to sit, uncovered, for 5 minutes. Serve hot.\nTIP T o make this dish vegetarian, omit bacon and\nsubstitute vegetable stock for chicken stock in\nStep 4.\n14\nseértnE\nGLUTEN-FREE NUT-FREE\nBEGINNER RECIPE",
+    "originalIngredientsText": "8 ounces uncooked bacon, chopped\n1 small white onion, chopped\n8 cups chicken stock\n2 cups arborio rice\n8 ounces frozen butternut squash\n1/4 teaspoon dry ground sage\n1/2 cup shredded Parmesan cheese",
+    "originalHeader": "PREP: 10 MINUTES | COOK: 50 MINUTES | MAKES: 4 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "coconut-chicken",
+    "title": "Coconut Braised Chicken Thighs",
+    "titleZh": "椰奶焖鸡腿",
+    "category": "主菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 10,
+      "printedPage": "16",
+      "section": "Coconut Braised Chicken Thighs",
+      "type": "official"
+    },
+    "prep": "10 MINUTES",
+    "cook": "2 HOURS 15 MINUTES",
+    "makes": "4 SERVINGS",
+    "proof": null,
+    "functions": [
+      "sear-saute",
+      "braise"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "8 块带骨带皮鸡腿肉（每块约 6 ounces）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "Kosher salt（粗盐），按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "黑胡椒粉，按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "1 tablespoon 菜籽油",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "4 瓣大蒜，去皮、切末",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1 tablespoon 姜，去皮、切末",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "1 个大白洋葱，切丁",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "2 罐椰奶（每罐 13 1/2 ounces）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "2 cups 鸡高汤",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "2 个红薯，切成 1-inch 块",
+        "place": "",
+        "reviewIds": [
+          "SR-14"
+        ]
+      },
+      {
+        "number": 11,
+        "text": "1 袋（6 ounces）嫩菠菜",
+        "place": "",
+        "reviewIds": [
+          "SR-06"
+        ]
+      },
+      {
+        "number": 12,
+        "text": "煮好的米饭，按需",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "旋钮转至 SEAR/SAUTÉ，温度设为 HI，按 START/STOP 开始预热。预热 5 分钟。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to SEAR/SAUTÉ, set temperature to HI, and press START/STOP to begin preheating. Allow the unit to preheat for 5 minutes."
+      },
+      {
+        "number": 2,
+        "text": "预热时，用盐和胡椒给鸡肉两面调味。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "While unit is preheating, season the chicken with salt and pepper on both sides."
+      },
+      {
+        "number": 3,
+        "text": "预热完成后，将油倒入锅中。将鸡肉皮朝下放入锅中，烹饪 10 分钟。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When preheating is complete, place the oil in the pot. Place the chicken in the pot, skin-side down, and cook for 10 minutes."
+      },
+      {
+        "number": 4,
+        "text": "10 分钟后，用夹子将鸡肉取出并放在一旁。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "After 10 minutes, use tongs to remove the chicken from the pot and set aside."
+      },
+      {
+        "number": 5,
+        "text": "将大蒜、姜和洋葱加入锅中。烹饪 5 分钟，经常搅拌。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Add the garlic, ginger, and onion to the pot. Cook for 5 minutes, stirring frequently."
+      },
+      {
+        "number": 6,
+        "text": "将椰奶、鸡高汤、土豆（原文 potatoes）、盐和胡椒加入锅中，搅拌混合。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-14"
+        ],
+        "originalText": "Add the coconut milk, chicken stock, potatoes, salt, and pepper to the pot. Stir to combine."
+      },
+      {
+        "number": 7,
+        "text": "将鸡肉皮朝上放回锅中，把鸡肉嵌入土豆和酱汁中，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-14"
+        ],
+        "originalText": "Place the chicken, skin-side up, back into the pot. Nestle chicken pieces into the potatoes and sauce, then cover with the lid."
+      },
+      {
+        "number": 8,
+        "text": "旋钮转至 BRAISE，时间设为 2 小时，按 START/STOP 继续烹饪。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to BRAISE, set time to 2 hours, and press START/STOP to resume cooking."
+      },
+      {
+        "number": 9,
+        "text": "烹饪完成后，移开锅盖，让鸡肉冷却 5 分钟再食用。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, remove the lid and allow the chicken to cool for 5 minutes before serving."
+      },
+      {
+        "number": 10,
+        "text": "鸡肉趁热食用，可按需配米饭。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "Serve the chicken hot with rice as desired."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "若要增加风味，可在第 7 步加入 1 tablespoon 咖喱粉和 1 tablespoon 辣椒膏。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-02",
+      "SR-06",
+      "SR-14"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      },
+      {
+        "number": 24,
+        "text": "注意：使用 Braise 时，内锅和锅盖会很热。触碰热表面及取出食物时应小心，以免烫伤。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #24",
+          "type": "official"
+        }
+      },
+      {
+        "number": 34,
+        "text": "注意：热锅可能损坏台面或桌面。将热内锅从机器中取出时，不要直接放在没有保护的表面上。始终放在隔热垫或架子上。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #34",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "COCONUT BRAISED\nCHICKEN THIGHS\nPREP: 10 MINUTES | COOK: 2 HOURS 15 MINUTES | MAKES: 4 SERVINGS\nINGREDIENTS DIRECTIONS\n8 bone-in, skin-on chicken thighs 1 Turn dial to SEAR/SAUTÉ, set temperature to\n(approx. 6 ounces each) HI, and press START/STOP to begin preheating.\nKosher salt, as desired Allow the unit to preheat for 5 minutes.\nGround black pepper, as desired 2 While unit is preheating, season the chicken with\n1 tablespoon canola oil salt and pepper on both sides.\n4 cloves garlic, peeled, minced 3 When preheating is complete, place the oil in the\npot. Place the chicken in the pot, skin-side down,\n1 tablespoon ginger, peeled, minced\nand cook for 10 minutes.\n1 large white onion, diced\n4 After 10 minutes, use tongs to remove the\n2 cans (13 1/2 ounces each) coconut milk\nchicken from the pot and set aside.\n2 cups chicken stock\n5 Add the garlic, ginger, and onion to the pot.\n2 sweet potatoes, cut in 1-inch pieces\nCook for 5 minutes, stirring frequently.\n1 bag (6 ounces) baby spinach\n6 Add the coconut milk, chicken stock, potatoes,\nCooked rice, as desired salt, and pepper to the pot. Stir to combine.\n7 Place the chicken, skin-side up, back into the\npot. Nestle chicken pieces into the potatoes and\nsauce, then cover with the lid.\n8 Turn dial to BRAISE, set time to 2 hours, and\npress START/STOP to resume cooking.\n9 When cooking is complete, remove the lid\nand allow the chicken to cool for 5 minutes\nbefore serving.\n10 Serve the chicken hot with rice as desired.\nTIP F or added flavor, add 1 tablespoon curry powder\nand 1 tablespoon chili paste in step 7.\n16\nseértnE\nDAIRY-FREE GLUTEN-FREE NUT-FREE\nINTERMEDIATE RECIPE",
+    "originalIngredientsText": "8 bone-in, skin-on chicken thighs\n(approx. 6 ounces each)\nKosher salt, as desired\nGround black pepper, as desired\n1 tablespoon canola oil\n4 cloves garlic, peeled, minced\n1 tablespoon ginger, peeled, minced\n1 large white onion, diced\n2 cans (13 1/2 ounces each) coconut milk\n2 cups chicken stock\n2 sweet potatoes, cut in 1-inch pieces\n1 bag (6 ounces) baby spinach\nCooked rice, as desired",
+    "originalHeader": "PREP: 10 MINUTES | COOK: 2 HOURS 15 MINUTES | MAKES: 4 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "buffalo-mac",
+    "title": "Buffalo Chicken Mac & Cheese Casserole",
+    "titleZh": "布法罗辣酱鸡肉芝士通心粉焗锅",
+    "category": "主菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 10,
+      "printedPage": "17",
+      "section": "Buffalo Chicken Mac & Cheese Casserole",
+      "type": "official"
+    },
+    "prep": "15 MINUTES",
+    "cook": "27 MINUTES",
+    "makes": "4 SERVINGS",
+    "proof": null,
+    "functions": [
+      "bake"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "2 cups 水",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "1 盒（6 ounces）通心粉奶酪餐包，奶酪调料包另放一旁",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "8 ounces 熟鸡肉丝",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "4 tablespoons Buffalo 辣酱",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "2 tablespoons 无盐黄油",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1/2 cup 全脂牛奶",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "1 cup 冷冻混合蔬菜",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "2/3 cup 面包屑",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "1/3 cup 蓝纹奶酪沙拉酱",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "1/4 cup 切达奶酪丝",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将水和通心粉放入锅中（奶酪调料包另放一旁），搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Place water and macaroni in the pot (set aside the cheese packet). Stir to combine, then cover with the lid."
+      },
+      {
+        "number": 2,
+        "text": "旋钮转至 BAKE，温度设为 400°F，时间设为 17 分钟。按 START/STOP 开始烹饪。烹饪期间至少搅拌意面两次。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to BAKE, set temperature to 400°F, and set time to 17 minutes. Press START/STOP to begin cooking. Stir the pasta at least twice during cooking process."
+      },
+      {
+        "number": 3,
+        "text": "意面烹饪时，将传统烤箱设为 BROIL（上火炙烤）。",
+        "place": "传统烤箱",
+        "reviewIds": [],
+        "originalText": "While the pasta is cooking, set conventional oven to BROIL."
+      },
+      {
+        "number": 4,
+        "text": "烹饪完成后，将预留的奶酪调料包、鸡肉、Buffalo 辣酱、黄油、牛奶和蔬菜加入锅中的意面。搅拌至黄油融化、食材均匀混合。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, add the reserved cheese packet, chicken, Buffalo sauce, butter, milk, and vegetables to the pasta in the pot. Stir until the butter is melted and ingredients are evenly combined."
+      },
+      {
+        "number": 5,
+        "text": "在中碗中加入面包屑、蓝纹奶酪沙拉酱和切达奶酪，混合后均匀铺在意面上。",
+        "place": "准备／内锅操作",
+        "reviewIds": [],
+        "originalText": "In a medium bowl, add the bread crumbs, blue cheese dressing, and cheddar cheese. Mix to combine, then evenly cover the pasta with the bread crumb mixture."
+      },
+      {
+        "number": 6,
+        "text": "将内锅直接放入预热好的烤箱，上火炙烤最多 10 分钟，或直到意面顶部呈金黄色。直接用内锅盛装，供大家分食。",
+        "place": "传统烤箱",
+        "reviewIds": [],
+        "originalText": "Place pot directly in the preheated oven and broil for up to 10 minutes or until the top of the pasta is golden brown. Serve family-style directly from the pot."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "若要做成更传统的奶酪通心粉，可省去第 4 步的鸡肉和 Buffalo 辣酱，以及第 5 步的蓝纹奶酪沙拉酱。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-17"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": true,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 33,
+        "text": "不要使用 SharkNinja 未推荐或未销售的配件。不要将配件放入微波炉、台式烤箱、热风烤箱、传统烤箱，也不要放在陶瓷炉面、电热盘、燃气炉或户外烤架上。使用未经推荐的配件可能引起火灾、触电或受伤。",
+        "place": "",
+        "reviewIds": [
+          "SR-17"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #33",
+          "type": "official"
+        }
+      },
+      {
+        "number": 34,
+        "text": "注意：热锅可能损坏台面或桌面。将热内锅从机器中取出时，不要直接放在没有保护的表面上。始终放在隔热垫或架子上。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #34",
+          "type": "official"
+        }
+      },
+      {
+        "number": 46,
+        "text": "烹饪中或刚结束时不要触碰配件，因为配件会非常热。为防烫伤或其他伤害，操作产品时始终小心。使用长柄器具、防烫垫或隔热烤箱手套。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #46",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "BUFFALO CHICKEN MAC\n& CHEESE CASSEROLE\nPREP: 15 MINUTES | COOK: 27 MINUTES | MAKES: 4 SERVINGS\nINGREDIENTS DIRECTIONS\n2 cups water 1 Place water and macaroni in the pot (set aside\n1 box (6 ounces) macaroni & cheese, the cheese packet). Stir to combine, then cover\ncheese packet set aside with the lid.\n8 ounces cooked shredded chicken 2 Turn dial to BAKE, set temperature to 400°F,\n4 tablespoons Buffalo sauce and set time to 17 minutes. Press START/STOP to\nbegin cooking. Stir the pasta at least twice during\n2 tablespoons unsalted butter\ncooking process.\n1/2 cup whole milk\n3 While the pasta is cooking, set conventional oven\n1 cup frozen mixed vegetables\nto BROIL.\n2/3 cup bread crumbs\n4 When cooking is complete, add the reserved\n1/3 cup blue cheese dressing cheese packet, chicken, Buffalo sauce, butter,\n1/4 cup shredded cheddar cheese milk, and vegetables to the pasta in the pot. Stir\nuntil the butter is melted and ingredients are\nevenly combined.\n5 In a medium bowl, add the bread crumbs, blue\ncheese dressing, and cheddar cheese. Mix to\ncombine, then evenly cover the pasta with the\nbread crumb mixture.\n6 Place pot directly in the preheated oven and broil\nfor up to 10 minutes or until the top of the pasta\nis golden brown. Serve family-style directly from\nthe pot.\nTIP T o make this a more traditional Mac and Cheese,\nomit the chicken and Buffalo sauce from Step 4\nand the blue cheese dressing from Step 5.\nQuestions? ninjakitchen.com 17\nEntrées\nNUT-FREE\nINTERMEDIATE RECIPE",
+    "originalIngredientsText": "2 cups water\n1 box (6 ounces) macaroni & cheese,\ncheese packet set aside\n8 ounces cooked shredded chicken\n4 tablespoons Buffalo sauce\n2 tablespoons unsalted butter\n1/2 cup whole milk\n1 cup frozen mixed vegetables\n2/3 cup bread crumbs\n1/3 cup blue cheese dressing\n1/4 cup shredded cheddar cheese",
+    "originalHeader": "PREP: 15 MINUTES | COOK: 27 MINUTES | MAKES: 4 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "pulled-pork",
+    "title": "BBQ Pulled Pork Sandwiches",
+    "titleZh": "烧烤酱手撕猪肉三明治",
+    "category": "主菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 11,
+      "printedPage": "18",
+      "section": "BBQ Pulled Pork Sandwiches",
+      "type": "official"
+    },
+    "prep": "5 MINUTES",
+    "cook": "8 HOURS (DEPENDING ON SIZE OF PORK)",
+    "makes": "20 SERVINGS",
+    "proof": null,
+    "functions": [
+      "slow-cook"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "8 pounds 去骨猪肩肉，切成 4-inch 块",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "2 瓶现成烧烤酱（每瓶 18 ounces）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "1 cup 苹果醋，分次使用",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "2 袋现成卷心菜沙拉混合菜丝（每袋 16 ounces）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "1 cup 蛋黄酱",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1/4 cup 细砂糖",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "Kosher salt（粗盐），按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "黑胡椒粉，按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "20 个汉堡面包",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "配料（可选）：切片甜酸腌黄瓜（bread and butter pickles）",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将猪肉、烧烤酱和 3/4 cup 苹果醋放入锅中。轻轻搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Place the pork, BBQ sauce, and 3/4 cup apple cider vinegar in the pot. Gently stir to combine, then cover with the lid."
+      },
+      {
+        "number": 2,
+        "text": "旋钮转至 SLOW COOK，温度设为 HI，时间设为 8 小时。按 START/STOP 开始烹饪。为获得最佳效果，烹饪进行到一半时搅拌猪肉混合物。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-15"
+        ],
+        "originalText": "Turn dial to SLOW COOK, set temperature to HI, and set time to 8 hours. Press START/STOP to begin cooking. For best results, stir the pork mixture halfway through cooking."
+      },
+      {
+        "number": 3,
+        "text": "猪肉烹饪时准备卷心菜沙拉。在中碗中加入现成沙拉菜丝、1/4 cup 苹果醋、蛋黄酱、糖、盐和胡椒，充分混合后放在一旁。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "While the pork is cooking, prepare the coleslaw. In a medium bowl, add the prepared coleslaw mix, 1/4 cup apple cider vinegar, mayonnaise, sugar, salt, and pepper. Mix until well combined, then set aside."
+      },
+      {
+        "number": 4,
+        "text": "猪肉煮好时，应软嫩至可用叉子轻松分开。注意较大的猪肉块可能需要额外最多 1 小时烹饪。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When the pork is finished cooking, it will be fork tender. Note that larger cuts of pork may require up to an additional hour of cooking."
+      },
+      {
+        "number": 5,
+        "text": "烹饪完成后，将猪肉从烹饪液中取出，放入大碗。用硅胶头夹子将猪肉撕碎，再加入锅中约一半的烹饪液，混合至猪肉均匀裹上汁液、达到所需质地。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, remove the pork from cooking liquid and place in a large bowl. Use silicone-tipped tongs to shred the pork, then add approximately half the cooking liquid from the pot to the pork. Mix until the pork is evenly coated and the desired texture is achieved."
+      },
+      {
+        "number": 6,
+        "text": "在面包下半部均匀放上猪肉、卷心菜沙拉及按需添加的腌黄瓜。盖上面包上半部，趁热食用。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "Evenly top the bottom halves of the buns with pork, coleslaw, and pickles if desired. Close the sandwiches and serve hot."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "手撕猪肉的烹饪时间完全取决于肉块大小和厚度。肉块越大、越厚，所需时间越长。切成较小、适合炖煮的肉块会缩短烹饪时间。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-15"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 39,
+        "text": "可拆卸内锅中没有食物和液体时，切勿使用 SLOW COOK。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #39",
+          "type": "official"
+        }
+      },
+      {
+        "number": 50,
+        "text": "使用 SLOW COOK 时，始终保持锅盖关闭。",
+        "place": "",
+        "reviewIds": [
+          "SR-15"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #50",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "BBQ PULLED PORK SANDWICHES\nPREP: 5 MINUTES | COOK: 8 HOURS (DEPENDING ON SIZE OF PORK) | MAKES: 20 SERVINGS\nINGREDIENTS DIRECTIONS\n8 pounds boneless pork shoulder, 1 Place the pork, BBQ sauce, and 3/4 cup apple\ncut into 4-inch chunks cider vinegar in the pot. Gently stir to combine,\n2 bottles (18 ounces each) prepared BBQ sauce then cover with the lid.\n1 cup apple cider vinegar, divided 2 Turn dial to SLOW COOK, set temperature to\n2 bags (16 ounces each) prepared coleslaw mix HI, and set time to 8 hours. Press START/STOP\nto begin cooking. For best results, stir the pork\n1 cup mayonnaise\nmixture halfway through cooking.\n1/4 cup granulated sugar\n3 While the pork is cooking, prepare the coleslaw.\nKosher salt, as desired\nIn a medium bowl, add the prepared coleslaw mix,\nGround black pepper, as desired 1/4 cup apple cider vinegar, mayonnaise, sugar,\n20 hamburger buns salt, and pepper. Mix until well combined, then\nset aside.\nTOPPINGS (optional) 4 When the pork is finished cooking, it will be fork\ntender. Note that larger cuts of pork may require\nSliced bread and butter pickles\nup to an additional hour of cooking.\n5 When cooking is complete, remove the pork\nfrom cooking liquid and place in a large bowl.\nUse silicone-tipped tongs to shred the pork, then\nadd approximately half the cooking liquid from\nthe pot to the pork. Mix until the pork is evenly\ncoated and the desired texture is achieved.\n6 Evenly top the bottom halves of the buns with\npork, coleslaw, and pickles if desired. Close the\nsandwiches and serve hot.\nTIP T he pulled pork cook time depends entirely\non size and thickness. The larger and thicker\nthe cut(s) of pork, the longer the cook time.\nCutting the pork into smaller, stew-sized pieces\nwill reduce cook time.\n18\nseértnE\nNUT-FREE\nBEGINNER RECIPE",
+    "originalIngredientsText": "8 pounds boneless pork shoulder,\ncut into 4-inch chunks\n2 bottles (18 ounces each) prepared BBQ sauce\n1 cup apple cider vinegar, divided\n2 bags (16 ounces each) prepared coleslaw mix\n1 cup mayonnaise\n1/4 cup granulated sugar\nKosher salt, as desired\nGround black pepper, as desired\n20 hamburger buns\nTOPPINGS (optional)\nSliced bread and butter pickles",
+    "originalHeader": "PREP: 5 MINUTES | COOK: 8 HOURS (DEPENDING ON SIZE OF PORK) | MAKES: 20 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "short-ribs",
+    "title": "Braised Beef Short Ribs",
+    "titleZh": "红酒焖牛小排",
+    "category": "主菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 11,
+      "printedPage": "19",
+      "section": "Braised Beef Short Ribs",
+      "type": "official"
+    },
+    "prep": "15 MINUTES",
+    "cook": "4 HOURS 15 MINUTES",
+    "makes": "4 SERVINGS",
+    "proof": null,
+    "functions": [
+      "sear-saute",
+      "braise"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "4 pounds 带骨牛小排（约 6 块）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "Kosher salt（粗盐），按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "黑胡椒粉，按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "1/4 cup 中筋面粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "1 tablespoon 菜籽油",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1 cup 红葡萄酒",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "2 tablespoons 浓缩番茄膏",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "3 cups 牛肉高汤",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "1 个白洋葱，去皮、切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "5 根胡萝卜，去皮、切薄片",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 11,
+        "text": "4 瓣大蒜，去皮、切末",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 12,
+        "text": "1 包（10 ounces）褐蘑菇（cremini），去柄、切成四块",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 13,
+        "text": "2 个 Idaho 土豆，切成 1-inch 块",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 14,
+        "text": "2 枝迷迭香，去梗、叶子切末",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "用盐和胡椒给牛肉各面调味，再裹上面粉。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "Season the beef on all sides with salt and pepper, then coat with flour."
+      },
+      {
+        "number": 2,
+        "text": "移开锅盖。旋钮转至 SEAR/SAUTÉ，温度设为 HI，按 START/STOP 开始预热。预热 5 分钟。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Remove the lid from the pot. Turn dial to SEAR/SAUTÉ, set temperature to HI, and press START/STOP to begin preheating. Allow the unit to preheat for 5 minutes."
+      },
+      {
+        "number": 3,
+        "text": "预热完成后，将菜籽油和调好味的牛肉加入锅中。不盖盖煎至牛肉各面上色，约 15 分钟。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When preheating is complete, add the canola oil and seasoned beef to the pot. Cook uncovered until the beef is browned on all sides, about 15 minutes."
+      },
+      {
+        "number": 4,
+        "text": "15 分钟后，用夹子将牛小排取出并放在一旁。将红葡萄酒、浓缩番茄膏和高汤加入锅中，搅拌混合。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "After 15 minutes, use tongs to remove short ribs from the pot and set aside. Add wine, tomato paste, and stock to the pot. Stir to combine."
+      },
+      {
+        "number": 5,
+        "text": "将洋葱、胡萝卜、大蒜、蘑菇、土豆和迷迭香加入锅中，搅拌混合。将牛肉放回锅中，每块嵌入蔬菜混合物内，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Add the onion, carrots, garlic, mushrooms, potatoes, and rosemary to the pot and stir to combine. Place the beef back into the pot, nestling each piece into the vegetable mixture, then cover with the lid."
+      },
+      {
+        "number": 6,
+        "text": "旋钮转至 BRAISE，温度设为 HI，时间设为 4 小时，按 START/STOP 开始烹饪。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-19"
+        ],
+        "originalText": "Turn dial to BRAISE, set temperature to HI, and set time to 4 hours, and press START/STOP to begin cooking."
+      },
+      {
+        "number": 7,
+        "text": "烹饪完成后，小心移开锅盖，让菜肴在台面上稍微冷却 5 分钟再食用。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, carefully remove the lid and allow dish to cool slightly on the counter for 5 minutes before serving."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "可在第 5 步用任意根茎蔬菜，例如芜菁甘蓝或欧洲防风根，替换土豆。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-02",
+      "SR-19"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      },
+      {
+        "number": 24,
+        "text": "注意：使用 Braise 时，内锅和锅盖会很热。触碰热表面及取出食物时应小心，以免烫伤。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #24",
+          "type": "official"
+        }
+      },
+      {
+        "number": 34,
+        "text": "注意：热锅可能损坏台面或桌面。将热内锅从机器中取出时，不要直接放在没有保护的表面上。始终放在隔热垫或架子上。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #34",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "BRAISED BEEF SHORT RIBS\nPREP: 15 MINUTES | COOK: 4 HOURS 15 MINUTES | MAKES: 4 SERVINGS\nINGREDIENTS DIRECTIONS\n4 pounds bone-in beef short ribs 1 Season the beef on all sides with salt and pepper,\n(approx. 6 pieces) then coat with flour.\nKosher salt, as desired 2 Remove the lid from the pot. Turn dial to\nGround black pepper, as desired SEAR/SAUTÉ, set temperature to HI, and press\n1/4 cup all-purpose flour START/STOP to begin preheating. Allow the unit\nto preheat for 5 minutes.\n1 tablespoon canola oil\n3 When preheating is complete, add the canola\n1 cup red wine\noil and seasoned beef to the pot. Cook uncovered\n2 tablespoons tomato paste\nuntil the beef is browned on all sides, about\n3 cups beef stock 15 minutes.\n1 white onion, peeled, chopped 4 After 15 minutes, use tongs to remove short ribs\n5 carrots, peeled, thinly sliced from the pot and set aside. Add wine, tomato\n4 cloves garlic, peeled, minced paste, and stock to the pot. Stir to combine.\n1 package (10 ounces) 5 Add the onion, carrots, garlic, mushrooms,\ncremini mushrooms, stemmed, quartered potatoes, and rosemary to the pot and stir\n2 Idaho potatoes, cut in 1-inch pieces to combine. Place the beef back into the pot,\nnestling each piece into the vegetable mixture,\n2 sprigs rosemary, stemmed, leaves minced\nthen cover with the lid.\n6 Turn dial to BRAISE, set temperature to HI, and\nset time to 4 hours, and press START/STOP to\nbegin cooking.\n7 When cooking is complete, carefully remove the\nlid and allow dish to cool slightly on the counter\nfor 5 minutes before serving.\nTIP S ubstitute any root vegetable, like rutabaga or\nparsnips, for the potatoes in Step 5.\nQuestions? ninjakitchen.com 19\nEntrées\nDAIRY-FREE NUT-FREE\nINTERMEDIATE RECIPE",
+    "originalIngredientsText": "4 pounds bone-in beef short ribs\n(approx. 6 pieces)\nKosher salt, as desired\nGround black pepper, as desired\n1/4 cup all-purpose flour\n1 tablespoon canola oil\n1 cup red wine\n2 tablespoons tomato paste\n3 cups beef stock\n1 white onion, peeled, chopped\n5 carrots, peeled, thinly sliced\n4 cloves garlic, peeled, minced\n1 package (10 ounces)\ncremini mushrooms, stemmed, quartered\n2 Idaho potatoes, cut in 1-inch pieces\n2 sprigs rosemary, stemmed, leaves minced",
+    "originalHeader": "PREP: 15 MINUTES | COOK: 4 HOURS 15 MINUTES | MAKES: 4 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "chicken-pot-pie",
+    "title": "Chicken Pot Pie",
+    "titleZh": "鸡肉馅派",
+    "category": "主菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 12,
+      "printedPage": "20",
+      "section": "Chicken Pot Pie",
+      "type": "official"
+    },
+    "prep": "10 MINUTES",
+    "cook": "1 HOUR 5 MINUTES",
+    "makes": "8 SERVINGS",
+    "proof": null,
+    "functions": [
+      "sear-saute",
+      "bake"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "1 tablespoon 菜籽油",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "1 个大白洋葱，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "3 根芹菜茎，切碎",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "1 包（8 ounces）褐蘑菇（cremini），去柄、切片",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "1 只转叉烤鸡（3 pounds），取下鸡肉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1 1/2 cups 全脂牛奶",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "2 罐（10½ ounces）奶油鸡汤",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "1 袋（16 ounces）冷冻混合蔬菜",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "1 teaspoon 禽肉调味料",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "Kosher salt（粗盐），按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 11,
+        "text": "黑胡椒粉，按需",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 12,
+        "text": "1 盒（14 ounces）现成派皮",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "移开锅盖。旋钮转至 SEAR/SAUTÉ，温度设为 HI，按 START/STOP 开始预热。预热 5 分钟。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Remove the lid from the pot. Turn dial to SEAR/ SAUTÉ, set temperature to HI, and select START/ STOP to begin preheating. Allow the unit to preheat for 5 minutes."
+      },
+      {
+        "number": 2,
+        "text": "预热完成后，将油、洋葱、芹菜和蘑菇放入锅中，不盖盖烹饪 10 分钟，偶尔搅拌。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When preheating is complete, place oil, onion, celery, and mushrooms in the pot and cook uncovered for 10 minutes, stirring occasionally."
+      },
+      {
+        "number": 3,
+        "text": "将除派皮之外的所有剩余食材放入锅中，搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Place all remaining ingredients except for pie crust in the pot. Stir to combine, then cover with the lid."
+      },
+      {
+        "number": 4,
+        "text": "旋钮转至 BAKE，温度设为 350°F，时间设为 15 分钟，按 START/STOP 继续烹饪。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to BAKE, set temperature to 350°F, set time to 15 minutes, and select START/STOP to continue cooking."
+      },
+      {
+        "number": 5,
+        "text": "馅料烹饪时，将传统烤箱预热至 375°F。",
+        "place": "传统烤箱",
+        "reviewIds": [],
+        "originalText": "While the filling is cooking, preheat conventional oven to 375°F."
+      },
+      {
+        "number": 6,
+        "text": "烹饪完成后，搅拌馅料，确保食材未粘在锅底，然后将内锅移离热源。",
+        "place": "内锅操作",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, stir filling to ensure ingredients are not stuck to the bottom of the pot, then remove the pot from heat."
+      },
+      {
+        "number": 7,
+        "text": "将派皮裁成锅的形状，保留多余边料。把派皮铺在鸡肉派馅料上，沿锅边捏紧派皮边缘。",
+        "place": "内锅操作",
+        "reviewIds": [],
+        "originalText": "Cut pie crusts into the shape of the pot. Reserve any extra pie crust trim. Place the pie crusts over the top of chicken pot pie filling. Crimp the edges of the crust along the sides of the pot."
+      },
+      {
+        "number": 8,
+        "text": "按需用多余派皮修补空洞，再用刀在派皮顶部划出 4 道口子。",
+        "place": "内锅操作",
+        "reviewIds": [],
+        "originalText": "Use the excess pie crust to patch any holes in the crust as necessary, then use a knife to cut 4 slits in the top of the pie crust."
+      },
+      {
+        "number": 9,
+        "text": "将整个内锅（不带锅盖）放入传统烤箱，烘烤 40 分钟，直到派皮完全烤熟。",
+        "place": "传统烤箱",
+        "reviewIds": [],
+        "originalText": "Place the entire pot (without the lid) into the conventional oven and bake for 40 minutes, until pie crust has completely cooked."
+      },
+      {
+        "number": 10,
+        "text": "烹饪完成后立即食用。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, serve the pot pie immediately."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "馅料稍微冷却几分钟后，最容易铺装派皮。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-02",
+      "SR-17"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": true,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      },
+      {
+        "number": 33,
+        "text": "不要使用 SharkNinja 未推荐或未销售的配件。不要将配件放入微波炉、台式烤箱、热风烤箱、传统烤箱，也不要放在陶瓷炉面、电热盘、燃气炉或户外烤架上。使用未经推荐的配件可能引起火灾、触电或受伤。",
+        "place": "",
+        "reviewIds": [
+          "SR-17"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #33",
+          "type": "official"
+        }
+      },
+      {
+        "number": 34,
+        "text": "注意：热锅可能损坏台面或桌面。将热内锅从机器中取出时，不要直接放在没有保护的表面上。始终放在隔热垫或架子上。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #34",
+          "type": "official"
+        }
+      },
+      {
+        "number": 46,
+        "text": "烹饪中或刚结束时不要触碰配件，因为配件会非常热。为防烫伤或其他伤害，操作产品时始终小心。使用长柄器具、防烫垫或隔热烤箱手套。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #46",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "CHICKEN POT PIE\nPREP: 10 MINUTES | COOK: 1 HOUR 5 MINUTES | MAKES: 8 SERVINGS\nINGREDIENTS DIRECTIONS\n1 tablespoon canola oil 1 Remove the lid from the pot. Turn dial to SEAR/\n1 large white onion, chopped SAUTÉ, set temperature to HI, and select START/\nSTOP to begin preheating. Allow the unit to\n3 celery stalks, chopped\npreheat for 5 minutes.\n1 package (8 ounces) cremini mushrooms,\nstemmed and sliced 2 When preheating is complete, place oil, onion,\ncelery, and mushrooms in the pot and cook\n1 rotisserie chicken (3 pounds), meat picked\nuncovered for 10 minutes, stirring occasionally.\n1 1/2 cups whole milk\n3 Place all remaining ingredients except for pie\n2 cans (101/2 ounces) cream of chicken soup\ncrust in the pot. Stir to combine, then cover with\n1 bag (16 ounces) frozen mixed vegetables the lid.\n1 teaspoon poultry seasoning 4 Turn dial to BAKE, set temperature to 350°F, set\nKosher salt, as desired time to 15 minutes, and select START/STOP to\nGround black pepper, as desired continue cooking.\n1 box (14 ounces) prepared pie crust 5 While the filling is cooking, preheat conventional\noven to 375°F.\n6 When cooking is complete, stir filling to ensure\ningredients are not stuck to the bottom of the\npot, then remove the pot from heat.\n7 Cut pie crusts into the shape of the pot. Reserve\nany extra pie crust trim. Place the pie crusts over\nthe top of chicken pot pie filling. Crimp the edges\nof the crust along the sides of the pot.\n8 Use the excess pie crust to patch any holes in the\ncrust as necessary, then use a knife to cut 4 slits\nin the top of the pie crust.\n9 Place the entire pot (without the lid) into the\nconventional oven and bake for 40 minutes, until\npie crust has completely cooked.\n10 When cooking is complete, serve the pot\nTIP I t’s easiest to assemble the crust after the filling pie immediately.\nhas cooled for a few minutes.\n20\nseértnE\nNUT-FREE\nADVANCED RECIPE",
+    "originalIngredientsText": "1 tablespoon canola oil\n1 large white onion, chopped\n3 celery stalks, chopped\n1 package (8 ounces) cremini mushrooms,\nstemmed and sliced\n1 rotisserie chicken (3 pounds), meat picked\n1 1/2 cups whole milk\n2 cans (101/2 ounces) cream of chicken soup\n1 bag (16 ounces) frozen mixed vegetables\n1 teaspoon poultry seasoning\nKosher salt, as desired\nGround black pepper, as desired\n1 box (14 ounces) prepared pie crust",
+    "originalHeader": "PREP: 10 MINUTES | COOK: 1 HOUR 5 MINUTES | MAKES: 8 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "spaghetti",
+    "title": "Easy Spaghetti & Meatballs",
+    "titleZh": "简易肉丸意大利面",
+    "category": "主菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 12,
+      "printedPage": "21",
+      "section": "Easy Spaghetti & Meatballs",
+      "type": "official"
+    },
+    "prep": "5 MINUTES",
+    "cook": "45 MINUTES",
+    "makes": "12–15 SERVINGS",
+    "proof": null,
+    "functions": [
+      "bake"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "6 cups 水",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "2 盒意大利细长面（每盒 16 ounces），折成两半",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "2 瓶红色意面酱（每瓶 24 ounces）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "2 包冷冻肉丸（每包 24 ounces）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "磨碎的帕尔马干酪，按需",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将水倒入锅中，加入意面、酱汁和肉丸，搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Pour water into the pot. Add spaghetti, sauce, and meatballs. Stir to combine, then cover with the lid."
+      },
+      {
+        "number": 2,
+        "text": "旋钮转至 BAKE，温度设为 350°F，时间设为 45 分钟。按 START/STOP 开始烹饪。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to BAKE, set temperature to 350°F, and set time to 45 minutes. Press START/STOP to begin cooking."
+      },
+      {
+        "number": 3,
+        "text": "烹饪时经常搅拌食材（至少三次），以免粘锅。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "While cooking, stir ingredients frequently (at least three times) to prevent sticking."
+      },
+      {
+        "number": 4,
+        "text": "烹饪完成后立即食用，可按需撒上磨碎的帕尔马干酪。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, serve immediately and top with grated Parmesan as desired."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "若使用较稀的酱汁，将水减至 3¾ cups。若使用全谷物或较粗的意面，烹饪时间增加 2–5 分钟。",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "为确保意面正确煮熟并避免锅底烧焦，在第 3 步中至少搅拌食材 3 次。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [],
+    "reviewStatus": "TRANSCRIBED_PENDING_USER_REVIEW",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [],
+    "originalText": "EASY SPAGHETTI & MEATBALLS\nPREP: 5 MINUTES | COOK: 45 MINUTES | MAKES: 12–15 SERVINGS\nINGREDIENTS DIRECTIONS\n6 cups water 1 Pour water into the pot. Add spaghetti, sauce,\n2 boxes (16 ounces each) spaghetti, and meatballs. Stir to combine, then cover with\nbroken in half the lid.\n2 jars (24 ounces each) red pasta sauce 2 Turn dial to BAKE, set temperature to 350°F, and\n2 packages (24 ounces each) frozen meatballs set time to 45 minutes. Press START/STOP to\nbegin cooking.\nGrated Parmesan cheese, as desired\n3 While cooking, stir ingredients frequently (at least\nthree times) to prevent sticking.\n4 When cooking is complete, serve immediately\nand top with grated Parmesan as desired.\nTIP I f using a thin sauce, reduce water to 3¾ cups. For\nwhole-grain and thicker pastas, increase cooking\ntime by 2–5 minutes.\nTIP T o ensure spaghetti cooks correctly and to\nprevent scorching on the bottom of the pot, stir\ningredients at least 3 times during step 3.\nQuestions? ninjakitchen.com 21\nEntrées\nNUT-FREE\nBEGINNER RECIPE",
+    "originalIngredientsText": "6 cups water\n2 boxes (16 ounces each) spaghetti,\nbroken in half\n2 jars (24 ounces each) red pasta sauce\n2 packages (24 ounces each) frozen meatballs\nGrated Parmesan cheese, as desired",
+    "originalHeader": "PREP: 5 MINUTES | COOK: 45 MINUTES | MAKES: 12–15 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "pot-roast",
+    "title": "Sunday Pot Roast",
+    "titleZh": "周日慢炖牛肉",
+    "category": "主菜",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 13,
+      "printedPage": "22",
+      "section": "Sunday Pot Roast",
+      "type": "official"
+    },
+    "prep": "10 MINUTES",
+    "cook": "5 HOURS 30 MINUTES",
+    "makes": "8 SERVINGS",
+    "proof": null,
+    "functions": [
+      "slow-cook"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "2 块牛后腿眼肉（beef eye rounds，每块 2 1/2 pounds）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "1/4 cup 中筋面粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "3 根大胡萝卜，去皮、切成 1-inch 块",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "4 根芹菜茎，修整、切成 1-inch 块",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "1 个白洋葱，去皮、切成 1-inch 块",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "3 cups 牛肉高汤",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "1/4 cup 酱油",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "1 cup 红葡萄酒",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "1 罐（14 1/2 ounces）火烤番茄丁",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "3 枝新鲜百里香",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 11,
+        "text": "2 枝新鲜迷迭香",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将牛肉放在盘子或砧板上，各面裹上面粉。将牛肉及全部剩余食材放入锅中，然后盖盖。",
+        "place": "准备／锅具",
+        "reviewIds": [],
+        "originalText": "Place the beef on a plate or cutting board and coat with flour on all sides. Place the beef and all remaining ingredients in the pot, then cover with the lid."
+      },
+      {
+        "number": 2,
+        "text": "旋钮转至 SLOW COOK，温度设为 HI，时间设为 5 小时 30 分钟，按 START/STOP 开始烹饪。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to SLOW COOK, set temperature to HI, set time to 5 hours and 30 minutes, and press START/STOP to begin cooking."
+      },
+      {
+        "number": 3,
+        "text": "烹饪完成后，让牛肉在锅内静置 15 分钟，使牛肉吸收部分烹饪液。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, allow the beef to rest in the pot for 15 minutes to allow some of the cooking liquids to be absorbed into the beef."
+      },
+      {
+        "number": 4,
+        "text": "将牛肉从锅中取出、切片，与烹饪液和蔬菜一起食用。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "Remove the beef from the pot, slice, and serve with cooking liquids and vegetables."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "若要增加风味，可在第 2 步之前用 SEAR/SAUTÉ 将牛肉各面煎至上色。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [],
+    "reviewStatus": "TRANSCRIBED_PENDING_USER_REVIEW",
+    "usesOven": false,
+    "optionalFunctions": [
+      "sear-saute"
+    ],
+    "safetyWarnings": [
+      {
+        "number": 22,
+        "text": "注意：Sear/Sauté 会达到高温。无人看管时，食物可能烧焦。触碰热表面及取出食物时应小心，以免烫伤。使用 Sear/Sauté 时不要盖盖，不要让机器无人看管。",
+        "place": "",
+        "reviewIds": [
+          "SR-01"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #22",
+          "type": "official"
+        }
+      },
+      {
+        "number": 25,
+        "text": "煎肉和炒菜时应小心。手和脸要远离可拆卸内锅，尤其是添加新食材时，因为热油可能飞溅。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #25",
+          "type": "official"
+        }
+      },
+      {
+        "number": 39,
+        "text": "可拆卸内锅中没有食物和液体时，切勿使用 SLOW COOK。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #39",
+          "type": "official"
+        }
+      },
+      {
+        "number": 50,
+        "text": "使用 SLOW COOK 时，始终保持锅盖关闭。",
+        "place": "",
+        "reviewIds": [
+          "SR-15"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #50",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "SUNDAY POT ROAST\nPREP: 10 MINUTES | COOK: 5 HOURS 30 MINUTES | MAKES: 8 SERVINGS\nINGREDIENTS DIRECTIONS\n2 beef eye rounds (2 1/2 pounds each) 1 Place the beef on a plate or cutting board and\n1/4 cup all-purpose flour coat with flour on all sides. Place the beef and all\nremaining ingredients in the pot, then cover with\n3 large carrots, peeled, cut in 1-inch pieces\nthe lid.\n4 celery stalks, trimmed, cut in 1-inch pieces\n2 Turn dial to SLOW COOK, set temperature to HI,\n1 white onion, peeled, cut in 1-inch pieces\nset time to 5 hours and 30 minutes, and press\n3 cups beef stock START/STOP to begin cooking.\n1/4 cup soy sauce\n3 When cooking is complete, allow the beef to rest\n1 cup red wine in the pot for 15 minutes to allow some of the\n1 can (14 1/2 ounces) fire roasted, diced tomatoes cooking liquids to be absorbed into the beef.\n3 sprigs fresh thyme 4 Remove the beef from the pot, slice, and serve\n2 sprigs fresh rosemary with cooking liquids and vegetables.\nTIP F or additional flavor, brown the beef on all sides\nusing SEAR/SAUTÉ before Step 2.\n22\nseértnE\nDAIRY-FREE NUT-FREE\nBEGINNER RECIPE",
+    "originalIngredientsText": "2 beef eye rounds (2 1/2 pounds each)\n1/4 cup all-purpose flour\n3 large carrots, peeled, cut in 1-inch pieces\n4 celery stalks, trimmed, cut in 1-inch pieces\n1 white onion, peeled, cut in 1-inch pieces\n3 cups beef stock\n1/4 cup soy sauce\n1 cup red wine\n1 can (14 1/2 ounces) fire roasted, diced tomatoes\n3 sprigs fresh thyme\n2 sprigs fresh rosemary",
+    "originalHeader": "PREP: 10 MINUTES | COOK: 5 HOURS 30 MINUTES | MAKES: 8 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "berry-crisp",
+    "title": "Summer Berry Crisp",
+    "titleZh": "夏日莓果酥",
+    "category": "甜点",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 14,
+      "printedPage": "24",
+      "section": "Summer Berry Crisp",
+      "type": "official"
+    },
+    "prep": "10 MINUTES",
+    "cook": "1 HOUR",
+    "makes": "6–8 SERVINGS",
+    "proof": null,
+    "functions": [
+      "bake"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "2 cups 新鲜覆盆子",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 2,
+        "text": "3 cups 新鲜草莓，切半",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "2 cups 新鲜蓝莓",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "3 tablespoons 柠檬汁",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "3/4 cup 细砂糖",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "2 1/2 tablespoons 玉米淀粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "酥粒 CRUMBLE：1 cup 中筋面粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "酥粒：3/4 cup 燕麦片",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "酥粒：1 cup 深色红糖",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "酥粒：1/4 teaspoon Kosher salt（粗盐）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 11,
+        "text": "酥粒：1½ teaspoons 肉桂粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 12,
+        "text": "酥粒：1 teaspoon 泡打粉",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 13,
+        "text": "酥粒：1½ sticks（3/4 cup）无盐黄油，融化",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 14,
+        "text": "酥粒：3/4 cup 切碎的碧根果",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 15,
+        "text": "配料（可选）：香草冰淇淋",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 16,
+        "text": "配料（可选）：打发奶油",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将传统烤箱预热至 350°F。",
+        "place": "传统烤箱",
+        "reviewIds": [],
+        "originalText": "Preheat conventional oven to 350°F."
+      },
+      {
+        "number": 2,
+        "text": "将所有馅料食材放入锅中，搅拌混合，然后盖盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Place all filling ingredients in the pot. Stir to combine, then cover with the lid."
+      },
+      {
+        "number": 3,
+        "text": "旋钮转至 BAKE，温度设为 300°F，时间设为 30 分钟。按 START/STOP 开始烹饪。烹饪期间至少搅拌锅内食材 3 次。15 分钟后移开锅盖。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Turn dial to BAKE, set temperature to 300°F, and set time to 30 minutes. Press START/STOP to begin cooking. Stir contents of pot at least 3 times during cooking. Remove lid after 15 minutes."
+      },
+      {
+        "number": 4,
+        "text": "馅料烹饪时，在大碗中将面粉、燕麦片、糖、盐、肉桂和泡打粉混合。加入融化的黄油和碧根果，混合至食材融合并呈碎粒状。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "While the filling is cooking, whisk together the flour, oats, sugar, salt, cinnamon, and baking powder in a large bowl. Add melted butter and pecans, then mix until the ingredients are combined and crumbly."
+      },
+      {
+        "number": 5,
+        "text": "烹饪完成后，将酥粒均匀铺在莓果混合物上。",
+        "place": "内锅操作",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, evenly distribute the crumble topping over the berry mixture."
+      },
+      {
+        "number": 6,
+        "text": "将整个内锅（不带锅盖）放入传统烤箱，烘烤 30 分钟，直到酥粒香脆、呈金黄色。",
+        "place": "传统烤箱",
+        "reviewIds": [],
+        "originalText": "Place the entire pot (without the lid) into the conventional oven and bake for 30 minutes, until crumble topping is crisp and golden brown."
+      },
+      {
+        "number": 7,
+        "text": "烹饪完成后，让莓果酥冷却 5 分钟。按需搭配冰淇淋和打发奶油食用。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "When cooking is complete, allow the berry crisp to cool for 5 minutes. Serve with ice cream and whipped cream, as desired."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "若使用冷冻莓果，第 3 步烹饪时间增加 5 分钟。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-17"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": true,
+    "optionalFunctions": [],
+    "safetyWarnings": [
+      {
+        "number": 33,
+        "text": "不要使用 SharkNinja 未推荐或未销售的配件。不要将配件放入微波炉、台式烤箱、热风烤箱、传统烤箱，也不要放在陶瓷炉面、电热盘、燃气炉或户外烤架上。使用未经推荐的配件可能引起火灾、触电或受伤。",
+        "place": "",
+        "reviewIds": [
+          "SR-17"
+        ],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #33",
+          "type": "official"
+        }
+      },
+      {
+        "number": 34,
+        "text": "注意：热锅可能损坏台面或桌面。将热内锅从机器中取出时，不要直接放在没有保护的表面上。始终放在隔热垫或架子上。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #34",
+          "type": "official"
+        }
+      },
+      {
+        "number": 46,
+        "text": "烹饪中或刚结束时不要触碰配件，因为配件会非常热。为防烫伤或其他伤害，操作产品时始终小心。使用长柄器具、防烫垫或隔热烤箱手套。",
+        "place": "",
+        "reviewIds": [],
+        "source": {
+          "document": "ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf",
+          "pdfPage": 2,
+          "printedPage": "1",
+          "section": "Important Safety Instructions #46",
+          "type": "official"
+        }
+      }
+    ],
+    "originalText": "SUMMER BERRY CRISP\nPREP: 10 MINUTES | COOK: 1 HOUR | MAKES: 6–8 SERVINGS\nINGREDIENTS DIRECTIONS\n2 cups fresh raspberries 1 Preheat conventional oven to 350°F.\n3 cups fresh strawberries, halved 2 Place all filling ingredients in the pot. Stir to\n2 cups fresh blueberries combine, then cover with the lid.\n3 tablespoons lemon juice 3 Turn dial to BAKE, set temperature to 300°F,\n3/4 cup granulated sugar and set time to 30 minutes. Press START/STOP\nto begin cooking. Stir contents of pot at least 3\n2 1/2 tablespoons corn starch\ntimes during cooking. Remove lid after 15 minutes.\nCRUMBLE 4 While the filling is cooking, whisk together the\nflour, oats, sugar, salt, cinnamon, and baking\n1 cup all-purpose flour powder in a large bowl. Add melted butter\n3/4 cup rolled oats and pecans, then mix until the ingredients are\n1 cup dark brown sugar combined and crumbly.\n1/4 teaspoon kosher salt 5 When cooking is complete, evenly distribute the\ncrumble topping over the berry mixture.\n1 ½ teaspoons ground cinnamon\n1 teaspoon baking powder 6 Place the entire pot (without the lid) into the\nconventional oven and bake for 30 minutes, until\n1 ½ sticks (3/4 cup) unsalted butter, melted\ncrumble topping is crisp and golden brown.\n3/4 cup chopped pecans\n7 When cooking is complete, allow the berry crisp\nto cool for 5 minutes. Serve with ice cream and\nTOPPINGS (optional)\nwhipped cream, as desired.\nVanilla ice cream\nWhipped cream\n24\nstresseD\nVEGETARIAN\nV\nINTERMEDIATE RECIPE\nTIP I f using frozen berries, increase cook time in step\n3 by 5 mins.",
+    "originalIngredientsText": "2 cups fresh raspberries\n3 cups fresh strawberries, halved\n2 cups fresh blueberries\n3 tablespoons lemon juice\n3/4 cup granulated sugar\n2 1/2 tablespoons corn starch\nCRUMBLE\n1 cup all-purpose flour\n3/4 cup rolled oats\n1 cup dark brown sugar\n1/4 teaspoon kosher salt\n1 ½ teaspoons ground cinnamon\n1 teaspoon baking powder\n1 ½ sticks (3/4 cup) unsalted butter, melted\n3/4 cup chopped pecans\nTOPPINGS (optional)\nVanilla ice cream\nWhipped cream",
+    "originalHeader": "PREP: 10 MINUTES | COOK: 1 HOUR | MAKES: 6–8 SERVINGS INGREDIENTS"
+  },
+  {
+    "id": "bread-pudding",
+    "title": "Caramel Raisin Bread Pudding",
+    "titleZh": "焦糖葡萄干面包布丁",
+    "category": "甜点",
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 14,
+      "printedPage": "25",
+      "section": "Caramel Raisin Bread Pudding",
+      "type": "official"
+    },
+    "prep": "15 MINUTES",
+    "cook": "1 HOUR 15 MINUTES",
+    "makes": "12 SERVINGS",
+    "proof": null,
+    "functions": [
+      "bake"
+    ],
+    "ingredients": [
+      {
+        "number": 1,
+        "text": "2 条（16 ounces）肉桂布里欧修面包，切成 1-inch 块；重量含义待核实",
+        "place": "",
+        "reviewIds": [
+          "SR-09"
+        ]
+      },
+      {
+        "number": 2,
+        "text": "1 cup 深色或金色葡萄干",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 3,
+        "text": "4 个大鸡蛋",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 4,
+        "text": "1/2 cup 浅色红糖",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 5,
+        "text": "1/4 cup 枫糖浆",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 6,
+        "text": "1/4 cup 现成焦糖酱，另备一些作淋酱",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 7,
+        "text": "1 1/2 sticks（3/4 cup）无盐黄油，融化",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 8,
+        "text": "1 1/2 cups 全脂牛奶",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 9,
+        "text": "1 1/2 cups 高脂奶油（heavy cream）",
+        "place": "",
+        "reviewIds": []
+      },
+      {
+        "number": 10,
+        "text": "1 teaspoon 香草精",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "steps": [
+      {
+        "number": 1,
+        "text": "将面包放入锅中，把葡萄干撒在面包上。",
+        "place": "锅具",
+        "reviewIds": [],
+        "originalText": "Place the bread in the pot. Sprinkle raisins on top of the bread."
+      },
+      {
+        "number": 2,
+        "text": "在大碗中，将所有剩余食材充分搅打混合成蛋奶液。",
+        "place": "准备",
+        "reviewIds": [],
+        "originalText": "In a large bowl, make a custard by whisking together all remaining ingredients until fully combined."
+      },
+      {
+        "number": 3,
+        "text": "将蛋奶液倒在面包上，用刮刀确保均匀分布。盖盖静置 10 分钟，直到面包吸收全部蛋奶液。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-13"
+        ],
+        "originalText": "Pour the custard over the bread, using a spatula to ensure it is evenly distributed. Cover with the lid and allow to sit for 10 minutes, until the bread absorbs all the custard."
+      },
+      {
+        "number": 4,
+        "text": "旋钮转至 BAKE，温度设为 350°F，时间设为 40 分钟，按 START/STOP 开始烹饪。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-13"
+        ],
+        "originalText": "Turn dial to BAKE, set temperature to 350°F, set time to 40 minutes, and press START/STOP to begin cooking."
+      },
+      {
+        "number": 5,
+        "text": "烹饪完成后，让面包布丁在锅中冷却 30 分钟。",
+        "place": "锅具",
+        "reviewIds": [
+          "SR-13"
+        ],
+        "originalText": "When cooking is complete, allow the bread pudding to cool in the pot for 30 minutes."
+      },
+      {
+        "number": 6,
+        "text": "按需另淋焦糖酱，即可食用。",
+        "place": "食用",
+        "reviewIds": [],
+        "originalText": "Top the bread pudding with extra caramel sauce as desired and serve."
+      }
+    ],
+    "tips": [
+      {
+        "number": 1,
+        "text": "用烤过或放陈的面包制作面包布丁效果最好。为获得最佳效果，在计划制作的前一天将布里欧修面包切块，不加覆盖地放在台面上，直到开始制作。",
+        "place": "",
+        "reviewIds": []
+      }
+    ],
+    "reviewIds": [
+      "SR-09",
+      "SR-13"
+    ],
+    "reviewStatus": "SOURCE_REVIEW_REQUIRED",
+    "usesOven": false,
+    "optionalFunctions": [],
+    "safetyWarnings": [],
+    "originalText": "Questions? ninjakitchen.com 25\nDesserts\nCARAMEL RAISIN BREAD PUDDING\nVEGETARIAN NUT-FREE\nV\nBEGINNER RECIPE\nPREP: 15 MINUTES | COOK: 1 HOUR 15 MINUTES | MAKES: 12 SERVINGS\nINGREDIENTS DIRECTIONS\n2 loaves (16 ounces) cinnamon brioche bread, 1 Place the bread in the pot. Sprinkle raisins on top\ncut in 1-inch pieces of the bread.\n1 cup dark or golden raisins 2 In a large bowl, make a custard by whisking\n4 large eggs together all remaining ingredients until\n1/2 cup light brown sugar fully combined.\n1/4 cup maple syrup 3 Pour the custard over the bread, using a spatula\nto ensure it is evenly distributed. Cover with the\n1/4 cup prepared caramel sauce,\nlid and allow to sit for 10 minutes, until the bread\nplus extra for topping\nabsorbs all the custard.\n1 1/2 sticks (3/4 cup) unsalted butter, melted\n4 Turn dial to BAKE, set temperature to 350°F, set\n1 1/2 cups whole milk\ntime to 40 minutes, and press START/STOP to\n1 1/2 cups heavy cream\nbegin cooking.\n1 teaspoon vanilla extract\n5 When cooking is complete, allow the bread\npudding to cool in the pot for 30 minutes.\n6 Top the bread pudding with extra caramel sauce\nas desired and serve.\nTIP B read pudding is best when the bread is toasted\nor stale. For best results, cut the brioche into\npieces the day before you plan to make bread\npudding, then let it sit uncovered on the counter\nuntil it’s time to make this recipe.",
+    "originalIngredientsText": "2 loaves (16 ounces) cinnamon brioche bread,\ncut in 1-inch pieces\n1 cup dark or golden raisins\n4 large eggs\n1/2 cup light brown sugar\n1/4 cup maple syrup\n1/4 cup prepared caramel sauce,\nplus extra for topping\n1 1/2 sticks (3/4 cup) unsalted butter, melted\n1 1/2 cups whole milk\n1 1/2 cups heavy cream\n1 teaspoon vanilla extract",
+    "originalHeader": "PREP: 15 MINUTES | COOK: 1 HOUR 15 MINUTES | MAKES: 12 SERVINGS INGREDIENTS"
+  }
+]

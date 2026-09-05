@@ -1,0 +1,11 @@
+{
+  "src/data/manual/articles.json": "7264abfcbdbdea4bcd6cb0805e3cdf4d9f3025c8ead670847f4c94d0f35cf370",
+  "src/data/manual/functions.json": "9aa8e35900c584fb72e38c0e936eb6ec1ebb43ee4dc4ce6456b3147d1a91ec88",
+  "src/data/official/charts.json": "541b3247f77f812c9b5e5c3bf8860fbb660e19543ae9c7a97d48f47b3a774af7",
+  "src/data/official/recipes.json": "e4828c6e8e44fe73d88f5c4833479e1d51381beab65de1b95e68696428abe34c",
+  "src/data/chinese-context/context.json": "ed19cf5a3b94729e40f823eda78876b6b67cce9626212c137e246867313e40aa",
+  "src/data/source-reviews.json": "9a30caa231f305d81105f7528171fae0e7cbfa2f33509dfe5d5bdc6552c74674",
+  "src/data/source-manifest.json": "8b395f572ff7bc8ed89b2e7a6f3ac7249b586d63775d7635373f6b85b178abe4",
+  "public/sources/ninja-foodi-possiblecooker-pro-mc1001-a-manual.pdf": "7bc248a3363f18669abdcf116814f3cb971d347a9aa1122c787b16f297770997",
+  "public/sources/ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf": "cc63983a15965985a867020c4f16f0cd44611a43f6509534a6f6b86439ed1a94"
+}

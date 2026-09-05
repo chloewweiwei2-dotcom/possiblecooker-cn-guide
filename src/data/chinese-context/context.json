@@ -1,0 +1,140 @@
+[
+  {
+    "id": "frittata",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“先炒配料，再让蛋液凝固”的思路理解。这里仅帮助理解先后关系，不改变上方原始做法；盖盖冲突请看来源提示。"
+  },
+  {
+    "id": "oatmeal",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“先加热液体，再慢炖燕麦”的思路理解。不要把它当作另一份中式粥配方；模式切换和盖盖问题以上方提示为准。"
+  },
+  {
+    "id": "focaccia",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“先醒发面团，再烤制”的思路理解。发酵与烘烤是不同阶段，本菜的烤制在传统烤箱完成。"
+  },
+  {
+    "id": "minestrone",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“先炒香蔬菜，再与汤和面同煮”的思路理解；锅上的 BAKE 名称不代表这一步是在传统烤箱中完成。"
+  },
+  {
+    "id": "deviled-eggs",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可以理解为先处理熟蛋，再把蛋黄调成馅、填回蛋白。原文中碗和步骤引用的疑点保留，不据此补写操作。"
+  },
+  {
+    "id": "risotto",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“先炒香配料，再让米吸收汤汁”的思路理解。不能因此更换米种或套用平常煮饭的参数。"
+  },
+  {
+    "id": "coconut-chicken",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“先煎鸡皮，再加液体焖”的思路理解。菠菜何时加入以及红薯用词问题，均不在辅助解释中补全。"
+  },
+  {
+    "id": "buffalo-mac",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“先煮、拌匀，再烤表面”的思路理解。最后的上火炙烤使用传统烤箱，不是锅具新增的功能。"
+  },
+  {
+    "id": "pulled-pork",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“长时间炖至易撕开，再拌回部分汁液”的思路理解。肉块大小会影响时间，但本说明不新增时间或设置。"
+  },
+  {
+    "id": "short-ribs",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "与“先煎香上色，再加液体长时间焖”的中式思路相近。只作技法对照，不替换红酒、调料或官方时间。"
+  },
+  {
+    "id": "chicken-pot-pie",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“先做馅，再盖派皮烤熟”的思路理解。派皮烘烤是在传统烤箱中完成。"
+  },
+  {
+    "id": "spaghetti",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“面条与酱汁同锅煮”的思路理解。原文的搅拌要求保留，不按其他面条的经验改变用水量。"
+  },
+  {
+    "id": "pot-roast",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“肉和蔬菜同锅慢炖”的思路理解。官方 TIP 是独立可选提示，不将它插入或重排原始步骤。"
+  },
+  {
+    "id": "berry-crisp",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可以分成锅内处理水果馅、传统烤箱烤脆酥粒两个部分来理解。这里不改变任一阶段参数。"
+  },
+  {
+    "id": "bread-pudding",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可用“让面包吸收蛋奶液，再加热定型”的思路理解。标题时间和各步骤时间分别保留，不合并成新的总时间。"
+  },
+  {
+    "id": "slow-cook",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可与长时间慢炖的思路对照理解，但不能套用其他锅具的时间或液体量。"
+  },
+  {
+    "id": "sear-saute",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可与炉灶上的煎、炒香和上色对照理解。盖盖问题存在官方冲突，请先阅读上方安全警告。"
+  },
+  {
+    "id": "braise",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可与“先煎香，再加液体焖”的思路对照理解，不把中式焖菜参数移入本机。"
+  },
+  {
+    "id": "sous-vide",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可理解为把密封袋里的食物置于控温水浴中慢慢加热，不等同于直接在汤里炖。"
+  },
+  {
+    "id": "steam",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可与蒸制思路对照理解，水量和操作仍以原文为准。"
+  },
+  {
+    "id": "bake",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可理解为锅内烘烤／焗制的功能名称。它与菜谱中的传统烤箱操作需要分开看。"
+  },
+  {
+    "id": "proof",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可与面团醒发的思路对照理解；不据此新增面团配方或发酵参数。"
+  },
+  {
+    "id": "keep-warm",
+    "sourceType": "editorial",
+    "label": "中式烹饪理解（非 Ninja 官方）",
+    "text": "可理解为已熟食物的温热保持。这里不增加原文没有给出的安全时限或温度。"
+  }
+]

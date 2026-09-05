@@ -1,0 +1,9 @@
+node_modules/
+dist/
+*.log
+__pycache__/
+.codex/
+.agents/
+references/
+public/sources/*.pdf
+tests/browser-*.cjs

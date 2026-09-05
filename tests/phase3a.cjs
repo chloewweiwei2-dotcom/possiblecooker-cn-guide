@@ -1,0 +1,33 @@
+const {createElement,renderToString}=require('./render-content.cjs');
+const {StepCooking,FavoriteButton,Favorites}=require('../src/components/Interactive.tsx');
+const {recipes}=require('../src/data/content.ts');
+const {chineseText}=require('../src/lib/chinese-display.ts');
+const {importantParts,currentWarnings}=require('../src/lib/step-display.ts');
+const {readSaved,saveValue}=require('../src/lib/storage.ts');
+const assert=require('node:assert/strict');
+const escape=s=>s.replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;').replace(/'/g,'&#x27;');
+let count=0;
+for(const r of recipes)for(let i=0;i<r.steps.length;i++){
+ const step=r.steps[i];const text=chineseText(step.text);
+ assert.equal(importantParts(text).join(''),text,'highlight changed text');
+ const html=renderToString(createElement(StepCooking,{recipe:r,initialStep:i}));
+ const current=html.slice(html.indexOf('aria-label="做菜进度"')).split('查看全部食材与官方技巧')[0];
+ const plain=current.replace(/<span class="temperature-pair"[^>]*data-fahrenheit="([\d.-]+)"[\s\S]*?<span class="temperature-derived">换算<\/span><\/span>/g,'$1 华氏度').replace(/<!--.*?-->/g,'').replace(/<[^>]+>/g,'');
+ assert.ok(plain.includes(escape(text)),r.id+' '+step.number+' text changed');
+ assert.ok(html.includes(escape(step.originalText)),r.id+' original missing');
+ if(step.place.includes('传统烤箱'))assert.ok(current.includes('此步骤使用传统烤箱，不是在 PossibleCooker 中完成。'));
+ for(const id of currentWarnings(r,i))assert.ok(current.includes('review-notice'),r.id+' warning missing');
+ assert.ok(!current.includes('class="source-note"'),r.id+' repeated note');
+ assert.ok(html.includes('返回完整菜谱'));
+ count++;
+}
+const values=new Map();global.localStorage={getItem:k=>values.get(k)||null,setItem:(k,v)=>values.set(k,v)};
+assert.ok(saveValue('favorites',['recipe/spaghetti','slow-cook','charts/steam-chart']));
+assert.deepEqual(readSaved('favorites',[]),['recipe/spaghetti','slow-cook','charts/steam-chart']);
+assert.ok(renderToString(createElement(FavoriteButton,{route:'recipe/spaghetti'})).includes('aria-pressed="true"'));
+const favorites=renderToString(createElement(Favorites));for(const route of readSaved('favorites',[]))assert.ok(favorites.includes('#/'+route));
+saveValue('favorites',[]);assert.ok(renderToString(createElement(Favorites)).includes('还没有收藏'));
+values.set('possiblecooker.favorites','{broken');assert.deepEqual(readSaved('favorites',[]),[]);
+global.localStorage={getItem:()=>{throw Error('blocked')},setItem:()=>{throw Error('blocked')}};
+assert.deepEqual(readSaved('favorites',[]),[]);assert.equal(saveValue('favorites',[]),false);
+console.log(`PASS: ${count} unchanged steps, original text, highlights, oven labels, warnings; favorites persistence and storage failure fallback.`);

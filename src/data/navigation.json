@@ -1,0 +1,6 @@
+[
+  { "id": "manual", "title": "使用说明", "description": "按钮、模式和基础操作", "icon": "book" },
+  { "id": "recipes", "title": "官方菜谱", "description": "官方菜谱指南中的 15 道菜", "icon": "utensils" },
+  { "id": "charts", "title": "数值参考表", "description": "蒸、慢炖、低温慢煮", "icon": "chart" },
+  { "id": "tips", "title": "技巧与常见问题", "description": "官方技巧、清洁和故障排查", "icon": "help" }
+]

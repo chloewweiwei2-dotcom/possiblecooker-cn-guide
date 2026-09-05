@@ -1,0 +1,143 @@
+{
+  "frittata": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/frittata.jpg",
+    "width": 653,
+    "height": 654,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 5,
+      "imageName": "Im0.jpg"
+    }
+  },
+  "oatmeal": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/oatmeal.jpg",
+    "width": 266,
+    "height": 266,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 6,
+      "imageName": "Im1.jpg"
+    }
+  },
+  "focaccia": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/focaccia.jpg",
+    "width": 266,
+    "height": 266,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 6,
+      "imageName": "Im0.jpg"
+    }
+  },
+  "minestrone": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/minestrone.jpg",
+    "width": 653,
+    "height": 653,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 7,
+      "imageName": "Im0.jpg"
+    }
+  },
+  "deviled-eggs": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/deviled-eggs.jpg",
+    "width": 654,
+    "height": 654,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 8,
+      "imageName": "Im0.jpg"
+    }
+  },
+  "risotto": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/risotto.jpg",
+    "width": 653,
+    "height": 654,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 9,
+      "imageName": "Im0.jpg"
+    }
+  },
+  "coconut-chicken": {
+    "status": "IMAGE_REQUIRED",
+    "src": "/images/recipes/placeholder.svg",
+    "width": 800,
+    "height": 600,
+    "source": null
+  },
+  "buffalo-mac": {
+    "status": "IMAGE_REQUIRED",
+    "src": "/images/recipes/placeholder.svg",
+    "width": 800,
+    "height": 600,
+    "source": null
+  },
+  "pulled-pork": {
+    "status": "IMAGE_REQUIRED",
+    "src": "/images/recipes/placeholder.svg",
+    "width": 800,
+    "height": 600,
+    "source": null
+  },
+  "short-ribs": {
+    "status": "IMAGE_REQUIRED",
+    "src": "/images/recipes/placeholder.svg",
+    "width": 800,
+    "height": 600,
+    "source": null
+  },
+  "chicken-pot-pie": {
+    "status": "IMAGE_REQUIRED",
+    "src": "/images/recipes/placeholder.svg",
+    "width": 800,
+    "height": 600,
+    "source": null
+  },
+  "spaghetti": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/spaghetti.jpg",
+    "width": 266,
+    "height": 266,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 12,
+      "imageName": "Im0.jpg"
+    }
+  },
+  "pot-roast": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/pot-roast.jpg",
+    "width": 653,
+    "height": 653,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 13,
+      "imageName": "Im0.jpg"
+    }
+  },
+  "berry-crisp": {
+    "status": "IMAGE_REQUIRED",
+    "src": "/images/recipes/placeholder.svg",
+    "width": 800,
+    "height": 600,
+    "source": null
+  },
+  "bread-pudding": {
+    "status": "OFFICIAL_IMAGE",
+    "src": "/images/recipes/bread-pudding.jpg",
+    "width": 266,
+    "height": 262,
+    "source": {
+      "document": "ninja-foodi-possiblecooker-pro-recipes-and-cooking-charts.pdf",
+      "pdfPage": 14,
+      "imageName": "Im0.jpg"
+    }
+  }
+}
